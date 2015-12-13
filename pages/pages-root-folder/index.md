@@ -14,7 +14,7 @@ widget1:
 widget2:
   title: "About VACSF"
   url: '/info/'
-  text: '<div><img src="http://nghin.github.io/vacsf.org/images/Church_front_view.jpg" width="100%" style="border: 1px solid #cccccc"><p>&nbsp;</p><br />VACSF, <font face="Open Sans"><i>Hội Thánh Tin Lành Việt Nam</i></font>, in San Francisco, is a congregation of believers in Christ from all walks of life who assembles every Sunday to celebrate everlasting life afforded them through the Son of God who came to save the world. Please continue reading for contact, schedules, and other information.</div>'
+  text: '<div><img src="/images/Church_front_view.jpg" width="100%" style="border: 1px solid #cccccc"><p>&nbsp;</p><br />VACSF, <font face="Open Sans"><i>Hội Thánh Tin Lành Việt Nam</i></font>, in San Francisco, is a congregation of believers in Christ from all walks of life who assembles every Sunday to celebrate everlasting life afforded them through the Son of God who came to save the world. Please continue reading for contact, schedules, and other information.</div>'
 widget3:
   title: "Church Events"
   url: '/blog/'
