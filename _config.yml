@@ -27,7 +27,7 @@ author: nghin
 url: 'http://nghin.github.io/vacsf.org.dev'
 baseurl: ''
 # projectname /vacsf.org is needed if nghin.github.io is accessed directly
-projectname: ''
+projectname: '/vacsf.org'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
