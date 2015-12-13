@@ -20,8 +20,8 @@ The traditional interpretation of the phrase "Walk according to the flesh" is th
 </p>
 </div>
 
-Please click here: <a href="/bible-topics/meditations/walk-according-to-flesh/"><u><em>Walk According to the Flesh</em></u></a> to read complete article.<br />
-Xin bấm vào đầy <a href="/hoc-kinh-thanh/suy-gam/noi-theo-xac-thit/"><u><em>Noi Theo Xác Thịt</em></u></a> để đọc bản dịch Việt Ngữ.
+Please click here: <a href="{{ site.projectname }}/bible-topics/meditations/walk-according-to-flesh/"><u><em>Walk According to the Flesh</em></u></a> to read complete article.<br />
+Xin bấm vào đầy <a href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/noi-theo-xac-thit/"><u><em>Noi Theo Xác Thịt</em></u></a> để đọc bản dịch Việt Ngữ.
 
 <div class="small-12" style="padding: 0px; border-bottom: none;">
     {% include next-previous-post-in-category %}
