@@ -24,7 +24,7 @@ author: nghin
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://vacsf.org'
+url: 'http://nghin.github.io/vacsf.org.dev'
 baseurl: ''
 # projectname /vacsf.org is needed if nghin.github.io is accessed directly
 projectname: ''
@@ -39,7 +39,7 @@ improve_content: https://github.com/nghin/vacsf.org/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://vacsf.org/images/'
+urlimg: 'http://nghin.github.io/vacsf.org.dev/images/'
 
 
 # Logo size is 600x80 pixels

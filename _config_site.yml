@@ -5,10 +5,10 @@
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-url: 'http://nghin.github.io/site.vacsf.org'
+url: 'http://vacsf.org'
 baseurl: ''
 projectname: ''
-urlimg: 'http://nghin.github.io/site.vacsf.org/images/'
+urlimg: 'http://vacsf.org/images/'
 
 sass:
   # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
