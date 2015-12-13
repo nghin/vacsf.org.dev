@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-subheadline: "Ý Nghĩa Thực Của \"Noi Theo Xác Thịt\""
+subheadline: "Are you trying to use the flesh to please God?"
 title: "The True Meaning of \"Walk According to the Flesh\""
-meta_teaser: "Grieving Holy Spirit Lose Salvation"
+meta_teaser: "Walk According to the Flesh Sống Theo Xác Thịt"
 teaser: "The verse that contains the phrase \"Walk according to the flesh\" appears almost exactly in the middle of the book of Romans. It's not by chance, but by design, that this verse appears here. Its true meaning is missed by virtually all major commentaries."
 permalink: /bible-topics/meditations/walk-according-to-flesh/
 breadcrumb: true
@@ -18,7 +18,7 @@ header: no
 
 <div>
 <p>
-<img alt src="{{ site.baseurl }}{{ site.projectname }}/images/walking.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/walking.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 The traditional interpretation is "Walk according to the flesh" means the action or lifestyle that falls outside the commonly accepted set of Christian behaviors. This article attempts to show that such interpretation is inconsistent with what is being communicated by the apostle Paul; as a matter of fact, He wrote the entire book of Romans to show "Walk according to the flesh" is not about sinning or living a worldly lifestyle, but about the attempt to use the means of the flesh to serve God, or to maintain a relationship with Him.
 </p>
 </div>
@@ -96,14 +96,22 @@ Therefore the work of the New Covenant Christian is not works that come from fle
 
 So we have seen a study in contrast between the two kinds of law:
 
-- An Old Covenant based law, which Paul calls the law of sin and death, that governs our flesh, that deals with things we do or do not do, and punish us upon failures. 
+- An Old Covenant based law, which Paul calls the law of sin and death, that governs our flesh, that deals with things we do or do not do, and punish us upon failures.
 - A New Covenant based law  that requires only one thing, no more, no less, any addition to it is forbidden: faith, or in other words, trusting in no one else but Christ.
 
-It should have become rather clear that what part of the flesh is involved in walking according to the Spirit? How can one express the command to walk according to the Spirit? No, you cannot express it in any way except keep believing. Paul exhorts us to keep fixing our eyes on Christ, the beginning and the completion of your faith (Hebrews 12:2). The Hebrews in the desert must fix their eyes on the bronze snake (Numbers 21:9; John 3:14). Peter to fix his eyes on Jesus when he walked on the raging waves (Matthew 14:29-30).
+It should have become rather clear that no part of the flesh is involved in walking according to the Spirit. The question then is how can one express the command to walk according to the Spirit? No, you cannot express it in any way except to keep believing. Paul exhorts us to keep fixing our eyes on Christ, the beginning and the completion of your faith (Hebrews 12:2). The Hebrews in the desert must fix their eyes on the bronze snake (Numbers 21:9; John 3:14). Peter to fix his eyes on Jesus when he walked on the raging waves (Matthew 14:29-30).
 
 That is how we walk according to the Spirit.
 
 ### 4. Conclusion
+
+Let's consider this passage where Nicodemus came to see Jesus one evening:
+
+> <sup>1</sup>Now there was a man of the Pharisees, named Nicodemus, a ruler of the Jews; <sup>2</sup>this man came to Jesus by night and said to Him, "Rabbi, we know that You have come from God as a teacher; for no one can do these signs that You do unless God is with him." <sup>3</sup>Jesus answered and said to him, "Truly, truly, I say to you, unless one is <u>born again</u> he cannot see the kingdom of God." (John 3:1-3)
+
+Without waiting for Nicodemus to come up with a question which he may not even know how to ask, Jesus gave him an answer that his heart had been aching to hear: You must be born again. A simple but powerful proclamation that literally pulled the rug from under the man who was well versed in the Mosaic law system, who must have tried his best to adhere to every part of the law, but had a gnawing suspicion that something was amiss. He thought to himself: I have tried everything. What else can I do? What does this man mean about being born again? Going back into my mother's womb so that I may be born again?
+
+What Nicodemus was accustomed to was not any different than what many Christians do today. We almost immediately think of what we should "do" from the standpoint of the flesh. What Jesus said amounts to 
 
 I've often heard conflicting exhortation to prove my faith with some works, and then an exact opposing exhortation to not rely on my own strength. What? What am I supposed to do? Dammed if I do, damned if I don't. All these conflicting teachings lead to a very frustrating Christian experience. Imagine this frustrated Christian, loaded with guilt, trying to share their faith with others. It's easy for the person being witnessed to to spot inconsistencies in their testimonies. They needed rest for their weary soul, they sensed laborious struggle to get right with God. They needed relief for their sin sicked souls, they sensed much guilt in the countenance of the witness. They needed to be loved, they couldn't sense if from the one who's supposed to show them the love of God.
 
