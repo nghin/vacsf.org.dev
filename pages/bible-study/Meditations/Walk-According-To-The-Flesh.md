@@ -18,7 +18,7 @@ header: no
 
 <div>
 <p>
-<img alt src="{{ site.baseurl }}/images/walking.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}{{ site.projectname }}/images/walking.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 The traditional interpretation is "Walk according to the flesh" means the action or lifestyle that falls outside the commonly accepted set of Christian behaviors. This article attempts to show that such interpretation is inconsistent with what is being communicated by the apostle Paul; as a matter of fact, He wrote the entire book of Romans to show "Walk according to the flesh" is not about sinning or living a worldly lifestyle, but about the attempt to use the means of the flesh to serve God, or to maintain a relationship with Him.
 </p>
 </div>
