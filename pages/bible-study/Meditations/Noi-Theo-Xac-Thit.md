@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-subheadline: "Are you trying to use the flesh to please God?"
-title: "The True Meaning of \"Walk According to the Flesh\""
+subheadline: "Bạn đang tìm cách hầu việc Chúa bằng xác thịt mình?"
+title: "Ý Nghĩa Đúng Của \"Noi Theo Xác Thịt\""
 meta_teaser: "Walk According to the Flesh Sống Theo Xác Thịt"
-teaser: "The verse that contains the phrase \"Walk according to the flesh\" appears almost exactly in the middle of the book of Romans. It's not by chance, but by design, that this verse appears here. Its true meaning is missed by virtually all major commentaries."
-permalink: /bible-topics/meditations/walk-according-to-flesh/
+teaser: "Câu Kinh Thánh nói về sự \"Noi Theo Xác Thịt\" được tìm thấy ở hầu như ngay giữa sách Rô-ma. Đây chắc không phải chỉ là một sự ngẫu nhiên mà câu Kinh thánh này được thấy ở đây. Hầu như tất cả các sách giải kinh đều không thấy ý nghĩa đúng của nó."
+permalink: /hoc-kinh-thanh/suy-gam/noi-theo-xac-thit/
 breadcrumb: true
 header: no
 ---
@@ -12,22 +12,18 @@ header: no
 <div class="row">
 <div class="medium-8 columns" markdown="1">
 
-<!--
-<em><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/noi-theo-xac-thit/">(Bấm vào đây để đọc tiếng Việt)</a></em>
--->
-
-### 1. Walk According to the Flesh
+### 1. Noi Theo Xác Thịt
 
 <div>
 <p>
 <img alt src="{{ site.baseurl }}/images/walking.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-The traditional interpretation is "Walk according to the flesh" means the action or lifestyle that falls outside the commonly accepted set of Christian behaviors. This article attempts to show that such interpretation is inconsistent with what is being communicated by the apostle Paul; as a matter of fact, He wrote the entire book of Romans to show "Walk according to the flesh" is not about sinning or living a worldly lifestyle, but about the attempt to use the means of the flesh to serve God, or to maintain a relationship with Him.
+Theo cách giải thich phổ thông, "Noi Theo Xác Thịt" nghĩa là một việc làm hoặc nếp sống không phù hợp với tiêu chuẩn hành vi của người theo Chúa. Bài viết này sẽ chứng minh rằng cách giải thích đó không đúng với chân lý mà sứ đồ Phao-lô truyền đạt; thực ra ông đã viết toàn bộ sách Rô-ma để chúng tỏ rằng "Noi Theo Xác Thịt" không liên hệ đến tội lỗi hoặc sống theo đời này, nhưng nói về sự dùng xác thịt để hầu việc, hoặc duy trì mối liên hệ với Ngài.
 </p>
 </div>
 
-We find the expression "Walk according to the flesh" in Romans 8:4:
+Chúng ta thấy cụm từ "Noi theo xác thịt" trong Romans 8:4:
 
->   <sup>1</sup> There is therefore now <u>no condemnation</u> for those who are in Christ Jesus.  <sup>2</sup> <span style="color: #ff0000;">For the <u>law of the life-giving Spirit</u> in Christ Jesus has set you free from the <u>law of sin and death</u></span>. <sup>3</sup> For God achieved what the law could not do because it was weakened through the flesh. By sending his own Son in the likeness of sinful flesh and concerning sin, he condemned sin in the flesh,  <sup>4</sup> so that the righteous requirement of the law may be fulfilled in us, who do not <span style="color: #ff0000;"><u>walk according to the flesh</u></span> but according to the Spirit. <cite>Romans 8:1-4</cite>
+>  <sup>1</sup> Cho nên hiện nay <u>chẳng còn có sự đoán phạt nào</u> cho những kẻ ở trong Ðức Chúa Jêsus Christ; <sup>2</sup> vì <span style="color: #ff0000;"><u>luật pháp của Thánh Linh sự sống</u> đã nhờ Ðức Chúa Jêsus Christ buông tha tôi khỏi <u>luật pháp của sự tội và sự chết</u></span>. <sup>3</sup> Vì điều chi luật pháp không làm nổi, tại xác thịt làm cho luật pháp ra yếu đuối, thì Ðức Chúa Trời đã làm rồi: Ngài đã vì cớ tội lỗi sai chính Con mình lấy xác thịt giống như xác thịt tội lỗi chúng ta, và đã đoán phạt tội lỗi trong xác thịt, <sup>4</sup> hầu cho sự công bình mà luật pháp buộc phải làm được trọn trong chúng ta, là kẻ chẳng <span style="color: #ff0000;"><u>noi theo xác thịt</u></span>, nhưng noi theo Thánh Linh. (Romans 8:1-4)
 
 In verse 1, Paul quickly proclaimed without a disclaimer or a fine print that a Christian will never be under condemnation again. How can this be true? It is true because Christ has set us free from the condemning law by the power of the superior law of the life-giving Spirit in Christ. In order to put the "walk according to the flesh" in context, we must identify and know where we stand in relation to these laws.
 
