@@ -50,7 +50,7 @@ Since mankind cannot stop sinning, God provided a <u>temporary relief</u> throug
 
 But are these sacrifices enough to make men right before God? No, they are only shadows of the real sacrifice when Christ comes. They only provide a ceremonial cleansing of the flesh only to be repeated over and over again, while the blood of Christ achieves an everlasting cleansing of the conscience from the guilt of sin.
 
-> <sup>13</sup>For if the blood of goats and bulls and the ashes of a heifer sprinkling those who have been defiled sanctify for the <u>cleansing of the flesh</u>, <sup>14</sup>how much more will the blood of Christ, who through the eternal Spirit offered Himself without blemish to God, <u>cleanse your conscience from dead works to serve the living God?</u> (Hebrews 10:13-14)
+> <sup>13</sup>For if the blood of goats and bulls and the ashes of a heifer sprinkling those who have been defiled sanctify for the <u>cleansing of the flesh</u>, <sup>14</sup>how much more will the blood of Christ, who through the eternal Spirit offered Himself without blemish to God, <u>cleanse your conscience from dead works to serve the living God?</u> (Hebrews 9:13-14)
 
 And contrary to traditional belief, the law does not bridge the deep chasm between man and God, but its main purpose is to show how far we have fallen, it shows the reason why we are apart from God:
 

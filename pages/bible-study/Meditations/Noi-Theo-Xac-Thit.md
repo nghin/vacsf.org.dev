@@ -25,34 +25,36 @@ Chúng ta thấy cụm từ "Noi theo xác thịt" trong Romans 8:4:
 
 >  <sup>1</sup> Cho nên hiện nay <u>chẳng còn có sự đoán phạt nào</u> cho những kẻ ở trong Ðức Chúa Jêsus Christ; <sup>2</sup> vì <span style="color: #ff0000;"><u>luật pháp của Thánh Linh sự sống</u> đã nhờ Ðức Chúa Jêsus Christ buông tha tôi khỏi <u>luật pháp của sự tội và sự chết</u></span>. <sup>3</sup> Vì điều chi luật pháp không làm nổi, tại xác thịt làm cho luật pháp ra yếu đuối, thì Ðức Chúa Trời đã làm rồi: Ngài đã vì cớ tội lỗi sai chính Con mình lấy xác thịt giống như xác thịt tội lỗi chúng ta, và đã đoán phạt tội lỗi trong xác thịt, <sup>4</sup> hầu cho sự công bình mà luật pháp buộc phải làm được trọn trong chúng ta, là kẻ chẳng <span style="color: #ff0000;"><u>noi theo xác thịt</u></span>, nhưng noi theo Thánh Linh. (Romans 8:1-4)
 
-In verse 1, Paul quickly proclaimed without a disclaimer or a fine print that a Christian will never be under condemnation again. How can this be true? It is true because Christ has set us free from the condemning law by the power of the superior law of the life-giving Spirit in Christ. In order to put the "walk according to the flesh" in context, we must identify and know where we stand in relation to these laws.
+Trong câu 1, Phao-lô khởi đầu tuyên bố cách không dè dặt rằng người tín hữu sẽ không bao giờ còn ở dưới sự đoán phạt nữa. Làm sao có thể được như vậy? Được vậy là nhờ Đấng Christ đã cho chúng ta được thoát khỏi luật của sự nguyền rủa nhờ quyền năng của của luật vĩ đại hơn đó là luật của thần linh sự sống trong Đấng Christ. Để hiểu được trọn nội dung của sự "noi theo xác thịt," chúng ta phải ý thức và biết chỗ đứng của minh liên hệ đến hai hệ thống luật pháp đó.
 
-### 2. Two Kinds of Law
+### 2. Hai Thứ Luật Pháp
 
-Verse 2 shows us there are two kinds of law:
+Câu 2 cho chúng ta thấy có hai thứ luật pháp:
 
-- The law of sin and death, and
-- The law of the Spirit of life
+- Luật của sự tội và sự chết, và
+- Luật của Thánh Linh ban sự sống
 
-It's obvious from Paul's writing that a Christian cannot straddle between the two laws, like a slave cannot serve two masters, or a citizen of two kingdoms. We are to be transitioned from one law to another, and we should not look back like Lot's wife who became a pillar of salt (Genesis 19:26). Let's review the purposes of these two types of laws.
+Chúng ta thấy rõ ràng Phao-lô viết rằng người tín hữu không thể nào đi hai hàng giữa hai luật pháp, cũng như một người không được làm tôi hai chủ, hoặc công dân của hai vương quốc. Chúng ta phải chọn một trong hai luật, và đừng nhìn về phía sau kẻo như vợ của Lót bị biến thành tượng muối (Sáng Thế Ký, Genesis 19:26). Chúng ta hãy ôn lại mục đích của hai luật này.
 
 #### a. The Law of Sin and Death
 
-Once when we still walked in darkness, we were condemned sinners living under the law of sin and death &mdash;the commandments and statutes. <u>This law governs our flesh</u>; it punishes us when we sin. The law of sin and death was in effect under the Old Covenant relationship between man and God.
+Trước kia khi còn bước đi trong bóng tối, chúng ta là những tội nhân bị nguyền rủa dưới luật của sự tội và sự chết&mdash;các điều răn và điều lệ. <u>luật này cai quản xác thịt của chúng ta</u>; trừng phạt khi chúng ta phạm tội. Luật của sự tội và sự chết có hiệu lực dưới Giao Ước Cũ, Cựu Ước, giữa Đức Chúa Trời và loài người.
 
-##### i. The Old Covenant's Sacrificial System
+##### i. Hệ Thống Dâng Của Tế Lễ Thời Cựu Ước
 
-Since mankind cannot stop sinning, God provided a <u>temporary relief</u> through the sacrificial system and other methods of cleansing to meet the requirement of the law: "The soul that sinneth, it shall die" (Ezekiel 18:20).
+Vì loài người không thể ngừng phạm tội, Đức Chúa Trời ban cho một <u>giải pháp tạm</u> qua hệ thống dâng của tế lễ và các phương pháp tẩy rửa khác để thỏa các sự đòi hỏi của luật pháp: "Linh hồn nào phạm tội, nó phải chết" (Ezekiel 18:20). Của lễ chết thay cách tạm thời cho người có tội.
 
-But are these sacrifices enough to make men right before God? No, they are only shadows of the real sacrifice when Christ comes. They only provide a ceremonial cleansing of the flesh only to be repeated over and over again, while the blood of Christ achieves an everlasting cleansing of the conscience from the guilt of sin.
+Nhưng những của lễ này có đủ để đem đến sự công bình cho loài người trước mặt Đức Chúa Trời? Không, bởi vì chúng chỉ là hình bóng của Của Lễ thực khi Đấng Christ đến. Chúng chỉ tẩy rửa tạm thời xác thịt hư nát và cứ phải lập đi lập lại, còn huyết của Đấng Christ thì đạt được sự tẩy rửa đời đời cho lương tâm được sạch khỏi mặc cảm tội lỗi.
 
-> <sup>13</sup>For if the blood of goats and bulls and the ashes of a heifer sprinkling those who have been defiled sanctify for the <u>cleansing of the flesh</u>, <sup>14</sup>how much more will the blood of Christ, who through the eternal Spirit offered Himself without blemish to God, <u>cleanse your conscience from dead works to serve the living God?</u> (Hebrews 10:13-14)
+>  <sup>13</sup> Vì nếu huyết của dê đực cùng tro bò cái tơ mà người ta rưới trên kẻ ô uế còn làm sạch được phần xác thịt họ và nên thánh thay, <sup>14</sup> huống chi huyết của Ðấng Christ, là Ðấng nhờ Ðức Thánh Linh đời đời, dâng chính mình không tì tích cho Ðức Chúa Trời, thì sẽ làm sạch lương tâm anh em khỏi công việc chết, đặng hầu việc Ðức Chúa Trời hằng sống, là dường nào! (Hebrews 9:13-14)
 
-And contrary to traditional belief, the law does not bridge the deep chasm between man and God, but its main purpose is to show how far we have fallen, it shows the reason why we are apart from God:
+Trái với sự tin tưởng của nhiều người, luật pháp không đem người ta lại gân Chúa hơn, vì mục đích chính của nó là cho loài người thấy họ sa ngã đến mức độ nào, lý do tại sao họ bị xa cách Đức Chúa Trời:
 
-> For <u>no one</u> is declared righteous before him by the works of the law, for through the law comes the knowledge of sin. <cite>(Romans 3:20)</cite>
+> Vì <u>chẳng có một người nào</u> bởi việc làm theo luật pháp mà sẽ được xưng công bình trước mặt Ngài, vì luật pháp cho người ta biết tội lỗi. (Romans 3:20)
 
-##### b. The Modern Sacrificial System
+##### b. Hệ Thống Dâng Của Lễ Ngày Nay
+
+
 
 Though the Cross of Christ is supposed to supercede the Old Covenant's sacrificial system, modern Christians, due to their lack of understanding, continued the obsolete and ineffective system in different forms.
 
@@ -132,3 +134,4 @@ Can you see now "Walk According to the Flesh" is not about sins and transgressio
         {% include bible-study/meditations %}
 </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
+
