@@ -47,6 +47,92 @@ Tel. 650-892-5270, Email: ongme1@yahoo.com
 <p>Trại bồi linh Bắc Cali từ 19-21 tháng 8, 2016 ở <a href="http://allianceredwoods.com/" target="_blank">Alliance Redwoods Camp</a>, giá $110 một người.<br/>
 Spiritual revival camp in Northern California from August 19-21, 2016 at <a href="http://allianceredwoods.com/" target="_blank">Alliance Redwoods Camp</a>, camp fee: $110 per attendee.</p>
 
+## 2016 Calendar
+
+<table class="table table-condensed table-responsive" style="width: 100%; font-family: 'open_sans_condensedbold', sans-serif;" border="1">
+<tbody>
+<tr>
+<td class="title-padding" style="background-color: #cccccc;"><strong>JAN</strong></td>
+<td class="title-padding" style="background-color: #cccccc;" align="left">17</td>
+<td class="title-paddingi" style="background-color: #cccccc;">Mục sư khách
+&mdash; guest speaker:
+Pastor Bob Boston</td>
+</tr>
+<tr>
+<td class="title-padding" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
+<td class="title-padding" style="background-color: #cccccc;" align="left">23</td>
+<td class="title-padding" style="background-color: #cccccc;">Họp Eagles &mdash;
+Eagles fellowship</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #a9a9a9;"><strong>FEB</strong></td>
+<td class="title-padding-even" style="background-color: #a9a9a9;"
+align="left">7</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">Tết &mdash;
+New Year Celebration</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #cccccc;"><strong>MAR</strong></td>
+<td class="title-padding-even" style="background-color: #cccccc;"
+align="left">25</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Đêm Thương
+Khó &mdash; Good Friday</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color:
+#cccccc;"><strong>&nbsp;</strong></td>
+<td class="title-padding-even" style="background-color: #cccccc;" align="left">1</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Lễ Phục Sinh
+&mdash; Đêm Thương Khó</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #a9a9a9;"><strong>APR</strong></td>
+<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #a9a9a9;"><strong>MAY</strong></td>
+<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #a9a9a9;"><strong>JUN</strong></td>
+<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #a9a9a9;"><strong>JUL</strong></td>
+<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #a9a9a9;"><strong>AUG</strong></td>
+<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #a9a9a9;"><strong>SEP</strong></td>
+<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #a9a9a9;"><strong>OCT</strong></td>
+<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #a9a9a9;"><strong>NOV</strong></td>
+<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #a9a9a9;"><strong>DEC</strong></td>
+<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+
 ## 2015 Calendar
 
 <table class="table table-condensed table-responsive" style="width: 100%; font-family: 'open_sans_condensedbold', sans-serif;" border="1">
