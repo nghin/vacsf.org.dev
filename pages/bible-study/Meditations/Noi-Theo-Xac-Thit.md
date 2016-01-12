@@ -54,13 +54,11 @@ Trái với sự tin tưởng của nhiều người, luật pháp không đem n
 
 ##### b. Hệ Thống Dâng Của Lễ Ngày Nay
 
+Mặc dầu đúng ra Thập Tự Giá của Đấng Christ phải vượt trổi hơn hệ thống dâng của tế lễ của thời Cựu Ước, người tín hữu của Tân Ước, vì thiếu sự hiểu biết, vẫn tiếp tục tuân theo hệ thống yếu kém này trong nhiều hình thái khác nhau.
 
+Tín hữu Ga-la-ti với sự cuồng tín về phép cắt bì đến nỗi sứ đồ Phao-lô đã phải cảnh cáo họ với ngôn từ  nặng nề nhất. Hệ thống này dù đã được Đức Chúa Trời ban cho, nhưng đã bị chính Ngài phế bỏ qua sự đến của Đấng Christ.
 
-Though the Cross of Christ is supposed to supercede the Old Covenant's sacrificial system, modern Christians, due to their lack of understanding, continued the obsolete and ineffective system in different forms.
-
-The Galatians with their obsession with circumcision to which Paul had to express his strongest warning. This system though started with God, it has become artificial as God Has obsoleted it in Christ.
-
-<p class="blockquote">Listen! I, Paul, tell you that if you let yourselves be circumcised, <u>Christ will be of no benefit to you at all</u>! <cite>(Galatians 5:2)</cite></p>
+<p class="blockquote"><sup>2</sup>Tôi là Phao-lô nói với anh em rằng, nếu anh em chịu làm phép cắt bì, thì Ðấng Christ không bổ ích chi cho anh em hết.  <sup>3</sup>Tôi lại rao cho mọi người chịu cắt bì rằng, họ buộc phải vâng giữ trọn cả luật pháp.  <sup>4</sup>Anh em thảy đều muốn cậy luật pháp cho được xưng công bình, thì đã <u>lìa khỏi Ðấng Christ, mất ân điển rồi</u>.<cite>(Galatians 5:2-4)</cite></p>
 
 The Colossians with myriad rules and regulations that they used to make themselves more spiritual. They commit the same fatal errors as many well meaning Christians do today. They should heed Paul's warning that any attempt to use any means, other than the simple faith in the Cross of Christ, to draw near to God deserves "anathema." To the Colossians Paul also wrote:
 
