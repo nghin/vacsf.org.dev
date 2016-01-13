@@ -12,9 +12,7 @@ header: no
 <div class="row">
 <div class="medium-8 columns" markdown="1">
 
-<!--
 <em><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/noi-theo-xac-thit/">(Bấm vào đây để đọc tiếng Việt)</a></em>
--->
 
 ### 1. Walk According to the Flesh
 

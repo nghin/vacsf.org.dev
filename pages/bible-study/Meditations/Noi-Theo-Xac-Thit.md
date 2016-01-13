@@ -56,15 +56,34 @@ Trái với sự tin tưởng của nhiều người, luật pháp không đem n
 
 Mặc dầu đúng ra Thập Tự Giá của Đấng Christ phải vượt trổi hơn hệ thống dâng của tế lễ của thời Cựu Ước, người tín hữu của Tân Ước, vì thiếu sự hiểu biết, vẫn tiếp tục tuân theo hệ thống yếu kém này trong nhiều hình thái khác nhau.
 
-Tín hữu Ga-la-ti với sự cuồng tín về phép cắt bì đến nỗi sứ đồ Phao-lô đã phải cảnh cáo họ với ngôn từ  nặng nề nhất. Hệ thống này dù đã được Đức Chúa Trời ban cho, nhưng đã bị chính Ngài phế bỏ qua sự đến của Đấng Christ.
+Tín hữu Ga-la-ti với sự cuồng tín về phép cắt bì đến nỗi sứ đồ Phao-lô đã phải
+cảnh cáo họ với ngôn từ  nặng nề nhất. Hệ thống này dù đã được Đức Chúa Trời
+ban cho, nhưng đã bị chính Ngài phế bỏ sau khi Đấng Christ đến.
 
-<p class="blockquote"><sup>2</sup>Tôi là Phao-lô nói với anh em rằng, nếu anh em chịu làm phép cắt bì, thì Ðấng Christ không bổ ích chi cho anh em hết.  <sup>3</sup>Tôi lại rao cho mọi người chịu cắt bì rằng, họ buộc phải vâng giữ trọn cả luật pháp.  <sup>4</sup>Anh em thảy đều muốn cậy luật pháp cho được xưng công bình, thì đã <u>lìa khỏi Ðấng Christ, mất ân điển rồi</u>.<cite>(Galatians 5:2-4)</cite></p>
+<p class="blockquote"><sup>2</sup>Tôi là Phao-lô nói với anh em rằng, nếu anh em chịu làm phép cắt bì, thì Ðấng Christ không bổ ích chi cho anh em hết.  <sup>3</sup>Tôi lại rao cho mọi người chịu cắt bì rằng, họ buộc phải vâng giữ trọn cả luật pháp.  <sup>4</sup>Anh em thảy đều muốn cậy luật pháp cho được xưng công bình, thì đã <u>lìa khỏi Ðấng Christ, mất ân điển rồi</u>.(Galatians 5:2-4)</p>
 
-The Colossians with myriad rules and regulations that they used to make themselves more spiritual. They commit the same fatal errors as many well meaning Christians do today. They should heed Paul's warning that any attempt to use any means, other than the simple faith in the Cross of Christ, to draw near to God deserves "anathema." To the Colossians Paul also wrote:
+Người Cơ-lô-se với vô số những luật lệ mà họ đã thường tuân theo để đạt được
+mọt mức thánh hóa nào đó. Họ đã phạm nhiều những sai lầm sinh tử như nhiều tín
+hữu ngày nay. Chính ra họ phải nghe lời cảnh cáo của Phao-lô rằng mọi nỗ lực
+dùng bất cứ phương tiện nào ngoài niềm tin đơn sơ nơi thập tự giá của Đấng
+Christ để đến gần Chúa đều đáng bị "a-na-them," nghĩa là đáng chịu lửa hỏa
+ngục. Phao-lô đã viết cho người tín hữu Cơ-lô-se như sau:
 
-<p class="blockquote"><sup>20</sup>If you have died with Christ to the elemental spirits of the world, why do you submit to them as though you lived in the world? <sup>21</sup>“Do not handle! Do not taste! Do not touch!” <sup>22</sup>These are all destined to perish with use, founded as they are on human commands and teachings. <sup>23</sup>Even though they have the <u>appearance of wisdom</u> with their <u>self-imposed worship and false humility</u> achieved by an unsparing treatment of the body – <u>a wisdom with no true value</u> – they in reality result in fleshly indulgence. <cite>(Colossians 2:20-23)</cite></p>
+<p class="blockquote">
+<sup>20</sup>Ví bằng anh em chết với Ðấng Christ về sự sơ học của thế gian, thì làm sao lại để cho những thể lệ nầy ép buộc mình, như anh em còn sống trong thế gian:  <sup>21</sup>Chớ lấy, chớ nếm, chớ rờ?  <sup>22</sup>Cả sự đó hễ dùng đến thì hư nát, theo qui tắc và đạo lý loài người,  <sup>23</sup>dầu bề ngoài có vẻ khôn ngoan, là bởi thờ lạy theo ý riêng, cách khiêm nhượng và khắc khổ thân thể mình; nhưng không ích gì để chống cự lòng dục của xác thịt.
+ (Colossians 2:20-23)</p>
 
-What about us, Christians of the 21<sup>st</sup> century? <b>Confessions?</b>&mdash;lip service at best because no one can ever confess all their sins&mdash;because according to James 2:10, missing one sin is the same thing as missing all. A show of <b>remorse?</b> <b>Money</b> in the offering plate? Physical <b>punishments?</b> <b>Fasting?</b> <b>Deprivation</b> of senses? <b>Sacrifices of praise?</b>&mdash;King David may have said it but he is not God; because only Jesus can be the worthy sacrifice in the sight of God. These are all pseudo sacrifices nonetheless; and they compete with the Cross of Christ.
+Còn chúng ta là những người tin Chúa của thế kỷ 21? <b>Xưng tội?</b>&mdash;chỉ
+là nói suông vì không ai có thể xưng hết mọi tội mình; vì theo James 2:10 thì
+phạm một tội cũng như phạm cả toàn bộ luật pháp. Bày tỏ sự <b>ăn năn</b>?
+<b>Tiền bạc</b> dâng phần mười? <b>Hành xác?</b> <b>Kiêng ăn?</b> <b>Hãm
+mình?</b> <b>Hy sinh</b> một điều gì đó?&mdash;thực ra chẳng có sự hy sinh nào
+được Chúa chấp nhận, vì của lễ đó phải toàn hảo như chiên đầu lòng không tỳ
+vết; chỉ mình Chúa Giê-su là của lễ đẹp lòng Đức Chúa Trời còn mọi sự hy sinh
+của chúng ta chỉ là tấm áo nhớp thì làm sao dám dành sự vinh hiển của Chiên Con?
+
+Trong khi những nghi lễ trong thời Cựu Ước được chính Chúa ban làm giải pháp
+tạm thời cho những sự vi phạm, những giài pháp
 
 While the provisions in the Old Covenant were provided by God as a temporary solution for sins, the self-prescribed methods New Covenant Christians invented are but products of the flesh, invented by men. Remember "strange fire" offered to God in the Old Testament which provoked such God's wrath? Anything that attempts to circumvent God's provision is met with divine wrath (Leviticus 10:1). The story of Uzzah in 2 Samuel 6:6 and Ananias and Sapphira in Acts 5:1-11. Uzzah thought God needed a hand, while Ananias and Sapphira wanted to earn God's favor (or perhaps man?) instead of faith in Christ. Had they not given any of their proceed, they would not have sinned against God, but their sin was much more grievious because they did not give from faith (Romans 14:23).
 
