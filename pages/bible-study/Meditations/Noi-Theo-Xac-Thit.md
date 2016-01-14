@@ -36,7 +36,7 @@ Câu 2 cho chúng ta thấy có hai thứ luật pháp:
 
 Chúng ta thấy rõ ràng Phao-lô viết rằng người tín hữu không thể nào đi hai hàng giữa hai luật pháp, cũng như một người không được làm tôi hai chủ, hoặc công dân của hai vương quốc. Chúng ta phải chọn một trong hai luật, và đừng nhìn về phía sau kẻo như vợ của Lót bị biến thành tượng muối (Sáng Thế Ký, Genesis 19:26). Chúng ta hãy ôn lại mục đích của hai luật này.
 
-#### a. The Law of Sin and Death
+#### a. Luật của Tội Lỗi và Sự Chết
 
 Trước kia khi còn bước đi trong bóng tối, chúng ta là những tội nhân bị nguyền rủa dưới luật của sự tội và sự chết&mdash;các điều răn và điều lệ. <u>luật này cai quản xác thịt của chúng ta</u>; trừng phạt khi chúng ta phạm tội. Luật của sự tội và sự chết có hiệu lực dưới Giao Ước Cũ, Cựu Ước, giữa Đức Chúa Trời và loài người.
 
@@ -48,7 +48,7 @@ Nhưng những của lễ này có đủ để đem đến sự công bình cho 
 
 >  <sup>13</sup> Vì nếu huyết của dê đực cùng tro bò cái tơ mà người ta rưới trên kẻ ô uế còn làm sạch được phần xác thịt họ và nên thánh thay, <sup>14</sup> huống chi huyết của Ðấng Christ, là Ðấng nhờ Ðức Thánh Linh đời đời, dâng chính mình không tì tích cho Ðức Chúa Trời, thì sẽ làm sạch lương tâm anh em khỏi công việc chết, đặng hầu việc Ðức Chúa Trời hằng sống, là dường nào! (Hebrews 9:13-14)
 
-Trái với sự tin tưởng của nhiều người, luật pháp không đem người ta lại gân Chúa hơn, vì mục đích chính của nó là cho loài người thấy họ sa ngã đến mức độ nào, lý do tại sao họ bị xa cách Đức Chúa Trời:
+Trái với sự tin tưởng của nhiều người, luật pháp không đem người ta lại gn Chúa hơn, vì mục đích chính của nó là cho loài người thấy họ sa ngã đến mức độ nào, lý do tại sao họ bị xa cách Đức Chúa Trời:
 
 > Vì <u>chẳng có một người nào</u> bởi việc làm theo luật pháp mà sẽ được xưng công bình trước mặt Ngài, vì luật pháp cho người ta biết tội lỗi. (Romans 3:20)
 
@@ -83,66 +83,114 @@ vết; chỉ mình Chúa Giê-su là của lễ đẹp lòng Đức Chúa Trời
 của chúng ta chỉ là tấm áo nhớp thì làm sao dám dành sự vinh hiển của Chiên Con?
 
 Trong khi những nghi lễ trong thời Cựu Ước được chính Chúa ban làm giải pháp
-tạm thời cho những sự vi phạm, những giài pháp
+tạm thời cho những sự vi phạm, những giải pháp mà tín hữu của thời Tân Ước tự
+tạo nên chỉ là những sản phẩm của xác thịt. Quí vị có nhớ "lửa lạ" trong
+Leviticus 10:1 không? Mọi của lễ do bàn tay con người tự tạo nên đều ở dưới cơn
+thạnh nộ của Đức Chúa Trời. Trong 2 Samuel 6:6 chúng ta thấy Uzzah dùng xác
+thịt mình đụng đến vật chí thánh của Đức Chúa Trời thì liền mất mạng. Ananias và
+Sapphira dâng hiến không phải từ đức tin cũng gặp đồng một số phận (Acts
+5:1-11). Thà đừng dâng hiến thì họ đã không phạm tội cùng Chúa, nhưng tội càng
+nặng nề hơn khi khi họ tìm cách bước đi với Chúa trong xác thịt thay vì đức tin
+và ân điển (Romans 8:4).
 
-While the provisions in the Old Covenant were provided by God as a temporary solution for sins, the self-prescribed methods New Covenant Christians invented are but products of the flesh, invented by men. Remember "strange fire" offered to God in the Old Testament which provoked such God's wrath? Anything that attempts to circumvent God's provision is met with divine wrath (Leviticus 10:1). The story of Uzzah in 2 Samuel 6:6 and Ananias and Sapphira in Acts 5:1-11. Uzzah thought God needed a hand, while Ananias and Sapphira wanted to earn God's favor (or perhaps man?) instead of faith in Christ. Had they not given any of their proceed, they would not have sinned against God, but their sin was much more grievious because they did not give from faith (Romans 14:23).
+Các của lễ nhân tạo đều là điều đáng khinh tởm trước mặt Đức Chúa Trời vì Ngài
+chẳng nhận gì khác hơn sinh tế hoàn hảo là chính Đức Chúa Giê-su Christ.
 
-Man-made sacrifice is an abomination in the sight of God because He demands nothing less than the Perfect Sacrifice.
+Thế còn hệ thống dâng của lễ trong Cựu Ước mà chính Chúa đã ban cho người
+Do-thái? Cũng chính Chúa đã định trước là nó sẽ bị phế bỏ như chúng ta đọc thấy
+trong Hebrews 8:13:
 
-And what about the system under the Old Covenant that God had ordained? Even God had planned that it had to become obsolete as we read in Hebrews 8:13:
+> Gọi ước đó là ước mới, thì đã xưng ước trước là cũ; vả, điều chi đã cũ đã già, thì gần tiêu mất đi. (Hebrews 8:13)
 
-> By calling this covenant "new," he has made the first one obsolete; and what is obsolete and outdated will soon disappear. <cite>Hebrews 8:13</cite>
+Điều này dẫn chúng ta đến một luật mới, luật đem đến sự sống.
 
-This leads us to a new law, one that can give life.
+#### b. Luật của Thánh Linh Ban Sự Sống
 
-#### b. The Law of the Spirit of Life
+Phao-lô đã viết rất nhiều thơ để giúp hội thánh Chúa thấy luật mới này, nhưng
+họ chỉ thấy được luật của thời Cựu Ước mà ông gọi là <u>luật của sự tội và sự
+chết</u>. Luật mới đến trong thời Tân Ước buộc mọi người phải đi đến một quyết
+định sinh tử: phải chọn để sống dưới mọt trong hai luật, không được đi hai
+hàng. Trong Rô-ma chương 7, Phao-lô đưa ra một thí dụ về một người đàn bà nếu
+muốn tái hôn thì chồng cũ phải chết đi. Thì tương tự như thế, Chúa đã chịu chết
+thay hầu cho chúng ta được thoát khỏi luật của sự tội và sự chết mà được kết
+hợp với Ngài. Nếu cứ giữ cả hai mối liên hệ thì phạm tội ngoại tình thuộc linh.
 
-Despite the fact that the apostle Paul wrote extensive to hopefully open the eyes of the church to this new law, all they see is still the law of the Old Covenant which Paul calls the <u>law of sin and death</u>. The new law that came with the New Covenant forces people to make a matter-of-life-or-death choice: either you live under the new law or the old one, not both. In Romans 7, Paul gave an analogy of a woman who must die to the old husband before she can remarry. Christ died to give us this death so we may be released from the law of sin and death in order to be joined to Him. To try to have a relationship with both is to commit spiritual adultery.
+Luật cũ đòi hỏi sự vâng lời tuyệt đối về những quy củ và phép tắc cùng với
+những giải pháp tạm thời trong trường hợp thất bại. Còn luật mới đòi hỏi những
+gì? Luật đó cũng đòi hỏi một sự vâng lời tuyệt đối, nhưng không còn đặt nền
+tảng trên những quy luật, mà đặt trên đức tin nơi việc Chúa Giê-su đã hoàn
+tất. Người tín hữu sẽ sống như thế nào dưới luật mới đó?
 
-The old law requires absolute obedience to a set of rules and statutes with temporary relief in the event of inevitable failures. What does the new law require? It also requires absolute obedience but no longer of rules and regulations, but of faith or trust in the finished work of Christ. What does this entail? This faith in Christ can be expressed this way:
+Đức tin nơi Đấng Christ có thể được bày tỏ như sau:
 
-<p class="blockquote">There is no good work I do that can make me right with God, and neither there is any bad deed that I do that can take away this right standing with Him. I must trust that Jesus had paid it all&mdash;past, present, and future.</p>
+<p class="blockquote">
+Chẳng có việc lành nào tôi làm đưa tôi lại gần Chúa hơn, và cũng chẳng có việc
+ác nào tôi làm có thể khiến Ngài lìa bỏ tôi. Tôi phải đặt trọn niềm tin nơi
+Chúa Giê-su rằng Ngài đã trả hết nợ cho tôi quá khứ, hiện tại, và tương lai.
+</p>
 
-Does any Christian dare to embrace this belief? Or are you afraid that there is something so powerful that can take away the total forgiveness of sin by the Cross of Christ? Something that can make Christ's death an unfinished business?
+Ai dám tin như lời viết ở trên? Hoặc có ai e sợ rằng có một tội lỗi nào đó lớn
+lao đến độ có thể làm giảm hiệu năng của quyền tha thứ trọn vẹn của thập tự
+giá? Một điều chi đó khiến sự chết của Chúa không được trọn vẹn?
 
-This new law requires only one thing: your faith. Because faith is the only thing God accepts&mdash;<em>"The just shall live by faith"</em> <cite>(Romans 1:17, Galatians 3:11, Hebrews 10:38)</cite>. And faith is the only "works" that God accepts. And the only works that believers can do.
+Luật mới này chỉ đòi hỏi một điều: đức tin. Vì đức tin là điều duy nhất Chúa
+chấp nhận&mdash;<em>"Vì người công bình sẽ sống bởi đức tin" (Romans 1:17;
+Galatians 3:11; Hebrews 10:38)</em>. Đức tin là "việc làm" duy nhất Chúa chấp
+nhận, "việc làm" duy nhất mà người tín hữu có thể làm.
 
-> <sup>28</sup>Therefore they said to Him, "What shall we do, so that we may work the works of God?" <sup>29</sup>Jesus answered and said to them, "<u>This is the <strong>work</strong> of God, that you <strong>believe</strong> in Him whom He has sent</u>." <cite>(John 6:28-29)</cite>
+>
+<sup>28</sup>Chúng thưa rằng: Chúng tôi phải làm chi cho được làm công việc Ðức
+Chúa Trời?  <sup>29</sup>Ðức Chúa Jêsus đáp rằng: Các ngươi <u>tin Ðấng mà Ðức
+Chúa Trời đã sai đến, ấy đó là công việc Ngài</u>. (John 6:28-29)
 
-Therefore the work of the New Covenant Christian is not works that come from flesh, but it is the work of believing. If God assigns him a task, like leading the people out of Egypt, or go preach to the people of Nineveh, the task is not work, but a job that God has called him to do. It does not get him into heaven, and neither can he refuse it because who can resist the God who send? God sent Moses and Jonah and off they went. God will not accept any works other than the work of believing, because the only work that counts is the cross of Christ, everything else from sinful man is but filthy rags (Isaiah 64:6).
+Do đó việc làm của người tín hữu trong Tân Ước không phải là những công việc
+đến từ xác thịt, nhưng chính đức tin là công việc. Ví bằng Chúa có giao cho ai
+trọng trách gì, chẳng hạn như đưa tuyển dân của Ngài ra khỏi xứ Ai-cập, hoặc đi
+rao giảng Tin Lành cho dân thành Ni-ni-ve, thì những sứ mạng này không phải là
+việc làm, mà là công việc mà Đức Chúa Trời đã dành sẵn và sai đi. Những việc đó
+không đưa người đó vào thiên đàng, và những người Chúa đã sai đi thì chắc chắn
+họ sẽ đi, vì ai chống lại được ý Chúa? Chúa sai Môi-se và Giô-na thì họ cuối
+cùng sẽ đi dù khởi đầu với sự miễn cưỡng. Chúa không hề chấp nhận một điều gì
+khác từ chính chúng ta ngoại trừ đức tin, vì chỉ có một công việc đáng kể là
+thập tự giá của Đấng Christ, mọi điều khác đến từ con người hay hư nát thì chỉ
+là tấm áo nhớp (Isaiah 64:6).
 
-### 3. Walk According to the Spirit
+### 3. Bước Đi Theo Thánh Linh
 
-So we have seen a study in contrast between the two kinds of law:
+Đến đây chúng ta đã thấy sự tương phản giữa hai thứ luật pháp:
 
-- An Old Covenant based law, which Paul calls the law of sin and death, that governs our flesh, that deals with things we do or do not do, and punish us upon failures.
-- A New Covenant based law  that requires only one thing: faith. No more. No less. Any addition to it is forbidden. In other words, trusting in no one else but Christ.
+- Một luật pháp đặt nền tảng trên Cựu Ước mà sứ đồ Phao-lô gọi là luật của tội
+lỗi và sự chết, luật này cai quản xác thịt của chúng ta, dò xét những điều
+chúng ta làm hoặc không làm, và hình phạt khi vi phạm.
+- Một luật pháp đặt nền tảng trên Tân Ước chỉ đòi hỏi một điều: đức tin. Không
+được thêm hoặc bớt một điều gì. Hay nói cách khác, không đặt niềm tin nơi điều
+gì khác ngoại trừ Đấng Christ.
 
-It should have become rather clear that no part of the flesh is involved in walking according to the Spirit. The question then is how can one express the command to walk according to the Spirit? No, you cannot express it in any way except to keep believing. Paul exhorts us to keep fixing our eyes on Christ, the beginning and the completion of your faith (Hebrews 12:2). The Hebrews in the desert must fix their eyes on the bronze snake (Numbers 21:9; John 3:14). Peter to fix his eyes on Jesus when he walked on the raging waves (Matthew 14:29-30).
+Đến đây chúng ta thấy rõ rằng xác thịt không có phần gì trong sự bước theo Thánh Linh. Câu hỏi được đặt ra ở đây là làm sao một người có thể bước theo Thánh Linh? Chỉ có một cách duy nhất là qua đức tin mà thôi. Phao-lô khuyên chúng ta cứ nhìn xem Đức Chúa Giê-su là khởi đầu và thành toàn của đức tin (Hebrews 12:2). Người Hê-bơ-rơ trong đồng vắng phải nhìn lên con rắn đồng treo lên để khỏi mất mạng (Numbers 21:9). Phi-e-rơ phải chú nhìn Chúa Giê-su khi ông đang đi trên biển hồ dậy sóng (Matthew 14:29-30).
 
-That is how we walk according to the Spirit.
+Đó là cách chúng ta bước đi theo Thánh Linh.
 
-### 4. Conclusion
+### 4. Kết Luận
 
-Let's consider this passage where Nicodemus came to see Jesus one evening:
+Chúng ta hãy đọc đoạn Kinh thánh khi ông Ni-cô-đem đến gặp Chúa Giê-su một vào một buổi tối kia:
 
-> <sup>1</sup>Now there was a man of the Pharisees, named Nicodemus, a ruler of the Jews; <sup>2</sup>this man came to Jesus by night and said to Him, "Rabbi, we know that You have come from God as a teacher; for no one can do these signs that You do unless God is with him." <sup>3</sup>Jesus answered and said to him, "Truly, truly, I say to you, unless one is <u>born again</u> he cannot see the kingdom of God." (John 3:1-3)
+> <sup>1</sup>Trong vòng người Pha-ri-si, có người tên là Ni-cô-đem, là một người trong những kẻ cai trị dân Giu-đa.  <sup>2</sup>Ban đêm, người nầy đến cùng Ðức Chúa Jêsus mà nói rằng: Thưa thầy, chúng tôi biết thầy là giáo sư từ Ðức Chúa Trời đến; vì những phép lạ thầy đã làm đó, nếu Ðức Chúa Trời chẳng ở cùng, thì không ai làm được.  <sup>3</sup>Ðức Chúa Jêsus cất tiếng đáp rằng: Quả thật, quả thật, ta nói cùng ngươi, nếu một người chẳng sanh lại, thì không thể thấy được nước Ðức Chúa Trời. (John 3:1-3)
 
-Without waiting for Nicodemus to come up with a real question, Jesus gave an answer which must have taken him by surprise. Nicodemus must have come to Jesus that evening with the same question asked by his contemporaries in John 6:28, “What must we <u>DO</u> to accomplish the deeds God requires?” To these Jesus' answer was simply: <u>FAITH</u>, <u>to believe</u> in the One God has sent. It's faith, not works. It's believing, not doing.
+Không cần đợi Ni-cô-đem đặt câu hỏi mà thực lòng ông đã nung nấu từ lâu, Chúa Giê-su cho ông một câu trả lời chắc ngoài định kiến của ông. Ni-cô-đem hẳn đã đến với Chúa Giê-su buổi tối đó với cùng câu hỏi mà những kẻ đương thời với ông đã nêu lên trong Giăng 6:28-29: <em>"<sup>28</sup>Chúng thưa rằng: Chúng tôi phải làm chi cho được làm công việc Ðức Chúa Trời?  <sup>29</sup>Ðức Chúa Jêsus đáp rằng: Các ngươi <u>tin</u> Ðấng mà Ðức Chúa Trời đã sai đến, ấy đó là công việc Ngài."</em> Đức tin, không phải việc làm. Sự trông cậy, chẳng phải nỗ lực con người.
 
-Nicodemus approaches relationship with God the same way Christians do today. We always immediately think of what we should "do" from the standpoint of the flesh. What Jesus said amounts to "Don't even try. There is nothing you do that can help get you in the kingdom of God. You don't need physical prowess, but spiritual rebirth." Then Jesus gave the reason why: "What is born of the flesh is flesh, and what is born of the Spirit is spirit <cite>(John 3:6)</cite>". Therefore you should no longer evaluate your standing before God based on the products of your flesh, be they good or bad deeds.
+Ni-cô-đem tìm cách liên hệ với Chúa cũng giống như các tín hữu ngày nay. Chúng ta thường nghĩ ngay đến điều gì mình có thế "làm" từ vị trí của xác thịt. Chúa muốn nói với ông như vầy: "Chẳng có điều chi ngươi có thể làm để vào được nước thiên đàng. Ngươi không cần nỗ lực của mình, nhưng cần được tái sinh về tâm linh." Và Ngài giải thích: <em>"Điều gì đến từ xác thịt thì vẫn là xác thịt, chỉ có những gì đến bởi Thánh Linh mới thuộc về tâm linh (John 3:6)."</em> Do đó chúng ta đừng tiếp tục định giá trị chỗ đứng của mình trước Đức Chúa Trời dựa trên những gì xác thịt mình có thể làm, dù việc lành hay việc dữ.
 
-I've often heard conflicting exhortation to prove my faith with some works, and then an exact opposing exhortation to not rely on my own strength. What? What am I supposed to do? Dammed if I do, damned if I don't. All these conflicting teachings lead to a very frustrating Christian experience. Imagine this frustrated Christian, loaded with guilt, trying to share their faith with others. It's easy for the person being evangelized to spot inconsistencies in testimonies they heard. They needed rest for their weary soul, they sensed laborious struggle to get right with God. They needed relief for their sin sicked souls, they sensed much guilt in the countenance of the disciples. They needed to be loved, they couldn't sense if from the one who's supposed to know personally the love of God.
+Tôi đã thường được nghe những lời giảng dạy về "đức tin phải đi chung với việc làm," rồi những lời giảng ngược lại khuyên tôi đừng cậy sức mình. Thế thì tôi phải làm gì? Không làm gì thì chết, mà làm thì cũng chết. Những sự giảng dạy mâu thuẫn này mang lại nhiều bối rối cho các tín hữu. Hãy tưởng tượng người tín hữu với nhiều hoang mang này, cộng với nhiều mặc cảm tội lỗi, tìm cách để chia xẻ niềm tin với người khác. Người đang được giảng đạo dễ dàng thấy những sự không đồng nhất trong những lời làm chứng. Họ cần được an nghỉ,thì họ lại thấy chính người đang giảng đạo cho họ vẫn còn tìm cách để làm hoà với Đức Chúa Trời. Tâm hồn của họ đang chìm đắm trong biển mê của tội lỗi cần được xoa dịu, thì họ lại cảm thấy nhiều mặc cảm tội lỗi trong người môn đệ của Chúa Giê-su. Họ cần cảm nhận sự yêu thương nhưng lại không cảm thấy tình yêu đó trong tâm hồn người chính ra phải thấm nhuần tình yêu thương từ Trời.
 
-This is because the Christian in question is walking according to the flesh. They try to use their works to prove their worthiness. They still live under the law that Christ should have already set them free from. They still worry about many what-if's. Their relationship with God is hung by a thin thread. One more sin and God will let them go. In theory they have received Christ as their Savior, in reality they have no assurance of their salvation. The flesh is still the determining factor in their salvation.
+Lý do là vì người tín hữu đó đang còn tìm cách sống đời sống tin kính qua xác thịt. Họ cố dùng việc làm của mình để chứng tỏ mình xứng đáng. Họ vẫn còn sống dưới một luật pháp mà chính ra Chúa Giê-su đã giải thoát họ ra khỏi rồi. Họ vẫn lo lắng về nhiều điều nên làm hoặc không nên làm. Mối liên hệ giữa họ và Chúa như chỉ mành treo chuông. Họ lo rằng chỉ cần thêm một tội là Chúa sẽ lìa bỏ họ. Trên lý thuyết họ nhận Chúa Giê-su là Cứu Chúa, trên thực tế họ không tin chắc về sự sống đời đời. Vì xác thịt họ vẫn còn là yếu tố quyết định sự sống đời đời.
 
-On the contrary, walking according to the Spirit is simply this: rest in the fact that Christ had paid it all on the Cross. This rest is the work that is pleasing to God, and is the only work accepted by God.
+Ngược lại, đi theo Thánh Linh đơn giản chỉ là: an nghỉ trên chân lý rằng Chúa đã trả hết mọi giá trên thập tự giá. Sự an nghỉ này là việc làm đẹp lòng Đức Chúa Trời, và là công việc duy nhất Ngài chấp nhận.
 
-> Thus we must make every effort to enter that <u>rest</u>, so that no one may fall by following the same pattern of <u>disobedience</u>. <cite>Hebrews 4:11</cite>
+> Vậy, chúng ta phải gắng sức vào sự yên nghỉ đó, hầu cho không có một người nào trong chúng ta theo gương kẻ <u>chẳng tin</u> (pattern of disobedience&mdash;NETBible) kia mà vấp ngã. (Hebrews 4:11)
 
-... where the true obedience is to trust in nothing else but the cross of Christ, and this rest we can enter because Christ's work is finished. This rest is the true Sabbath when the believer can quit all struggle in trying to get right with God and simply lay down at the foot of the old rugged cross.
+Đức tin thật sẽ dẫn đến sự an nghỉ. Bằng chứng của đức tin là sự an nghỉ vì tin vào lời Chúa phán "mọi sự đã được trọn." Sự an nghỉ này là ngày Sa-bát thật khi người tín hữu không còn vật lộn để tìm cách làm hoà với Chúa. Sự an nghỉ thật dưới chân "Thập Tự Xưa."
 
-Can you see now "Walk According to the Flesh" is not about sins and transgressions, but about using the flesh in an exercise in futility to get right with God? That this flesh based attempt is a rebellion, the "pattern of disobedience" that the author of Hebrews wrote about?
+Bây giờ bạn đọc có thấy "Noi Theo Xác Thịt," hoặc "Bước Đi Theo Xác Thịt," không nói về vấn đề tội lỗi, nhưng nói về sự sử dụng nỗ lực của xác thịt cách vô vọng để làm hoà với Đức Chúa Trời? Có thấy rằng nỗ lực xác thịt này quả thực là một sự "chẳng tin" mà tác giả Hê-bơ-rơ đã viết?
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
@@ -151,4 +199,3 @@ Can you see now "Walk According to the Flesh" is not about sins and transgressio
         {% include bible-study/meditations %}
 </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
-
