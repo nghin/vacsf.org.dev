@@ -1,0 +1,15 @@
+assets
+blog
+_config_dev.yml
+_config.yml
+_data
+_drafts
+file.lst
+images
+_includes
+_layouts
+LICENSE
+pages
+_posts
+README.md
+_sass

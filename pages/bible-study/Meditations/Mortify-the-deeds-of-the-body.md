@@ -3,7 +3,7 @@ layout: page-fullwidth
 subheadline: "How do you put to death the deeds of the body?"
 title: "The True Meaning of <cite>Romans 8:13</cite>"
 meta_teaser: "Put to death the deeds of the body mortify mortification"
-teaser: "At first glance, almost without being taught by anyone, most come to the conclusion that to put to death the deeds of the body means to literally pin down and conquer all weaknesses of the flesh. But does the context surrounding this verse warrant such interpretation. This article submits that its true application is not based on our ability, but on what Jesus had accomplished on the cross."
+teaser: "At first glance, almost without being taught by anyone, most come to the conclusion that to put to death the deeds of the body means to literally pin down and conquer all weaknesses of the flesh. But does the context surrounding this verse warrant such interpretation? This article submits that its true application is not based on our ability, but on what Jesus had accomplished on the cross."
 permalink: /bible-topics/meditations/put-to-death-the-deeds-of-the-body/
 breadcrumb: true
 header: no
