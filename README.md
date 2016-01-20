@@ -15,9 +15,9 @@ The best way to deploy Jekyll powered website on github.
 3. Deployment build:
    jekyll build --config _config.yml,_config_site.yml
 4. Copy compiled files:
-   rsync -avzh --delete  /home/nghi/Documents/Jekyll/vacsf.org.dev/_site/* /home/nghi/Documents/Jekyll/vacsf.org/
+   rsync -avzh /home/nghi/Documents/Jekyll/vacsf.org.dev/_site/* /home/nghi/Documents/Jekyll/vacsf.org/
    or on nitrous:
-   rsync -avzh --delete  /home/nitrous/code/vacsf.org.dev/_site/* /home/nitrous/code/vacsf.org/
+   rsync -avzh /home/nitrous/code/vacsf.org.dev/_site/* /home/nitrous/code/vacsf.org/
 5. Push vacsf.org to github with .nojekyll
 
 Great resource for getting unicode index of special Vietnamese characters
