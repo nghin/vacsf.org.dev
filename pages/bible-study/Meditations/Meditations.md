@@ -12,10 +12,13 @@ header: no
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 
 <ul class="side-nav">
+      <li><a href="{{ site.baseurl }}/bible-topics/meditations/put-to-death-the-deeds-of-the-body/">Putting to Death the Deeds of the Flesh - Làm Cho Chết Các Việc Của Chi Thể</a><p style="font-weight: normal;">
+      
+At first glance, almost without being taught by anyone, most come to the conclusion that to put to death the deeds of the body means to literally pin down and conquer all weaknesses of the flesh. But does the context surrounding this verse warrant such interpretation. This article submits that its true application is not based on our ability, but on what Jesus had accomplished on the cross.<span style="color: #cc0000; font-style: italic;"> (Bài này có tiếng Việt)</span>
+</p></li>
       <li><a href="{{ site.baseurl }}/bible-topics/meditations/walk-according-to-flesh/">Walk According To The Flesh - Noi Theo Xác Thịt</a><p style="font-weight: normal;">
 
 Discover the true meaning of "walk according to the flesh" <cite>(Romans 8:4)</cite>. We must derive its meaning from the perspective of faith which is based on the firm foundation of the cross of Christ. If we view this verse from the perspective of religion, we will miss it completely. All wellknown commentaries such as Matthew Henry, Pulpit, Gill, JFB (Jamieson, Fausset, and Brown) have missed it.<span style="color: #cc0000; font-style: italic;"> (Bài này có tiếng Việt)</span>
-
 </p></li>
       <li><a href="{{ site.baseurl }}/bible-topics/meditations/ambassador/">Parable of the Ambassador - Ngụ Ngôn Quan Khâm Sai</a><p style="font-weight: normal;">
 
