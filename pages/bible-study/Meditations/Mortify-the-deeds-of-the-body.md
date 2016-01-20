@@ -20,12 +20,12 @@ header: no
 
 <div>
 <p>
-<img alt src="{{ site.baseurl }}/images/walking.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/death-deeds.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 What does it mean to "put to death" the deeds of the flesh? There are probably as many different interpretations and applications as there are religions and spiritual beliefs in the world. The deeds of the flesh are generally associated with sinful activities. Therefore to put them to death means to be no longer affected by sinful temptations such as greed, lust, envy, and many other vices.
 </p>
 </div>
 
-Is it realistic for Paul to offer such admonition if the most common interpretation is what he has in mind? Can anyone put to death the deeds of the flesh? Has anyone ever done it? It's a resounding no, because no one has ever done it. Then why did Paul bother to offer such admonition of he knew none of his subjects, including himself, will be able to carry it out?
+Is it realistic for Paul to offer such admonition if the most common interpretation is what he has in mind? Can anyone put to death the deeds of the flesh? Has anyone ever done it? It's a resounding no, because no one has ever done it. Then why did Paul bother to offer such admonition if he knew none of his subjects, including himself, will be able to carry it out?
 
 Most commentaries teach that since now we're empowered by the Holy Spirit, we have the power to put to death the deeds of the flesh. If indeed they had been put to death, there would have been no struggles in the lives of Christians, because who would wrestle with something that is dead? Then Paul wouldn't have written:
 
@@ -46,11 +46,11 @@ So then are you allowed to fail this command&mdash;if it is understood in the tr
 
 ### How to put to death the deeds of the flesh
 
-Paul does show us how to pass from death to life: by putting to death the deeds of the flesh, or the body. But is this really good news, because it sounds no different from the first part of the verse? How do you put to death, or mortify, the deeds of the flesh? Everyone who still live in the flesh will walk by the flesh, and no one who is still alive can put to death the deeds of his flesh.
+Paul does show us how to pass from death to life: by putting to death the deeds of the flesh, or the body. But is this really good news, because it sounds no different from the first part of the verse? How do you put to death, or mortify, the deeds of the flesh? Everyone who still lives in the flesh will walk by the flesh, and no one who is still alive can put to death the deeds of his flesh.
 
 And yet we know we're already dead, hence the deeds of our flesh are already dead. 
 
-> 3 Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his <u>death</u>?  4 Therefore we are <u>buried</u> with him by baptism into death (Romans 6:3-4)
+> <sup>3</sup> Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his <u>death</u>?  <sup>4</sup> Therefore we are <u>buried</u> with him by baptism into death (Romans 6:3-4)
 
 Though we're not practically dead, we're counted as dead by the virtue of Christ's substitutionary death on the cross. There are so many spiritual blessings that became ours through Christ including being dead and buried with Him.
 
