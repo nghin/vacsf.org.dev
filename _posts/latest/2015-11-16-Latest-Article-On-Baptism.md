@@ -4,23 +4,64 @@ subheadline: "Bible Study"
 title: "A More Complete Picture of Baptism"
 meta_teaser: "Vietnamese Alliance Church San Francisco Baptism"
 teaser: "This article points out the historical roots; considers the specific audiences to which the messengers were sent; and identifies where baptism fits into our Christian lives."
+permalink: /bible-topics/meditations/baptism/
+breadcrumb: true
 header: no
 image:
     thumb: "thumbs/Jesus-baptized-thumb.jpg"
 categories:
-    - latest
+    - bible-study
 ---
 <!--more-->
-<div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
+<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/">(Bấm vào đây để đọc tiếng Việt)</a></p>
+<div class="row">
+<div class="medium-8 columns" markdown="1">
 
-<div>
-<p>
-<img alt src="{{ site.baseurl }}/images/Jesus-baptized.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<p class="blockquote">A dear friend, Doug Olsen of <a href="http://myredeemer.org">myredeemer.org</a>, gave me permission to post here a great study on the important topic of baptism.</p>
+
+## Context Tells It All
+
 All too often, when we Christians have been taught a view dealing with an important Bible issue, we form an immediate position that is nearly impossible to change later. This is especially true for baptism where just a very few Scriptures are used to support each of the vastly different teachings. To understand what God wants us to know regarding this important subject, we should listen to all that He has to say about it. This section attempts to present a more complete picture of baptism. It points out the historical roots; considers the specific audiences to which the messengers were sent; and identifies where baptism fits into our Christian lives.
-</p>
-</div>
 
-Please click <a href="/bible-topics/meditations/baptism/"><u><em>here: Baptism - A More Complete Picture</em></u></a> to read complete article.
+### The History of Baptism
+
+Most of us think that baptism started with the Great Commission. But actually, its roots are found in the Old Testament laws of ceremonial washings. There were washings for just about everything from removing mildew from walls, to purification after child birth, to acceptance of a leper back into the community.
+
+<a href="{{ site.projectname }}/bible-topics/meditations/baptism/history/">Continue ...</a>
+
+### Baptizing for Different Purposes
+
+Each of God's messengers had very specific and relevant messages that were aimed at target audiences. First we will look at John who was told by God (the Father) to identify Jesus (His Son) as the Messiah to the nation of Israel using baptism. Next, Peter and the other apostles were to deliver a message that sounded similar to John's, but it emphasized the concept of the Trinity. Then there was Jesus who was said to have baptized in the Jordan River. Lastly, when Paul saw Jesus in a vision, he was told to deliver a different message to a different people.
+
+<a href="{{ site.projectname }}/bible-topics/meditations/baptism/purposes/">Continue ...</a>
+
+### Is Water Baptism Essential to Salvation?
+
+In Acts chapter 10 there is a story about some Gentile (pagans) who heard the message of God's salvation in their own language when Peter was speaking. The Scriptures say that they received the Spirit (the seal of the promised eternal life) and later elected to be baptized with water. It was their desire to go through the same ritualistic washing that the Jews had been observing. Obviously, since they received the Spirit first, water baptism is not a requirement for salvation.
+
+<a href="{{ site.projectname }}/bible-topics/meditations/baptism/salvation/">Continue ...</a>
+
+### Baptizing in One Name or All Three
+
+One of the major dividing issues that splits Christians apart –even to the extent of creating denominations– is based on what name is spoken during baptism ("I baptize you in the name of ..." ). There are several places in Acts that refer to "baptizing in the name of Jesus", yet in Matthew the instruction is to "baptize in the name of the Father, Son and Holy Spirit". But the significance of what name was spoken can be better understood through the viewpoint of a Jew.
+
+<a href="{{ site.projectname }}/bible-topics/meditations/baptism/in-the-name/">Continue ...</a>
+
+### Summary ...
+
+For a Christian to lead a healthy spiritual life, he must be grounded on solid conclusions regarding the fundamental Bible topics. Unfortunately, many of us merely repeat whatever we have heard from influential people over the years rather than reading what God's word has to say –in context– and then allowing the Holy Spirit to reveal its meaning to us. Baptism deserves serious consideration far beyond common church teachings and traditions.
+
+<a href="{{ site.projectname }}/bible-topics/meditations/baptism/summary/">Continue ...</a>
+
+<a href="{{ site.projectname }}/bible-topics/meditations/baptism/history/">Next: Baptism's History</a>
+
+{% include bible-study/bible-study-footer %}
+</div><!-- /.medium-8.columns -->
+<div class="bible-index medium-4 columns">
+<h2 style="margin: 0px">Baptism</h2>
+        {% include bible-study/baptism %}
+</div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
 
 <div class="small-12" style="padding: 0px; border-bottom: none;">
     {% include next-previous-post-in-category %}

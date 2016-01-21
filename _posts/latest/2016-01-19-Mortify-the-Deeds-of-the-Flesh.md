@@ -10,7 +10,7 @@ header: no
 image:
     thumb: "/thumbs/death-deeds.jpg"
 categories:
-    - latest
+    - bible-study
 ---
 <!--more-->
 <div class="row">

@@ -4,7 +4,7 @@ subheadline: "Bible Study"
 title: "Baptism: The Real Story"
 meta_teaser: "Baptism History Purposes Salvation"
 teaser: "A more complete picture of baptism. This article points out the historical roots; considers the specific audiences to which the messengers were sent; and identifies where baptism fits into our Christian lives."
-permalink: /bible-topics/meditations/baptism/
+permalink: /bible-topics/meditations/baptism2/
 breadcrumb: true
 header: no
 ---
