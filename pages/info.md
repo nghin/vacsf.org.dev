@@ -52,8 +52,8 @@ Spiritual revival camp in Northern California from August 19-21, 2016 at <a href
 <table class="table table-condensed table-responsive" style="width: 100%; font-family: 'open_sans_condensedbold', sans-serif;" border="1">
 <tbody>
 <tr>
-<td class="title-padding" style="background-color: #cccccc;"><strong>JAN</strong></td>
-<td class="title-padding" style="background-color: #cccccc;" align="left">17</td>
+<td class="title-padding" style="width: 100px; background-color: #cccccc;"><strong>JAN</strong></td>
+<td class="title-padding" style="width: 100px; background-color: #cccccc;" align="left">17</td>
 <td class="title-paddingi" style="background-color: #cccccc;">Mục sư khách
 &mdash; guest speaker:
 Pastor Bob Boston</td>
@@ -138,8 +138,8 @@ Khó &mdash; Good Friday</td>
 <table class="table table-condensed table-responsive" style="width: 100%; font-family: 'open_sans_condensedbold', sans-serif;" border="1">
 <tbody>
 <tr>
-<td class="title-padding" style="background-color: #cccccc;"><strong>JAN</strong></td>
-<td class="title-padding" style="background-color: #cccccc;" align="left">18</td>
+<td class="title-padding" style="width: 100px; background-color: #cccccc;"><strong>JAN</strong></td>
+<td class="title-padding" style="width: 100px; background-color: #cccccc;" align="left">18</td>
 <td class="title-paddingi" style="background-color: #cccccc;">M.S. vắng mặt(retreat)</td>
 </tr>
 <tr>
