@@ -58,7 +58,7 @@ And yet we know we're already dead, hence the deeds of our flesh are already dea
 
 Though we're not practically dead, we're counted as dead by the virtue of Christ's substitutionary death on the cross. There are so many spiritual blessings that became ours through Christ including being dead and buried with Him.
 
-In Romans 7, Paul used an example of a married woman, who is released from the law that bound her to her husband upon his death, to show how a person in Christ can be released from the law that bound him to his body of death (Romans 7:6). Romans 6:6 says "*For he that is dead is freed from sin*," therefore the law in the key verse of this article is fulfilled in him:
+In Romans 7, Paul used an example of a married woman, who is released from the law that bound her to her husband until his death, to show how a person in Christ can be released from the law that bound him to his body of death (Romans 7:6). Romans 6:6 says "*For he that is dead is freed from sin*," therefore the law in the key verse of this article is fulfilled in him:
 
 <p class="blockquote">For if ye live after the flesh, ye shall die, but if ye through the Spirit do mortify the deeds of the body, ye shall live.</p>
 
