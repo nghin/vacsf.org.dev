@@ -68,7 +68,9 @@ My thought: can you really kill sin? The only one who can kill sin is Christ, an
 
 #### Ellicott
 
-<p class="blockquote">If under the influence of the Spirit you reduce to a condition of deadness and atrophy all those practices to which <u>the impulses of your material nature</u> would prompt you.</p>
+<p class="blockquote">If under the influence of the Spirit you <u>reduce to a condition of deadness and atrophy</u> all those practices to which <u>the impulses of your material nature</u> would prompt you.</p>
+
+Spurious argument at best. What is a condition of deadness and atrophy? By whose standard? Your own arbitrary perception of deadness and atrophy?
 
 #### Barnes
 
@@ -100,7 +102,7 @@ So we must be deluding ourselves if we thing we can put to death the deeds of th
 
 ### <span style="color: #666666;">Who wrestles with dead flesh?</span>
 
-If indeed the deeds of the flesh could be put to death, then there would be no longer any struggles in the lives of Christians, wouldn't there? And who would want wrestle with something that is dead? And if the flesh can be put to death physically, then Paul wouldn't have written:
+If indeed the deeds of the flesh could be put to death, then there would be no longer any struggles in the lives of Christians, wouldn't there? And who would want to wrestle with something that is dead? And if the flesh can be put to death physically, then Paul wouldn't have written:
 
 <p class="blockquote"><sup>21</sup>So, I find the law that when I want to do good, evil is present with me.  <sup>22</sup>For I delight in the law of God in my inner being.  <sup>23</sup>But I see a different law in my members waging war against the law of my mind and making me captive to the law of sin that is in my members. <cite>(Romans 7:21-23)</cite></p>
 
