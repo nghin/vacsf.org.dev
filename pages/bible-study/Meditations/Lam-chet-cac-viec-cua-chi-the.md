@@ -25,7 +25,7 @@ categories:
 <div>
 <p>
 <img alt src="{{ site.baseurl }}/images/death-deeds.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-"Làm chết" các việc của chi thể mang ý nghĩa gì? Có lẽ có bao nhiêu tôn giáo và tín lý trong thế gian thì có bấy nhiều cách giải thích và ứng dụng. Còn các việc của chi thể thì thường được liên hệ đến các hành vi tội lỗi. Do đó làm cho chết phải mang ý nghĩa là không còn khả năng vi phạm đến những điều chẳng hạn như tham lam, tình dục, ganh tị, và nhiều các điều xấu khác nữa.
+"Làm chết" các việc của chi thể mang ý nghĩa gì? Có lẽ có bao nhiêu tôn giáo và tín lý trong thế gian thì có bấy nhiêu cách giải thích và ứng dụng. Còn các việc của chi thể thì thường được liên hệ đến các hành vi tội lỗi. Do đó làm cho chết phải mang ý nghĩa là không còn khả năng vi phạm đến những điều chẳng hạn như tham lam, tình dục, ganh tị, và nhiều các điều xấu khác nữa.
 </p>
 </div>
 
@@ -37,7 +37,7 @@ Hầu hết các sách giải kinh dạy rằng vì bây giờ chúng ta có quy
 
 Chúng ta hãy tiếp tục nghiên cứu câu Kinh Thánh này trong bối cảnh bao quát của nó để biết rõ ý Phao-lô thực sự muốn nói.
 
-### Chúng ta có được quyền thiếu sót về luật này không?
+### ... Sống theo xác thịt thì phải chết
 
 Nếu mệnh lệnh này, "hãy làm chết các việc của chi thể," được hiểu theo nghĩa thông thường, thì không ai được cứu, vì chẳng từng có ai đã làm chết các việc của chi thể. Chúng ta hãy đọc Romans 8:13 một lần nữa: <em>"Nếu anh em sống theo xác thịt thì phải chết."</em> Và chính sứ đồ Phao-lô cũng công nhận ông không thể nào làm được điều này theo cách giải thích phổ thông như chúng ta đã đọc thấy trong Romans 7:21-24 ở trên, do đó điều Phao-lô viết trong Romans 8:13 phải được hiểu từ một quan điểm khác.
 
@@ -55,7 +55,7 @@ Nhưng chúng ta nhờ lời Kinh Thánh biết mình đã chết rồi, và do 
 
 Mặc dầu trên thực tế chúng ta chưa chết, nhưng được kể là đồng chết với Chúa nhờ Ngài chịu chết thay cho chúng ta trên thập tự giá. Có rất nhiều các phước lành thuộc linh được ban cho chúng ta qua Đấng Christ kể cả việc đồng chết và chôn cùng Ngài.
 
-Trong Rô-ma đoạn 7, Phao-lô dùng thí dụ một người bà bị ràng buộc với chồng bởi luật pháp cho đến khi chồng chết, để chỉ bằng cách nào một người ở trong Đấng Christ có thể được thoát khỏi luật pháp ràng buộc mình với con người cũ mà Phao-lô gọi là thân thể hay chết (Romans 7:6). Còn Romans 6:6 viết rằng "*Vì ai đã chết thì được thoát khỏi tội lỗi*," do đó luật pháp bày tỏ trong Romans 8:13 được trọn trong người đó:
+Trong Rô-ma đoạn 7, Phao-lô dùng thí dụ một người đàn bà bị ràng buộc với chồng bởi luật pháp cho đến khi chồng chết, để chỉ bằng cách nào một người ở trong Đấng Christ có thể được thoát khỏi luật pháp ràng buộc mình với con người cũ mà Phao-lô gọi là thân thể hay chết (Romans 7:6). Còn Romans 6:6 viết rằng "*Vì ai đã chết thì được thoát khỏi tội lỗi*," do đó luật pháp bày tỏ trong Romans 8:13 được trọn trong người đó:
 
 <p class="blockquote">Thật thế, nếu anh em sống theo xác thịt thì phải chết; song nếu nhờ Thánh Linh, làm cho chết các việc của thân thể, thì anh em sẽ sống</p>
 
@@ -65,13 +65,15 @@ Trong Rô-ma đoạn 7, Phao-lô dùng thí dụ một người bà bị ràng b
 
 Điều trớ trêu ở đây là Phao-lô viết tín lý quan trọng này cho hội thánh của Đấng Christ như thể họ vẫn còn sống trong sự vô tín, vì vấn đề sống và chết ông vẫn phải đặt ra với họ. Đây là một dạng khác của John 3:16 là câu Kinh Thánh thường được dùng để kêu gọi người chưa tin Chúa. Romans 8:13 được nêu lên với những người trên môi miệng xưng nhận niềm tin của John 3:16, nhưng trên thực tế vẫn trông cậy nơi việc làm của xác thịt để đến gần Chúa.
 
-Với những người này, khi đối diện với mệnh lệnh trong Romans 8:13, họ phản ứng tương tự như Ni-cô-đem khi Chủa Giê-su phán: "*Ngươi phải được tái sinh (John 3:1-21)*." Cũng như Ni-cô-đêm không thể thoát được sự ràng buộc của xác thịt, họ cũng không thể nào làm chết được các việc của chi thể. Nếu Ni-cô-đem cần quyền năng tạo hoá của Đức Thánh Linh để được tái sinh, thì người tín hữu của Tân Ước cũng cần quyền năng đó để được thoát khỏi các việc làm của chi thể họ. Nhưng chúng ta không thể hiểu rằng Đức Thánh Linh giúp ban thêm sức cho họ, vì Ngài tự làm công việc kỳ diệu đó mà không cần ai giúp một tay, cũng như khi Ngài hà hơi và Adam và khối đất sét trở nên loài sanh linh.
+Với những người này, khi đối diện với mệnh lệnh trong Romans 8:13, họ phản ứng tương tự như Ni-cô-đem khi Chủa Giê-su phán: "*Ngươi phải được tái sinh (John 3:1-21)*." Cũng như Ni-cô-đêm không thể thoát được sự ràng buộc của xác thịt, họ cũng không thể nào làm chết được các việc của chi thể. Nếu Ni-cô-đem cần quyền năng tạo hoá của Đức Thánh Linh để được tái sinh, thì người tín hữu của Tân Ước cũng cần quyền năng đó để được thoát khỏi các việc làm của chi thể họ. Nhưng chúng ta phải hiểu rằng đây không phải là Đức Thánh Linh giúp ban thêm sức cho họ làm chết các việc của chi thể, nhưng chính Ngài tự làm công việc kỳ diệu đó mà không cần sự giúp đỡ của xác thịt (1 Corinthians 15:50), cũng như khi Ngài hà hơi vào Adam và khối đất sét trở nên loài sanh linh.
 
 Nói tóm lại, làm chết các việc của chi thể, ngoài sự cậy nơi sự Chúa chịu chết thay trên thập tự để chúng được kể như chết, là không còn nương cậy nơi việc làm của xác thịt để được xưng công bình trước mặt Đức Chúa Trời.
 
 Phao-lô đã trình bày tín lý này cách khác khi ông viết cho tín hữu Ga-la-ti là những người đặt phép cắt bì làm điều kiện của sự cứu rỗi:
 
-> <sup>1</sup>Ðấng Christ đã buông tha chúng ta cho được tự do; vậy hãy đứng vững, chớ lại để mình dưới ách tôi mọi nữa.  <sup>2</sup>Tôi là Phao-lô nói với anh em rằng, nếu anh em chịu làm phép cắt bì, thì Ðấng Christ không bổ ích chi cho anh em hết.  <sup>3</sup>Tôi lại rao cho mọi người chịu cắt bì rằng, họ buộc phải vâng giữ trọn cả luật pháp.  <sup>4</sup>Anh em thảy đều muốn cậy luật pháp cho được xưng công bình, thì đã lìa khỏi Ðấng Christ, mất ân điển rồi.  <sup>5</sup>Về phần chúng ta, ấy là bởi đức tin và nhờ Thánh Linh mà chúng ta được nhận lãnh sự trông cậy của sự công bình.  <sup>6</sup>Vì trong Ðức Chúa Jêsus Christ, cái điều có giá trị, không phải tại chịu phép cắt bì hoặc không chịu phép cắt bì, nhưng tại đức tin hay làm ra bởi sự yêu thương vậy. (Galatians 5:1-6)
+> <sup>1</sup>Ðấng Christ đã buông tha chúng ta cho được tự do; vậy hãy đứng vững, chớ lại để mình dưới ách tôi mọi nữa.  <sup>2</sup>Tôi là Phao-lô nói với anh em rằng, nếu anh em chịu làm phép cắt bì, thì Ðấng Christ không bổ ích chi cho anh em hết.  <sup>3</sup>Tôi lại rao cho mọi người chịu cắt bì rằng, họ buộc phải vâng giữ trọn cả luật pháp.  <sup>4</sup><u>Anh em thảy đều muốn cậy luật pháp cho được xưng công bình, thì đã lìa khỏi Ðấng Christ, mất ân điển rồi</u>.  <sup>5</sup>Về phần chúng ta, ấy là bởi đức tin và nhờ Thánh Linh mà chúng ta được nhận lãnh sự trông cậy của sự công bình.  <sup>6</sup>Vì trong Ðức Chúa Jêsus Christ, cái điều có giá trị, không phải tại chịu phép cắt bì hoặc không chịu phép cắt bì, nhưng tại đức tin hay làm ra bởi sự yêu thương vậy. (Galatians 5:1-6)
+
+Tóm lại, chỉ có Chúa là Đấng đầy quyền năng để làm việc mà chỉ Thượng Đế làm được: làm chết các việc của chi thể, và phần của chúng ta là: đức tin nơi Đấng Christ, vì người công bình sẽ sống bởi đức tin (Hebrews 10:38).
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
