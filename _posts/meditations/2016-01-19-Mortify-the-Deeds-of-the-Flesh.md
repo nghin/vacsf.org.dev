@@ -108,7 +108,7 @@ If indeed the deeds of the flesh could be put to death, then there would be no l
 
 ## The biblical, and correct, view
 
-What is the Bible about? Is it a book of morality to deal with Man's countless vices? Or is it one to bridge the impossible chasm between God and Man? Indeed though it started out showing Man's utter depravity by showing their uncountable acts that came from the deepest parts of their fallen humanity, it moved on to the triumphant declaration, not anyone of flesh and blood, but of the Son of God as their Savior.
+What is the Bible about? Is it a book of morality to deal with Man's countless vices? Or is it one to bridge the impossible chasm between God and Man? Indeed though it started out showing Man's utter depravity by showing their uncountable acts that came from the deepest parts of their fallen humanity, it moved on to the triumphant declaration, not of anyone of flesh and blood, but of the Son of God as their Savior.
 
 The Bible, in the part we called the Old Testament, gave mankind for a limitted time a chance to go through a test, through the Old Covenant with the ten commandments and statutes, with the ultimate goal of bringing them to a place where they're on their knees realizing that no matter how much they try with their flesh, by doing something, or avoid doing something else, by using the ten commandments and various Mosaic laws and statutes as their moral yardsticks, they would still fall far short of God's standard of righteousness.
 
@@ -116,7 +116,7 @@ And after a time of letting Man exhaust all their resources, after they failed m
 
 Jesus had come two thousands years ago as foretold by prophets long ago, but most importantly He came to end all sacrifices (Hebrews 10:12;10:26), and claimed supremacy as the sole Savior of mankind. His sacrifice will end all sacrifices. He is the gospel, the Word of God, with nothing to be added or taken away from it.
 
-Mankind is expected to stop all their trying, because the time has passed for men to try with their own self effort, because they had been proven incapable of saving themselves, now they must surrender and express their trust completely on Jesus who came as their Savior. No longer are they allowed to use the power of their flesh to prove their worth before God, which really is no more than filthy rags. But we shall see that their pride is great, and they will try with all their might to prove once again they are "like God, knowing good and evil." And Paul was tasked with the job of writing to the churches to tell them that now is the time for faith, no longer for works. This is the deeds of the flesh that they must put to death; it is this kind of deeds that compete with the cross of Christ in saving their souls. The sinful deeds of their flesh can be forgiven, but these cross-defying deeds from their flesh is an abormination to the Lord.
+Mankind is expected to stop all their trying, because the time has passed for them to try with their own self effort, because they had been proven incapable of saving themselves, now they must surrender and express their trust completely on Jesus who came as their Savior. No longer are they allowed to use the power of their flesh to prove their worth before God, which really is no more than filthy rags. But we shall see that their pride is great, and they will try with all their might to prove once again they are "like God, knowing good and evil." And Paul was tasked with the job of writing to the churches to tell them that now is the time for faith, no longer for works. This is the deeds of the flesh that they must put to death; it is this kind of deeds that compete with the cross of Christ in the salvation of their souls. The sinful deeds of their flesh can be forgiven, but these cross-defying deeds from their flesh is an abormination to the Lord.
 
 ### <span style="color: #666666;">Let's learn some Greek</span>
 
@@ -137,7 +137,7 @@ We tend to associate the "deeds of the flesh" to sinful actions, but we fail to 
 
 ### <span style="color: #666666;">The Cross wasn't enough</span>
 
-Soon after Jesus was resurrected and went to sit at the right hand of God to bestow righteousness upon those who called on His name, and soon after the first church of Jesus Christ was established as recorded in the book of Acts, the Christians of this first church retreated back to the old way. So much so that Paul had to begin frantically writing many letters to call them to stay true to the gospel of Jesus Christ.
+Soon after Jesus was resurrected and went to sit at the right hand of God to bestow righteousness upon those who called on His name, and soon after the first church of Jesus Christ was established as recorded in the book of Acts, the Christians of this first church retreated back to the old way. So much so that Paul had to begin to write profusely many letters to call them to stay true to the gospel of Jesus Christ.
 
 #### To the church in Colosse
 
