@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "How do you put to death the deeds of the body?"
+subheadline: "The correct view of the deeds of the body"
 title: "Mortify the Deeds of the Flesh&mdash;<cite>Romans 8:13</cite>"
 meta_teaser: "Vietnamese Alliance Church San Francisco flesh mortification mortify deeds"
 teaser: "At first glance, almost without being taught by anyone, most come to the conclusion that to put to death the deeds of the body means to literally pin down and conquer all weaknesses of the flesh. But does the context surrounding this verse warrant such interpretation?"
@@ -16,9 +16,7 @@ categories:
 <div class="row">
 <div class="medium-8 columns" markdown="1">
 
-<!--
 <em><a style="color: #ff0000;" href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/lam-cho-chet-cac-viec-cua-chi-the/">(Bấm vào đây để đọc tiếng Việt)</a></em>
--->
 
 > For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live. <cite>(Romans 8:13)</cite>
 
@@ -70,7 +68,7 @@ My thought: can you really kill sin? The only one who can kill sin is Christ, an
 
 <p class="blockquote">If under the influence of the Spirit you <u>reduce to a condition of deadness and atrophy</u> all those practices to which <u>the impulses of your material nature</u> would prompt you.</p>
 
-Spurious argument at best. What is a condition of deadness and atrophy? By whose standard? Your own arbitrary perception of deadness and atrophy?
+Spurious argument at best. What is a condition of deadness and atrophy? By whose standard? Your own arbitrary perception of deadness and atrophy? Romans 8:13 doesn't say you can reduce it to a certain amount, it says put it to death, completely, absolutely.
 
 #### Barnes
 
@@ -88,7 +86,7 @@ Didn't this commentator read Colossians 2:16-23?
 
 This is all I gathered in one Internet query. I presume the rest of commentaries commit the same isogesis as these we've read.
 
-The Bible commentators are guilty of asking others to do what they themselves cannot do. Didn't Jesus say something about this concerning the teachers of the law? But it doesn't matter what the commentaries say, each one of us is accountable for making sure we're not in error in approaching this important concept because it profoundly affects our relationship with God. Who can verify that someone's flesh is indeed mortified? Can each one who holds the traditional view verify for himself he fully passes the mortification test? 
+The Bible commentators are guilty of asking others to do what they themselves cannot do. Didn't Jesus say something about this concerning the teachers of the law? But it doesn't matter what the commentaries say, each one of us is accountable for making sure we're not in error in approaching this important concept because it profoundly affects our relationship with God. Who can verify that someone's flesh is indeed mortified? Can each one who holds the traditional view verify for himself if he fully passes the mortification test? 
 
 ### <span style="color: #666666;">Running without aim</span>
 
@@ -98,7 +96,7 @@ So far we have presented the case that there is no hope of heaven for those who 
 
 <p class="blockquote">All we like sheep have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquity of us all. <cite>(Isaiah 53:6; Romans 3:10-18)</cite></p>
 
-So we must be deluding ourselves if we thing we can put to death the deeds of the flesh according to the traditional view. Are we like folks who try to finish the race knowing that we can't win? The appalling thing is pulpits all over the world is preaching the tradition view as if it is the main purpose of Christianity. It is converting folks to embark on a quest to a country surrounded with barbed wires no one can enter.
+So we must be deluding ourselves if we think we can put to death the deeds of the flesh according to the traditional view. Are we like folks who try to finish the race knowing that we can't win? The appalling thing is pulpits all over the world is preaching the traditional view as if it is the main purpose of Christianity. It is converting folks to embark on a quest to a country surrounded with barbed wire fences no one can enter.
 
 ### <span style="color: #666666;">Who wrestles with dead flesh?</span>
 
@@ -110,13 +108,13 @@ If indeed the deeds of the flesh could be put to death, then there would be no l
 
 What is the Bible about? Is it a book of morality to deal with Man's countless vices? Or is it one to bridge the impossible chasm between God and Man? Indeed though it started out showing Man's utter depravity by showing their uncountable acts that came from the deepest parts of their fallen humanity, it moved on to the triumphant declaration, not of anyone of flesh and blood, but of the Son of God as their Savior.
 
-The Bible, in the part we called the Old Testament, gave mankind for a limitted time a chance to go through a test, through the Old Covenant with the ten commandments and statutes, with the ultimate goal of bringing them to a place where they're on their knees realizing that no matter how much they try with their flesh, by doing something, or avoid doing something else, by using the ten commandments and various Mosaic laws and statutes as their moral yardsticks, they would still fall far short of God's standard of righteousness.
+The Bible, in the part we called the Old Testament, gave mankind for a limited time a chance to go through a test, through the Old Covenant with the Ten Commandments and statutes, with the ultimate goal of bringing them to a place where they're on their knees realizing that no matter how much they try with their flesh, by doing something, or avoid doing something else, by using the ten commandments and various Mosaic laws and statutes as their moral yardsticks, they would still fall far short of God's standard of righteousness.
 
 And after a time of letting Man exhaust all their resources, after they failed miserably in trying to keep the commandments, God ushered in a new era that no longer allows Man to try to test their worth through their self effort, their flesh. This new era is recorded in the New Testament in which faith is now the sole instrument through which men can receive the gift of the forgiveness of sins and eternal life free to anyone who asks.
 
-Jesus had come two thousands years ago as foretold by prophets long ago, but most importantly He came to end all sacrifices (Hebrews 10:12;10:26), and claimed supremacy as the sole Savior of mankind. His sacrifice will end all sacrifices. He is the gospel, the Word of God, with nothing to be added or taken away from it.
+Jesus had come two thousand years ago as foretold by prophets long ago, but most importantly He came to end all sacrifices (Hebrews 10:12;10:26), and claimed supremacy as the sole Savior of mankind. His sacrifice will end all sacrifices. He is the gospel, the Word of God, with nothing to be added or taken away from it.
 
-Mankind is expected to stop all their trying, because the time has passed for them to try with their own self effort, because they had been proven incapable of saving themselves, now they must surrender and express their trust completely on Jesus who came as their Savior. No longer are they allowed to use the power of their flesh to prove their worth before God, which really is no more than filthy rags. But we shall see that their pride is great, and they will try with all their might to prove once again they are "like God, knowing good and evil." And Paul was tasked with the job of writing to the churches to tell them that now is the time for faith, no longer for works. This is the deeds of the flesh that they must put to death; it is this kind of deeds that compete with the cross of Christ in the salvation of their souls. The sinful deeds of their flesh can be forgiven, but these cross-defying deeds from their flesh is an abormination to the Lord.
+Mankind is expected to stop all their trying, because the time has passed for them to try with their own self effort, because they had been proven incapable of saving themselves, now they must surrender and express their trust completely on Jesus who came as their Savior. No longer are they allowed to use the power of their flesh to prove their worth before God, which really is no more than filthy rags. But we shall see that their pride is great, and they will try with all their might to prove once again they are "like God, knowing good and evil." And Paul was tasked with the job of writing to the churches to tell them that now is the time for faith, no longer for works. This is the deeds of the flesh that they must put to death; it is this kind of deeds that compete with the cross of Christ in the salvation of their souls. The sinful deeds of their flesh can be forgiven, but these cross-defying deeds from their flesh is an abomination to the Lord.
 
 ### <span style="color: #666666;">Let's learn some Greek</span>
 
@@ -162,7 +160,7 @@ One deed of the flesh that the Colossians must put to death is their reliance on
 <p class="blockquote"><sup>20</sup>If you have died with Christ to the elemental spirits of the world, why do you submit to them as though you lived in the world?  <sup>21</sup>"Do not handle! Do not taste! Do not touch!"  <sup>22</sup>These are all destined to perish with use, founded as they are on human commands and teachings.  <sup>23</sup>Even though they have the appearance of wisdom with their self-imposed worship and false humility achieved by an <u>unsparing treatment</u> of the body - a wisdom with no true value - they in reality result in <u>fleshly indulgence</u>. <cite>(Colossians 2:20-23)</cite>
 </p>
 
-The elemental spirits of the world has a lot to do with encouraging the deeds of the flesh as pseudo spiritualism; looks and sounds so noble, embraced by all the venerable commentators I listed above, and major denominations with their well learned leaders of advanced theological degrees. How can these great men commit such egregious error in Bible interpretation? It is not about using the flesh for sinning, it's about using the flesh for supposedly noble spiritual purpose.
+The elemental spirits of the world has a lot to do with encouraging the deeds of the flesh as pseudo-spiritualism; looks and sounds so noble, embraced by all the venerable commentators I listed above, and major denominations with their well learned leaders of advanced theological degrees. How can these great men commit such egregious error in Bible interpretation? It is not about using the flesh for sinning, it's about using the flesh for supposedly noble spiritual purpose.
 
 Note also that the Cambridge commentary quoted above expressed the virtue of "intense resistence and self denial" which in reality produced "fleshly indulgence" as we read in Colossians 2:23. These are deeds of the flesh cloaked in noble sounding pious platitude.
 
@@ -178,7 +176,7 @@ Paul wrote the entire book of Galatians with the express purpose of calling them
 
 <p class="blockquote"><sup abp="1961">1</sup>Brothers and sisters, my heart's desire and prayer to God on behalf of my fellow Israelites is for their salvation. &nbsp;<sup>2</sup>For I can testify that they are zealous for God, but their zeal is not in line with the truth. &nbsp;<sup>3</sup>For <u>ignoring the righteousness that comes from God, and seeking instead to establish their own righteousness</u>, they did not submit to God's righteousness. &nbsp;<sup>4</sup>For Christ is the end of the law, with the result that there is righteousness for everyone who believes.&nbsp;<cite>(Romans 10:1-4)</cite></p>
 
-Where else but from the flesh that self righteousness came? This is a sin not of human frailty but of pride. The kind of deeds that are not common preached against from pulpits, but those that inhabit the hearts of preachers themselves, of great theologians who failed at the very basic rule of reasoning.
+Where else but from the flesh that self righteousness came? This is a sin not of human frailty but of pride. The kind of deeds that are not commonly preached against from pulpits, but those that inhabit the hearts of preachers themselves, of great theologians who failed at the very basic rule of reasoning.
 
 #### Letter to the Hebrews
 
@@ -198,9 +196,9 @@ As a matter of fact, this walking after the flesh may even be considered noble a
 
 ## In Conclusion
 
-The Bible is repleted with examples of folks using their flesh not as instruments for sin, but as means to draw near to God. I hope that this writing helps folks who struggle with the traditional view of the deeds of the flesh understand that it is God's will for them to embrace the infinitely more correct view of the concept in question and get some relief, and walk with lighter steps toward the day they meet God with full confidence that God requires nothing but a childlike faith in Jesus.
+The Bible is replete with examples of folks using their flesh not as instruments for sin, but as means to draw near to God. I hope that this writing helps folks who struggle with the traditional view of the deeds of the flesh understand that it is God's will for them to embrace the infinitely more correct view of the concept in question and get some relief, and walk with lighter steps toward the day they meet God with full confidence that God requires nothing but a childlike faith in Jesus.
 
-> <sup>28</sup>Therefore they said to Him, "What shall we do, so that we may work the works of God?" <sup>29</sup>Jesus answered and said to them, "This is the work of God, that you believe in Him whom He has sent."
+> <sup>28</sup>Therefore they said to Him, "What shall we do, so that we may work the works of God?" <sup>29</sup>Jesus answered and said to them, "This is the work of God, that you believe in Him whom He has sent." <cite>(John 6:29)</cite>
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
