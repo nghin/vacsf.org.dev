@@ -25,20 +25,20 @@ Tel. 650-892-5270, Email: ongme1@yahoo.com
 
 ## Sunday Schedule
 
+* 10:30 - 11 AM: Prayer Meeting
 * 11 -12 PM: Trường Ch.Nhật - Sunday School.
 * 12 -1:30 PM: Thờ Phượng - Worship.
 * 1:30-2:30 PM: Thông Công - Fellowship
 
 ## Weekly Activities
 
-* Wednesday: Prayer Meeting (7:30-9:00 pm)
 * Friday: Youth Fellowship
 * Saturday: Church Renovation
 
 </div><!-- /.medium-7.columns -->
 
 <div class="medium-4 columns t30">
-<img style="padding-top: 15px;" src="http://rgb-scale.com/vacsfj336/images/stories/Logo%20color%20trnsprnt.png" alt="Logo color trnsprnt">
+<img style="padding-top: 15px;" src="{{ site.url }}/images/Logo%20color%20trnsprnt.png" alt="Logo color trnsprnt">
 </div><!-- /.medium-5.columns -->
 </div><!-- /.row -->
 
@@ -67,9 +67,14 @@ Eagles fellowship</td>
 <tr>
 <td class="title-padding-even" style="background-color: #a9a9a9;"><strong>FEB</strong></td>
 <td class="title-padding-even" style="background-color: #a9a9a9;"
-align="left">7</td>
-<td class="title-padding-even" style="background-color: #a9a9a9;">Tết &mdash;
-New Year Celebration</td>
+align="left">14</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">Hội Đồng Thường Niên & Tết &mdash;Annual VACSF Conference & New Year Celebration</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;"
+align="left">214</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">Đoàn Sa-ma-ri Nhân Lành Y Tế & Nha Khoa Trình Bày &mdash; Good Samaritan Medical & Dental Mission Presentation</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #cccccc;"><strong>MAR</strong></td>
@@ -79,56 +84,80 @@ align="left">25</td>
 Khó &mdash; Good Friday</td>
 </tr>
 <tr>
-<td class="title-padding-even" style="background-color:
-#cccccc;"><strong>&nbsp;</strong></td>
-<td class="title-padding-even" style="background-color: #cccccc;" align="left">1</td>
-<td class="title-padding-even" style="background-color: #cccccc;">Lễ Phục Sinh
-&mdash; Đêm Thương Khó</td>
+<td class="title-padding-even" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
+<td class="title-padding-even" style="background-color: #cccccc;"
+align="left">27</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Lễ Phục Sinh &mdash; Easter Sunday</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #a9a9a9;"><strong>APR</strong></td>
-<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">&nbsp;</td>
-<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">8-9</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">Nhịn Ăn 30 giờ &mdash; 30 Hours Famine</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #cccccc;"><strong>MAY</strong></td>
-<td class="title-padding-even" style="background-color: #cccccc;" align="left">&nbsp;</td>
-<td class="title-padding-even" style="background-color: #cccccc;">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #cccccc;" align="left">8</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Ngày Từ Mẫu &mdash; Mother's Day</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
+<td class="title-padding-even" style="background-color: #cccccc;" align="left">28-30</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Trại Thiếu Niên C&MA (MS tham dự trại) &mdash; Vietnamese Alliance Youth Camp (Pastor will be at camp)</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #a9a9a9;"><strong>JUN</strong></td>
-<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">&nbsp;</td>
-<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">19</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">Ngày Hiền Phụ &mdash; Father's Day</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #cccccc;"><strong>JUL</strong></td>
-<td class="title-padding-even" style="background-color: #cccccc;" align="left">&nbsp;</td>
-<td class="title-padding-even" style="background-color: #cccccc;">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #cccccc;" align="left">1-5 (Fri-Tue)</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Hội Đồng Giáo Hạt (Mục Sư tham dự Hội Đồng) &mdash; Vietnamese C&MA Conference (Pastor will be at conference)</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
+<td class="title-padding-even" style="background-color: #cccccc;" align="left">18-22</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Chương Trình Kinh Thánh Mùa Hè (thứ Hai đến thứ Sau) &mdash; Vacation Bible School (Mon-Fri)</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
+<td class="title-padding-even" style="background-color: #cccccc;" align="left">31</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Lễ Báp-têm &mdash; Baptism</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #a9a9a9;"><strong>AUG</strong></td>
-<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">&nbsp;</td>
-<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">12-14</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">Trại Hè Bắc Ca-li &mdash; Northern Califorrnia Summer Camp</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #a9a9a9;"><strong>&nbsp;</strong></td>
+<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">21</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">Ngày Kỷ Niệm Gia Đình Mục Sư &mdash; Pastor Anniversary</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #cccccc;"><strong>SEP</strong></td>
-<td class="title-padding-even" style="background-color: #cccccc;" align="left">&nbsp;</td>
-<td class="title-padding-even" style="background-color: #cccccc;">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #cccccc;" align="left">11</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Thờ Phượng và Sinh Hoạt Ngoài Trời &mdash; Picnic Sunday</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #a9a9a9;"><strong>OCT</strong></td>
-<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">&nbsp;</td>
-<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">31</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">Lễ Hội Mùa Trung Thu &mdash; Mid-Autumn Harvest Festival</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #cccccc;"><strong>NOV</strong></td>
-<td class="title-padding-even" style="background-color: #cccccc;" align="left">&nbsp;</td>
-<td class="title-padding-even" style="background-color: #cccccc;">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #cccccc;" align="left">20</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Lễ Tạ Ơn &mdash; Thanksgiving</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #a9a9a9;"><strong>DEC</strong></td>
-<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">&nbsp;</td>
-<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">4</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">Bầu Cử Ban Chấp Hành Hội Thánh &mdash; Church Board Election</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #a9a9a9;"><strong>&nbsp;</strong></td>
+<td class="title-padding-even" style="background-color: #a9a9a9;" align="left">17 (Sat)</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">Lễ Giáng Sinh &mdash; Christmas Celebration</td>
 </tr>
 </tbody>
 </table>
