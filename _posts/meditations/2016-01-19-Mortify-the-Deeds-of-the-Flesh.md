@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
-subheadline: "The correct view of the deeds of the body"
+subheadline: "The deeds of the body&mdash;what are they in the applicable context?"
 title: "Mortify the Deeds of the Flesh&mdash;<cite>Romans 8:13</cite>"
 meta_teaser: "Vietnamese Alliance Church San Francisco flesh mortification mortify deeds"
-teaser: "At first glance, almost without being taught by anyone, most come to the conclusion that to put to death the deeds of the body means to literally pin down and conquer all weaknesses of the flesh. But does the context surrounding this verse warrant such interpretation?"
+teaser: "At first glance, almost without being taught by anyone, most come to the conclusion that to put to death the deeds of the body means to literally pin down and conquer all weaknesses of the flesh. But does the context surrounding this verse warrant such interpretation? The Bible is replete with examples of folks using their flesh not as instruments for sin, but as means to draw near to God, which is the real focus of Paul's writing. I hope that this article helps those who struggle with the traditional view of the deeds of the flesh find relief in the contextual view proposed in this article, and walk with lighter steps toward the day they meet God with full confidence."
 permalink: /bible-topics/meditations/put-to-death-the-deeds-of-the-body/
 breadcrumb: true
 header: no
@@ -25,7 +25,7 @@ categories:
 <div>
 <p>
 <img alt src="{{ site.baseurl }}/images/death-deeds.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-What is your first impression upon an encounter with such words as flesh and its deeds? The most common interpretation of these terms are that the flesh has to do with the sinful part of a person, and its deeds are those things performed by such bad parts, namely sinful activities. This article proposes a much more biblically correct view of these terms. It asserts that Paul was warning against the attempt to live out the Christian faith by the strength of the flesh. For ease of discussion, let us call the generally accepted view the "traditional view," and the other one the "biblical view." 
+What is your first impression upon an encounter with such words as flesh and its deeds? The most common interpretation of these terms is that the flesh has to do with the sinful part of a person, and its deeds are those things performed by such bad parts, namely sinful activities. This article proposes perhaps a more accurate view of these terms. It asserts that Paul was warning against the attempt to live out the Christian faith by the strength of the flesh. For ease of discussion, let us call the generally accepted view the "traditional view," and the other one the "contextual view." 
 </p>
 </div>
 
@@ -62,7 +62,7 @@ Gill wrote a very long winded exposition on this verse, but the bottom line is i
 
 <p class="blockquote">The apostle is not satisfied with assuring them that they are under no obligations to the flesh, to hearken to its suggestions, without reminding them where it will end if they do; and he uses the word "mortify" (put to death) as a kind of play upon the word "die" just before. "If ye do not <u>kill sin</u>, it will kill you."</p>
 
-My thought: can you really kill sin? The only one who can kill sin is Christ, and the only thing you can do is helplessly rest on Him.
+My thought: can you really kill sin? The only one who can kill sin is Christ. Jesus taught us that though a person may resist committing a physical act of adultery, he cannot rid his heart of lustful thoughts (Matthew 5:28). What kills you is not the act, its your fallen nature. Can you kill your fallen nature?
 
 #### Ellicott
 
@@ -72,7 +72,7 @@ Spurious argument at best. What is a condition of deadness and atrophy? By whose
 
 #### Barnes
 
-<p class="blockquote">If you live to <u>indulge your carnal propensitie</u>s, you will sink to eternal death ... The deeds of the body - The <u>corrupt inclinations and passions</u>; called deeds of the body, because they are supposed to have their origin in the <u>fleshly appetites</u>.</p>
+<p class="blockquote">If you live to <u>indulge your carnal propensities</u>, you will sink to eternal death ... The deeds of the body - The <u>corrupt inclinations and passions</u>; called deeds of the body, because they are supposed to have their origin in the <u>fleshly appetites</u>.</p>
 
 Didn't this commentator read Colossians 2:16-23?
 
@@ -80,17 +80,21 @@ Didn't this commentator read Colossians 2:16-23?
 
 <p class="blockquote">The godly themselves need this caution; they must not think, that because they are elected and justified, &c., that therefore they may do and live as they list. </p>
 
+The tone of Romans 8:13 is much more serious. If it is based on the traditional view, no flesh will be saved, Christ would have died in vain.
+
 #### Cambridge
 
 <p class="blockquote">put to death; an antithesis to the “death” just mentioned as the result of sin. The verb is in the present tense, and indicates a continued process of <u>resistance and self-denial</u>. ... This passage, and the parallels, shew how fully St Paul recognized the element of sinfulness as present still in the regenerate—so present as to call for <u>intense resistance</u>. </p>
 
-This is all I gathered in one Internet query. I presume the rest of commentaries commit the same isogesis as these we've read.
+This is all I gathered in one Internet query. I presume the rest of commentaries commit the same isogesis as those we've read.
 
-The Bible commentators are guilty of asking others to do what they themselves cannot do. Didn't Jesus say something about this concerning the teachers of the law? But it doesn't matter what the commentaries say, each one of us is accountable for making sure we're not in error in approaching this important concept because it profoundly affects our relationship with God. Who can verify that someone's flesh is indeed mortified? Can each one who holds the traditional view verify for himself if he fully passes the mortification test? 
+The Bible commentators are guilty of asking others to do what they themselves cannot do. Didn't Jesus say something about this concerning the teachers of the law? But it doesn't matter what the commentaries say, each one of us is accountable for making sure we're not in error in approaching this important concept because it profoundly affects our relationship with God.
+
+Who can verify that someone's flesh is indeed mortified? Can each one who holds the traditional view verify for himself if he fully passes the mortification test? 
 
 ### <span style="color: #666666;">Running without aim</span>
 
-So far we have presented the case that there is no hope of heaven for those who hold the traditional view. The first part of Romans 8:13 which says *"if you live after the flesh you will die"* virtually condemned all of mankind because all who inherit fallen humanity live after the flesh. But here's what the Bible say about your ability to slay your flesh:
+So far we have presented the case that there is no hope of heaven for those who hold the traditional view. The first part of Romans 8:13 which says *"if you live after the flesh you will die"* virtually condemned all of mankind because all who inherit fallen humanity live after the flesh. Here's what the Bible say about your ability to have mastery over your flesh:
 
 <p class="blockquote">All have sinned and fallen short of God's glory <cite>(Romans 3:23)</cite></p>
 
@@ -104,11 +108,11 @@ If indeed the deeds of the flesh could be put to death, then there would be no l
 
 <p class="blockquote"><sup>21</sup>So, I find the law that when I want to do good, evil is present with me.  <sup>22</sup>For I delight in the law of God in my inner being.  <sup>23</sup>But I see a different law in my members waging war against the law of my mind and making me captive to the law of sin that is in my members. <cite>(Romans 7:21-23)</cite></p>
 
-## The biblical, and correct, view
+## The context-based view
 
 What is the Bible about? Is it a book of morality to deal with Man's countless vices? Or is it one to bridge the impossible chasm between God and Man? Indeed though it started out showing Man's utter depravity by showing their uncountable acts that came from the deepest parts of their fallen humanity, it moved on to the triumphant declaration, not of anyone of flesh and blood, but of the Son of God as their Savior.
 
-The Bible, in the part we called the Old Testament, gave mankind for a limited time a chance to go through a test, through the Old Covenant with the Ten Commandments and statutes, with the ultimate goal of bringing them to a place where they're on their knees realizing that no matter how much they try with their flesh, by doing something, or avoid doing something else, by using the ten commandments and various Mosaic laws and statutes as their moral yardsticks, they would still fall far short of God's standard of righteousness.
+The Bible, in the part we called the Old Testament, gave mankind for a limited time a chance to go through a test, through the Old Covenant with the Ten Commandments and statutes, with the ultimate goal of bringing them to a place where they're on their knees realizing that no matter how much they try with their flesh, by doing something, or avoid doing something else, by using the Ten Commandments and various Mosaic laws and statutes as their moral yardsticks, they would still fall far short of God's standard of righteousness.
 
 And after a time of letting Man exhaust all their resources, after they failed miserably in trying to keep the commandments, God ushered in a new era that no longer allows Man to try to test their worth through their self effort, their flesh. This new era is recorded in the New Testament in which faith is now the sole instrument through which men can receive the gift of the forgiveness of sins and eternal life free to anyone who asks.
 
@@ -196,7 +200,11 @@ As a matter of fact, this walking after the flesh may even be considered noble a
 
 ## In Conclusion
 
-The Bible is replete with examples of folks using their flesh not as instruments for sin, but as means to draw near to God. I hope that this writing helps folks who struggle with the traditional view of the deeds of the flesh understand that it is God's will for them to embrace the infinitely more correct view of the concept in question and get some relief, and walk with lighter steps toward the day they meet God with full confidence that God requires nothing but a childlike faith in Jesus.
+Hopefully at this point, the reader sees that the traditional view of the "deeds of the flesh" does not hold in the context of Romans 8:13, because if it really was what Paul had in mind, no Christian will be saved, because all of mankind produce works of the flesh to varying degrees. Even so, the cross of Christ is more than able to cover all of them for all eternity.
+
+However what the blood of Christ does not cover is the attempt to rely on something other than the cross of Christ as means for salvation. All religions of the world use their "deeds of the flesh" with the hope of achieving spiritual perfection. The Old Covenant was provided by God for a time to bring mankind to a place where they have to acknowledge Christ as their Savior. During this time God showed them their "deeds of the flesh" would not restore the lost righteousness.
+
+There is one "deed," the work of faith, that God allowed and provided for through the sacrifice of His only begotten Son.
 
 > <sup>28</sup>Therefore they said to Him, "What shall we do, so that we may work the works of God?" <sup>29</sup>Jesus answered and said to them, "This is the work of God, that you believe in Him whom He has sent." <cite>(John 6:29)</cite>
 

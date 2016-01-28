@@ -3,7 +3,7 @@ layout: page-fullwidth
 subheadline: "Cái nhìn đúng về sự làm chết các việc của chi thể"
 title: "Làm Chết Các Việc Của Chi Thể&mdash;<cite>Romans 8:13</cite>"
 meta_teaser: "Vietnamese Alliance Church San Francisco flesh mortification mortify deeds"
-teảe: "Thoạt nhìn, hầu như không cần ai dạy bảo, hầu như ai cũng đi đến kết luận rằng làm chết các việc của chi thể nghĩa là chiến thắng được mọi cám dỗ của xác thịt. Nhưng từ tiết của thư Rô-ma có cho chúng ta đi đến kết luận đó hay không?"
+teảe: "Thoạt nhìn, hầu như không cần ai dạy bảo, hầu như ai cũng đi đến kết luận rằng làm chết các việc của chi thể nghĩa là chiến thắng được mọi cám dỗ của xác thịt. Nhưng từ tiết của thư Rô-ma có cho chúng ta đi đến kết luận đó hay không? Kinh Thánh cho nhiều người dùng xác thịt mình không phải làm những việc tội lỗi thường tình của loài người, nhưng để được thông công với Đức Chúa Trời; những việc làm đó chính là đối tượng của những bài viết của Phao-lô. Tôi hy vọng rằng bài viết này giúp đỡ những người đang chiến đấu xác thịt theo cách nhìn phổ thông tìm được sự khuây khoả trong cách nhìn thuộc bối cảnh đề xướng trong bài viết này, và đi theo Chúa với những bước nhẹ nhàng hơn cho đến ngày của Cứu Chúa Giê-su Christ."
 permalink: /hoc-kinh-thanh/suy-gam/lam-cho-chet-cac-viec-cua-chi-the/
 breadcrumb: true
 header: no
@@ -27,7 +27,7 @@ categories:
 <div>
 <p>
 <img alt src="{{ site.baseurl }}/images/death-deeds.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-Ấn tượng đầu tiên của bạn là gì khi nói đến xác thịt và các việc làm của nó? Cách giải thich phổ thông nhất của những từ này là xác thịt thì liên hệ đến phần tội lỗi của một người, và các việc làm của xác thịt là những việc làm đến từ các phần tội lỗi đó. Bài viết này đề nghị một cái nhìn đúng với Kinh Thánh hơn đối với những từ đó. Bài này quả quyết rằng sứ đồ Phao-lô viết để cảnh cáo sự dùng việc làm của xác thịt để nâng cao đời sống tâm linh. Để dễ dàng cho việc thảo luận, chúng ta đặt tên cho hai quan niệm: "cách nhìn phổ thông," và "cách nhìn chân thực."
+Ấn tượng đầu tiên của bạn là gì khi nói đến xác thịt và các việc làm của nó? Cách giải thich phổ thông nhất của những từ này là xác thịt thì liên hệ đến phần tội lỗi của một người, và các việc làm của xác thịt là những việc làm đến từ các phần tội lỗi đó. Bài viết này đề nghị một cái nhìn đúng với Kinh Thánh hơn đối với những từ đó. Bài này quả quyết rằng sứ đồ Phao-lô viết để cảnh cáo sự dùng việc làm của xác thịt để nâng cao đời sống tâm linh. Để dễ dàng cho việc thảo luận, chúng ta đặt tên cho hai quan niệm: "cách nhìn phổ thông," và "cách nhìn theo văn mạch."
 </p>
 </div>
 
@@ -49,76 +49,79 @@ Tôi có câu hỏi cho quí vị giữ cái nhìn phổ thông là tại sao qu
 
 ### <span style="color: #666666;">Các sách giải kinh nói gì?</span>
 
-Hầu như tất cả các sách giải kinh dạy rằng
+Hầu như tất cả các sách giải kinh dạy rằng vì bây giờ chúng ta được quyền năng của Thánh Linh, chúng ta có sức mạnh để làm cho chết các việc của chi thể&mdash;các sự vi phạm theo cách nhìn phổ thông.
 
-Virtually all commentaries teach that since now we're empowered by the Holy Spirit, we have the power to put to death the deeds of the flesh&mdash;sinful deeds, according to the traditional view.
-
-Let us consider a few commentaries which hold the traditional view on Romans 8:13.
+Chúng ta hãy thử duyệt qua một số các sách giải kinh có cái nhìn phổ thông về Romans 8:13.
 
 #### Matthew Henry
-<p class="blockquote"> If any habitually live according to <u>corrupt lusting</u>s, they will certainly perish in their sins, whatever they profess. And what can a <u>worldly life</u> present, worthy for a moment to be put against this noble prize of our high calling? Let us then, by the Spirit, endeavour more and more to <u>mortify the flesh</u>.</p>
+
+<p class="blockquote"> Nếu có người nào theo thói quen sống theo những "<u>dục vọng xác thịt</u>," chắc chắn sẽ chết trong tội lỗi, dù người đó có tuyên xưng điều gì đi chăng nữa. Và một <u>đời sống thuộc về thế gian</u> sẽ mang lại điều gì đáng giá để so sánh với phần thưởng cao đẹp của sự kêu gọi từ thiên thượng? Vậy chúng ta hãy, nhờ quyền năng của Thánh Linh, cố gắng càng hơn để <u>làm cho chết phần xác thịt</u></p>
 
 #### Gill
 
-Gill wrote a very long winded exposition on this verse, but the bottom line is it is based on the premise of the traditional view of the flesh in this verse.
+Gill viết một bài rất dài về câu Kinh Thánh này, nhưng trọng yếu là bài viết đó đặt nền tảng trên cách nhìn phổ thông về xác thịt trong câu này.
 
 #### Jamieson-Fausset-Brown
 
-<p class="blockquote">The apostle is not satisfied with assuring them that they are under no obligations to the flesh, to hearken to its suggestions, without reminding them where it will end if they do; and he uses the word "mortify" (put to death) as a kind of play upon the word "die" just before. "If ye do not <u>kill sin</u>, it will kill you."</p>
+<p class="blockquote">Sứ đồ Phao-lô đã không thoả mãn với sự bảo đảm với họ rằng họ không còn bị bó buộc về xác thịt, để mà nghe theo lời mời gọi của nó, mà không nhắc nhở họ về hậu quả cuối cùng nếu họ sống buông thả; và ông dùng chữ "làm cho chết" như cách chơi chữ cho cùng ý nghĩa với chữ "chết" ở đầu câu. "Nếu ngươi không <u>diệt tội</u> thì tội sẽ diệt ngươi.</p>
 
-My thought: can you really kill sin? The only one who can kill sin is Christ, and the only thing you can do is helplessly rest on Him.
+Cảm nghĩ của tôi: chúng ta có thể diệt tội được sao? Vì chỉ có một Đấng có quyền lực huỷ diệt tội lỗi. Chúa Giê-su dạy chúng ta rằng dù một người có tránh phạm tội tà dâm trong thân thể, người đó cũng bất lực trước sự tà dâm trong tư tưởng (Matthew 5:28). Điều giết chúng ta không phải là hành động, nhưng là bản chất tội lỗi. Chúng ta có giết được bản chất tội lỗi của mình không?
 
 #### Ellicott
 
-<p class="blockquote">If under the influence of the Spirit you <u>reduce to a condition of deadness and atrophy</u> all those practices to which <u>the impulses of your material nature</u> would prompt you.</p>
+<p class="blockquote">Nếu khi dưới quyền năng của Thánh Linh, bạn khiến những hành động đến bởi những <u>kích thích của xác thịt</u> <u>giảm thiểu đến tình trạng chết và èo uột</u>.</p>
 
-Spurious argument at best. What is a condition of deadness and atrophy? By whose standard? Your own arbitrary perception of deadness and atrophy?
+Đây là một lý luận mơ hồ. Tình trạng chết và èo uột là gì? Theo tiêu chuẩn nào? Mỗi người có một định nghĩa riêng về sự chết và sự èo uột?
 
 #### Barnes
 
-<p class="blockquote">If you live to <u>indulge your carnal propensitie</u>s, you will sink to eternal death ... The deeds of the body - The <u>corrupt inclinations and passions</u>; called deeds of the body, because they are supposed to have their origin in the <u>fleshly appetites</u>.</p>
+<p class="blockquote">Nếu bạn sống để <u>thoả mãn những khuynh hướng xác thịt</u>, bạn sẽ chìm dần xuống sự chết đời đời ... Những việc của xác thịt&mdash;<u>khuynh hướng bại hoại và những đam mê</u>; được gọi là các việc của chi thể, vì chúng bắt nguồn từ sự <u>thèm khát của xác thịt</u>.</p>
 
-Didn't this commentator read Colossians 2:16-23?
+Tác giả này có đọc qua Colossians 2:16-23?
 
 #### Matthew Poole
 
-<p class="blockquote">The godly themselves need this caution; they must not think, that because they are elected and justified, &c., that therefore they may do and live as they list. </p>
+<p class="blockquote">Các tín hữu (the godly) phải coi chừng; đừng nghĩ rằng vì mình được chọn và xưng công bình nên muốn sống sao thì sống.</p>
+
+Thực ra ngôn từ của Romans 8:13 mang một trạng thái cực kỳ khẩn trương. Do đó nếu ý của đoạn này dựa trên cách nhìn phổ thông thì không ai được cứu.
 
 #### Cambridge
 
-<p class="blockquote">put to death; an antithesis to the “death” just mentioned as the result of sin. The verb is in the present tense, and indicates a continued process of <u>resistance and self-denial</u>. ... This passage, and the parallels, shew how fully St Paul recognized the element of sinfulness as present still in the regenerate—so present as to call for <u>intense resistance</u>. </p>
+<p class="blockquote">làm cho chết; đông một nghĩa với chữ "chết" ở đầu câu nói về hậu quả của tội lỗi. Động từ này ở trong thì hiện tại, ám chỉ một tiến trình liên diễn của sự <u>chống trả và từ bỏ chính mình</u>. ... Đoạn Kinh Thánh này, và những đoạn song song, cho thấy sứ đồ Phao-lô hoàn toàn công nhận phần tử của tội lỗi vẫn còn trong đời sống người đã được tái sinh&mdash;vẫn còn hiện diện do đó cần sự <u>chống trả kịch liệt</u>.</p>
 
-This is all I gathered in one Internet query. I presume the rest of commentaries commit the same isogesis as these we've read.
+Đây là một số những lời giải kinh tôi tìm được trong mạng toàn cầu chỉ qua một câu hỏi. Tôi phỏng đoán tất cả các bài giải kinh còn lại cũng phạm vào cùng một sự lầm lẫn của "đoạn chương thủ nghia," nghĩa là giải thich một câu mà không màng đến từ tiết, hoặc văn mạch.
 
-The Bible commentators are guilty of asking others to do what they themselves cannot do. Didn't Jesus say something about this concerning the teachers of the law? But it doesn't matter what the commentaries say, each one of us is accountable for making sure we're not in error in approaching this important concept because it profoundly affects our relationship with God. Who can verify that someone's flesh is indeed mortified? Can each one who holds the traditional view verify for himself he fully passes the mortification test? 
+Các nhà giải kinh phạm vào điều là đưa ra những tiêu chuẩn thuộc linh mà chính họ cũng không đạt được. Chúa Giê-su đã nói về những người đặt những gánh nặng vào người khác mà chính mình thì không động đến một ngón tay. Nhưng điều đó không quan trọng, vì mỗi người trong chúng ta chịu trách nhiệm để học hỏi cho biết chắc mình không lầm lạc khi đối diện với chân lý này vì nó có ảnh hưởng sâu đậm đến mối liên hệ với Chúa.
 
-### <span style="color: #666666;">Running without aim</span>
+Ai có thể chứng nhận rằng một người nào đó đã làm chết các việc của chi thể mình? Ai có thể tự mình biết đã đạt đến bực trọn vẹn của mục tiêu đó?
 
-So far we have presented the case that there is no hope of heaven for those who hold the traditional view. The first part of Romans 8:13 which says *"if you live after the flesh you will die"* virtually condemned all of mankind because all who inherit fallen humanity live after the flesh. But here's what the Bible say about your ability to slay your flesh:
+### <span style="color: #666666;">Chạy không có mục đích</span>
 
-<p class="blockquote">All have sinned and fallen short of God's glory <cite>(Romans 3:23)</cite></p>
+Đến đây chúng ta đã trình bày được chứng cớ rằng những người có cái nhìn phổ thông không thể nào có hy vọng về sự sống đời đời. Phần đầu của Romans 8:13 viết rằng *"Nếu anh em sống theo xác thịt thì phải chết"* hàm ý lên án toàn thể nhân loại vì mọi người đều sống dưới sự kềm toả của xác thịt. Đây là lời Kinh Thánh nói về khả năng của loài người để làm chủ xác thịt:
 
-<p class="blockquote">All we like sheep have gone astray; we have turned every one to his own way; and the Lord hath laid on him the iniquity of us all. <cite>(Isaiah 53:6; Romans 3:10-18)</cite></p>
+<p class="blockquote">Vì mọi người đều phạm tội và thiếu mất sự vinh hiển của Đức Chúa Trời (Romans 3:23)</p>
 
-So we must be deluding ourselves if we thing we can put to death the deeds of the flesh according to the traditional view. Are we like folks who try to finish the race knowing that we can't win? The appalling thing is pulpits all over the world is preaching the tradition view as if it is the main purpose of Christianity. It is converting folks to embark on a quest to a country surrounded with barbed wires no one can enter.
+<p class="blockquote">Chúng ta thảy đều như chiên đi lạc, ai theo đường nấy; Ðức Giê-hô-va đã làm cho tội lỗi của hết thảy chúng ta đều chất trên người. (Isaiah 53:6; Romans 3:10-18)</p>
 
-### <span style="color: #666666;">Who wrestles with dead flesh?</span>
+Do đó chúng ta chắc phải tự dối lòng mình nếu nghĩ rằng có thể làm chết những việc của xác thịt dựa theo cách nhìn phổ thông. Phải chăng chúng ta cũng giống như những người đang tham dự một cuộc chạy mà biết rằng mình không thể nào thắng được? Điều đáng kinh ngạc là các bục giảng khắp thế giới đều mang cách nhìn phổ thông như thể đó là mục đích chính của đạo Chúa. Họ đang chiêu mộ người đi đến một vương quốc mà chung quanh bao trùm hàng rào kẽm gai không ai vào được.
 
-If indeed the deeds of the flesh could be put to death, then there would be no longer any struggles in the lives of Christians, wouldn't there? And who would want to wrestle with something that is dead? And if the flesh can be put to death physically, then Paul wouldn't have written:
+### <span style="color: #666666;">Ai đang vật lộn với xác chết?</span>
 
-<p class="blockquote"><sup>21</sup>So, I find the law that when I want to do good, evil is present with me.  <sup>22</sup>For I delight in the law of God in my inner being.  <sup>23</sup>But I see a different law in my members waging war against the law of my mind and making me captive to the law of sin that is in my members. <cite>(Romans 7:21-23)</cite></p>
+Nếu quả thực có người có thể làm chết đi các việc làm của xác thịt, thì chắc người đó chẳng còn phải vật lộn trong đời sống tin kính? Vì ai lại muốn vật lộn với những gì đã chết? Và nếu quả thực người ta có thể làm được điều đó, thì chắc sứ đồ Phao-lô đã không viết:
 
-## The biblical, and correct, view
+<p class="blockquote"><sup>21</sup>Vậy tôi thấy có luật nầy trong tôi: khi tôi muốn làm điều lành, thì điều dữ dính dấp theo tôi.  <sup>22</sup>Vì theo người bề trong, tôi vẫn lấy luật pháp Ðức Chúa Trời làm đẹp lòng; <sup>23</sup>nhưng tôi cảm biết trong chi thể mình có một luật khác giao chiến với luật trong trí mình, bắt mình phải làm phu tù cho luật của tội lỗi, tức là luật ở trong chi thể tôi vậy. (Romans 7:21-23)</p>
 
-What is the Bible about? Is it a book of morality to deal with Man's countless vices? Or is it one to bridge the impossible chasm between God and Man? Indeed though it started out showing Man's utter depravity by showing their uncountable acts that came from the deepest parts of their fallen humanity, it moved on to the triumphant declaration, not of anyone of flesh and blood, but of the Son of God as their Savior.
+## Cách nhìn theo văn mạch
 
-The Bible, in the part we called the Old Testament, gave mankind for a limitted time a chance to go through a test, through the Old Covenant with the ten commandments and statutes, with the ultimate goal of bringing them to a place where they're on their knees realizing that no matter how much they try with their flesh, by doing something, or avoid doing something else, by using the ten commandments and various Mosaic laws and statutes as their moral yardsticks, they would still fall far short of God's standard of righteousness.
+Cả Kinh Thánh nói về điều gì? Là một sách đạo đức để giải quyết vô số những việc làm xấu xa của nhân loại? Hoặc để bắc một nhịp cầu giữa khoảng cách quá xa vời giữa Thượng Đế và nhân loại? Quả thực dù Kinh Thánh khởi đầu bằng cách vạch trần tình trạng tội lỗi của nhân loại, nhưng rồi sau đó tiến đến sự công bố toàn thắng, không phải về một người nào đó sanh bởi thịt và huyết, nhưng về Con một của Đức Chúa Trời là Đấng Cứu Thế.
 
-And after a time of letting Man exhaust all their resources, after they failed miserably in trying to keep the commandments, God ushered in a new era that no longer allows Man to try to test their worth through their self effort, their flesh. This new era is recorded in the New Testament in which faith is now the sole instrument through which men can receive the gift of the forgiveness of sins and eternal life free to anyone who asks.
+Kinh Thánh, trong phần chúng ta gọi là Cựu Ước, cho nhân loại một thời gian hạn định một cơ hội để thử thách họ, qua một giao ước cũ gọi là Cựu Ước với Mười Điều Răn và các điều lệ, nhằm mục đích đưa họ đến một chỗ mà họ phải quỳ gối công nhận rằng dù họ đã cố gắng hết sức giữ mọi điều răn làm tiêu chuẩn sống, họ vẫn còn quá xa sự công bình của Đức Chúa Trời.
 
-Jesus had come two thousands years ago as foretold by prophets long ago, but most importantly He came to end all sacrifices (Hebrews 10:12;10:26), and claimed supremacy as the sole Savior of mankind. His sacrifice will end all sacrifices. He is the gospel, the Word of God, with nothing to be added or taken away from it.
+Và sau một thời gian để nhân loại kiệt quệ hết khả năng của họ trong nỗ lực giữ các điều răn và điều lệ, Chúa đem đến một kỷ nguyên mới mà nhân loại không còn được dùng sức mình, tức là xác thịt mình, để tìm cách đến gần Chúa nữa. Kỷ nguyên mới này được ghi lại trong Kinh Thánh Tân Ước mà trong đó đức tin là phương tiện duy nhất mà qua đó nhân loại có thể nhận được món quà của sự thứ tha tội lỗi và sự sống đời đới cho bất cứ ai xin.
 
-Mankind is expected to stop all their trying, because the time has passed for them to try with their own self effort, because they had been proven incapable of saving themselves, now they must surrender and express their trust completely on Jesus who came as their Savior. No longer are they allowed to use the power of their flesh to prove their worth before God, which really is no more than filthy rags. But we shall see that their pride is great, and they will try with all their might to prove once again they are "like God, knowing good and evil." And Paul was tasked with the job of writing to the churches to tell them that now is the time for faith, no longer for works. This is the deeds of the flesh that they must put to death; it is this kind of deeds that compete with the cross of Christ in the salvation of their souls. The sinful deeds of their flesh can be forgiven, but these cross-defying deeds from their flesh is an abormination to the Lord.
+Chúa Giê-su đã đến cách đây hơn hai ngàn năm như đã được khải thị trước bởi các tiên tri từ buổi xa xưa, nhưng điều quan trọng nhất là Ngài đã đến để chấm dứt các của tế lễ (Hebrews 10:12;10:26), và dành quyền tối cao là vị Cứu Tinh duy nhất của nhân loại. Sự dâng chính mình Ngài sẽ đem đến hồi kêt cuộc cho mọi của tế lễ. Chính Ngài là tin mừng cứu rỗi, là Lời Đức Chúa Trời, mà không ai được thêm hoặc bớt gì trong đó.
+
+Đức Chúa Trời buộc cả nhân loại không còn được dùng sức mình nữa vì cơ hội đã qua, Chúa đã chứng tỏ cho họ thấy họ không thể tự cứu được mình; bây giờ họ phải đầu phục và bày tỏ sự trông cậy trọn vẹn nơi Chúa Giê-su là Đấng Cứu Thế. Nhưng chúng ta sẽ thấy lòng kiêu ngạo của nhân loại là lớn lắm, và họ sẽ gắng hết sức mình để chứng tỏ một lần nữa họ "giống Chúa, biết điều thiện và điều ác." Và vì thế sứ đồ Phao-lô được giao cho trọng trách viết các lá thư cho các hội thánh tuyên bố với họ rằng bây giờ là giai đoạn của đức tin, không còn của việc làm nữa. Các việc đó chính là các việc làm của xác thịt mà họ phải làm cho chết; đó là loại việc làm cạnh tranh với thập tự giá của Đấng Christ trong sự cứu rỗi linh hồn. Những việc làm tội lỗi của xác thịt thì còn được tha thứ, nhưng viếc làm dành quyền của thập tự giá bởi xác thịt là điếu đáng ghê tởm trước mặt Đức Chúa Trời.
 
 ### <span style="color: #666666;">Let's learn some Greek</span>
 
@@ -200,7 +203,11 @@ As a matter of fact, this walking after the flesh may even be considered noble a
 
 ## In Conclusion
 
-The Bible is repleted with examples of folks using their flesh not as instruments for sin, but as means to draw near to God. I hope that this writing helps folks who struggle with the traditional view of the deeds of the flesh understand that it is God's will for them to embrace the infinitely more correct view of the concept in question and get some relief, and walk with lighter steps toward the day they meet God with full confidence that God requires nothing but a childlike faith in Jesus.
+Hopefully at this point, the reader sees that the traditional view of the "deeds of the flesh" does not hold in the context of Romans 8:13, because if it really was what Paul had in mind, no Christian will be saved, because all of mankind produce works of the flesh to varying degrees. Even so, the cross of Christ is more than able to cover all of them for all eternity.
+
+However what the blood of Christ does not cover is the attempt to rely on something other than the cross of Christ as means for salvation. All religions of the world use their "deeds of the flesh" with the hope of achieving spiritual perfection. The Old Covenant was provided by God for a time to bring mankind to a place where they have to acknowledge Christ as their Savior. During this time God showed them their "deeds of the flesh" would not restore the lost righteousness.
+
+There is one "deed," the work of faith, that God allowed and provided for through the sacrifice of His only begotten Son.
 
 > <sup>28</sup>Therefore they said to Him, "What shall we do, so that we may work the works of God?" <sup>29</sup>Jesus answered and said to them, "This is the work of God, that you believe in Him whom He has sent."
 
