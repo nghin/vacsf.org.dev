@@ -123,40 +123,43 @@ Chúa Giê-su đã đến cách đây hơn hai ngàn năm như đã được kh�
 
 Đức Chúa Trời buộc cả nhân loại không còn được dùng sức mình nữa vì cơ hội đã qua, Chúa đã chứng tỏ cho họ thấy họ không thể tự cứu được mình; bây giờ họ phải đầu phục và bày tỏ sự trông cậy trọn vẹn nơi Chúa Giê-su là Đấng Cứu Thế. Nhưng chúng ta sẽ thấy lòng kiêu ngạo của nhân loại là lớn lắm, và họ sẽ gắng hết sức mình để chứng tỏ một lần nữa họ "giống Chúa, biết điều thiện và điều ác." Và vì thế sứ đồ Phao-lô được giao cho trọng trách viết các lá thư cho các hội thánh tuyên bố với họ rằng bây giờ là giai đoạn của đức tin, không còn của việc làm nữa. Các việc đó chính là các việc làm của xác thịt mà họ phải làm cho chết; đó là loại việc làm cạnh tranh với thập tự giá của Đấng Christ trong sự cứu rỗi linh hồn. Những việc làm tội lỗi của xác thịt thì còn được tha thứ, nhưng viếc làm dành quyền của thập tự giá bởi xác thịt là điếu đáng ghê tởm trước mặt Đức Chúa Trời.
 
-### <span style="color: #666666;">Let's learn some Greek</span>
+### <span style="color: #666666;">Chúng ta hãy học vài từ Hy-lạp
+</span>
 
-The word "deeds" in this Romans 8:13 verse is keyed to the Strong number 4234:
+Chữ "việc" trong Romans 8:13 được đánh số Strong 4234:
 
-<p class="blockquote"><cite>4234: praxis prax'-is from 4238; practice, i.e. (concretely) an act; by extension, a function:--deed, office, work. see GREEK for 4238</cite>
+<p class="blockquote"><cite>4234: praxis prax'-is từ số 4238; thực hành, i.e. (cụ thể) một hành động; bởi sự khai triển, một nhiệm vụ:--công việc, văn phòng, công tác. xem tiếng Hy-lạp của số 4238</cite>
 </p>
 
-with a corresponding verb with Strong number 4238:
+chữ này có một động từ mang số Strong 4238:
 
 <p class="blockquote">
-<cite>4238: 4238 prasso pras'-so a primary verb; to "practise", i.e. <u>perform repeatedly or habitually</u> (thus differing from 4160, which properly refers to a single act); by implication, to execute, accomplish, etc.; specially, to collect (dues), fare (personally):--commit, deeds, do, exact, keep, require, use arts.</cite>
+<cite>4238: 4238 prasso pras'-so một động từ chính; "thực hành", thí dụ như <u>được lập đi lập lại như một thông lệ</u> (do đó khác với 4160 là một từ nói về một hành động độc nhất); được ám chỉ, thi hành, hoàn tất, v.v.; nhất là, để thu thập (lệ phí), vé (cá nhân):--quyết tâm, việc làm, làm, chuẩn xác, gìn giữ, đòi hỏi, sử dụng nghệ thuật.</cite>
 </p>
 
-A survey of the Greek word number 4238 through various uses of it in the Bible shows its neutral meaning, of actions that are not necessarily good or bad, of action, performance, execution, accomplishment, etc. depending on context.
+Duyệt qua một số các sự dùng chữ Hy-lạp số 4238 trong Kinh Thánh cho thấy ý nghĩa trung dung của nó, của những hành đống không hẳn là tốt hoặc xấu tuỳ theo trường hợp.
 
-We tend to associate the "deeds of the flesh" to sinful actions, but we fail to see it in context of the whole reason why Paul writes this letter, he writes about the use of the flesh in trying to excel spiritually.
+Chúng ta thường liên hệ "các việc làm của chi thể" với những hành động tội lỗi, nhưng chúng ta đã không nhìn từ khía cạnh của bối cảnh chung quanh lý do tại sao Phao-lô đã viết thư này, ông viết về sự sử dụng xác thịt để đạt được cao điểm của đời sống tâm linh.
 
-### <span style="color: #666666;">The Cross wasn't enough</span>
+### <span style="color: #666666;">Thập tự giá chưa đủ</span>
 
-Soon after Jesus was resurrected and went to sit at the right hand of God to bestow righteousness upon those who called on His name, and soon after the first church of Jesus Christ was established as recorded in the book of Acts, the Christians of this first church retreated back to the old way. So much so that Paul had to begin to write profusely many letters to call them to stay true to the gospel of Jesus Christ.
+Chẳng bao lâu sau khi Chúa Giê-su sống lại và về bên hữu Đức Chúa Cha đế ban sự công bình cho những kẻ xưng danh Ngài, và cũng chẳng bao lâu sau khi hội thánh Chúa được thành lập như được ghi nhận trong sách Công Vụ Các Sứ Đồ, các tín hữu của hội thánh ban đầu này quay trở về với nếp sống cũ. Đến nỗi sứ đồ Phao-lô đã phải khởi sự viết rất nhiều thư để kêu gọi họ giữ vững niềm tin về phúc âm của Đấng Christ.
 
-#### To the church in Colosse
+#### Thơ gửi hội thánh Cơ-lô-se
 
-Paul started out chapter 2 of Colossians  with a wish that
+Phao-lô khởi đầu chương 2 của sách Cơ-lô-se với lời chúc:
 
-<p class="blockquote">"<sup>2</sup>their hearts might be comforted, being knit together in love, and unto all riches of the <u>full assurance of understanding</u>, to the acknowledgement of the mystery of God, and of the Father, and <u>of Christ;  <sup>3</sup>In whom are hid all the treasures of wisdom and knowledge</u>." <cite>(Colossians 2:2-3)</cite></p>
+<p class="blockquote">"<sup>2</sup>Hầu cho lòng những kẻ ấy được yên ủi, và lấy sự yêu thương mà liên hiệp, đặng có nhiều sự thông biết đầy dẫy chắc chắn, đến nỗi có thể hiểu sự mầu nhiệm của Ðức Chúa Trời, tức là Ðấng Christ, <sup>3</sup>mà trong Ngài đã giấu kín mọi sự quí báu về khôn ngoan thông sáng. (Colossians 2:2-3)</p>
 
-Paul reminded them that whatever they needed for godliness and contentment is hidden in Christ. It's evident in succeeding passages where we will soon read that they try to find them within themselves&mdash;the deeds of their flesh.
+Phao-lô nhắc nhở họ rằng bất cứ họ cần điều gì để được đời sống tin kính và thoả lòng thì đếu được giấu kín trong Đấng Christ. Chúng ta sẽ thấy rõ ràng trong những đoạn sau rằng họ tìm cách để được những điều đó từ chính mình&mdash;các việc của chi thể họ.
 
-<p class="blockquote"><sup>6</sup>Therefore, just as you received Christ Jesus as Lord, continue to live your lives in him,  <sup>7</sup>rooted and built up in him and firm in your faith just as you were taught, and overflowing with thankfulness.<cite>(Colossians 2:6-7)</cite></p>
+<p class="blockquote"><sup>6</sup>Anh em đã nhận Ðức Chúa Jêsus Christ thể nào, thì hãy bước đi trong Ngài thể ấy; <sup>7</sup>hãy châm rễ và lập nền trong Ngài, lấy đức tin làm cho bền vững, tùy theo anh em đã được dạy dỗ, và hãy dư dật trong sự cảm tạ. (Colossians 2:6-7)</p>
 
-He assured them that the simple gospel they received in the beginning as expressed in John 3:16 is the same one for them to live by.
+Ông bảo đảm với họ rằng tin lành đơn sơ mà họ đã nhận lúc ban đầu, như đã được bày tỏ trong John 3:16, là tin lành mà họ phải theo đó mà sống.
 
-<p class="blockquote"><sup>8</sup>Be careful not to allow anyone to captivate you through an empty, deceitful philosophy that is according to human traditions and the elemental spirits of the world, and not according to Christ. <cite>(Colossians 2:8)</cite></p>
+<p class="blockquote"><sup>8</sup>Hãy giữ chừng, kẻo có ai lấy triết học và lời hư không, theo lời truyền khẩu của loài người, sơ học của thế gian, không theo Ðấng Christ, mà bắt anh em phục chăng. (Colossians 2:8)</p>
+
+
 
 Paul continued with further warning about people with convincing arguments urging them to add their flesh works based on human traditions. In other words, they minimize the saving power of the cross of Christ.
 
