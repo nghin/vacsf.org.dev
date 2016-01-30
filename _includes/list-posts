@@ -28,9 +28,9 @@
 
   {% if category == NULL and tag == NULL %}
 
-    {% for post in site.posts limit:include.entries offset:include.offset %} {% if post.categories contains 'events' %}
+    {% for post in site.posts limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
-    {% endif %} {% endfor %}
+    {% endfor %}
     {% if category contains "romans-chapters" %}
     {% elsif category %}
       <li class="text-right"><a href="{{ site.url }}/blog/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
