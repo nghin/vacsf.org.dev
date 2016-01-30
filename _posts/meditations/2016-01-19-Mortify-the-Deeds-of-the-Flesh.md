@@ -206,7 +206,7 @@ However what the blood of Christ does not cover is the attempt to rely on someth
 
 There is one "deed," the work of faith, that God allowed and provided for through the sacrifice of His only begotten Son.
 
-> <sup>28</sup>Therefore they said to Him, "What shall we do, so that we may work the works of God?" <sup>29</sup>Jesus answered and said to them, "This is the work of God, that you believe in Him whom He has sent." <cite>(John 6:29)</cite>
+> <sup>28</sup>Therefore they said to Him, "What shall we do, so that we may work the works of God?" <sup>29</sup>Jesus answered and said to them, "This is the work of God, that you believe in Him whom He has sent." <cite>(John 6:28-29)</cite>
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
