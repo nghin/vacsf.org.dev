@@ -190,11 +190,11 @@ In chapter 8, the author of the book of Hebrews, after carefully laying the foun
 
 The old and inferior covenant was based entirely on the deeds, or works, of the flesh, but the new and superior covenant is based on faith (Galatians 3:12).
 
-#### Nicodemus and the deeds of the flesh
+### Nicodemus and the deeds of the flesh
 
 When Jesus declared this truth to Nicodemus: "*You must be born again (John 3:1-21)*," he could not help but thinking in flesh terms: should I be born again by going back into my mother's womb? Of course, this thought came only as a response to Jesus' puzzling statement, but Nicodemus was more familiar with other deeds of the flesh not dissimilar to those of the Colossians or the Galatians, or any Hebrews who were steeped in the Old Covenant.
 
-#### The vain glory of the lawkeepers
+### The vain glory of the lawkeepers
 
 As a matter of fact, this walking after the flesh may even be considered noble and praiseworthy. The natural outworking of fallen flesh resulting in sinful actions is obvious and doesn't need great spiritual insight to identify, but the use of the flesh to attain spiritual perfection, or to achieve God's righteousness, is universally attractive and ultimately embraced by many. Most folks fail to grasp this warning by Paul and are consequently driven toward the very thing they should avoid: using their flesh to serve God.
 
@@ -211,6 +211,14 @@ There is one "deed," the work of faith, that God allowed and provided for throug
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
 <div class="bible-index medium-4 columns">
+
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+
 <h2 style="margin: 0px">Meditations</h2>
         {% include bible-study/meditations %}
 </div><!-- /.medium-4.columns -->
