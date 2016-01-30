@@ -213,7 +213,7 @@ There is one "deed," the work of faith, that God allowed and provided for throug
 <div class="bible-index medium-4 columns">
 
 <div class="panel radius" markdown="1">
-**Table of Contents**
+### Table of Contents
 {: #toc }
 *  TOC
 {:toc}

@@ -215,7 +215,7 @@ Nhưng có một "việc làm," đó là đức tin, mà Chúa cho phép và ban
 <div class="bible-index medium-4 columns">
 
 <div class="panel radius" markdown="1">
-**Table of Contents**
+### Table of Contents
 {: #toc }
 *  TOC
 {:toc}
