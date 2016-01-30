@@ -27,7 +27,7 @@ categories:
 <div>
 <p>
 <img alt src="{{ site.baseurl }}/images/death-deeds.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-Ấn tượng đầu tiên của bạn là gì khi nói đến xác thịt và các việc làm của nó? Cách giải thich phổ thông nhất của những từ này là xác thịt thì liên hệ đến phần tội lỗi của một người, và các việc làm của xác thịt là những việc làm đến từ các phần tội lỗi đó. Bài viết này đề nghị một cái nhìn đúng với Kinh Thánh hơn đối với những từ đó. Bài này quả quyết rằng sứ đồ Phao-lô viết để cảnh cáo sự dùng việc làm của xác thịt để nâng cao đời sống tâm linh. Để dễ dàng cho việc thảo luận, chúng ta đặt tên cho hai quan niệm: "cách nhìn phổ thông," và "cách nhìn theo văn mạch," tức là cách nhìn một chân lý đặt trong bối cảnh rộng lớn bao trùm chân lý đó; nghịch lại với văn mạch là "đoạn chương thủ nghĩa."
+Ấn tượng đầu tiên của bạn là gì khi nói đến xác thịt và các việc làm của nó? Cách giải thich phổ thông nhất của những từ này là xác thịt thì liên hệ đến phần tội lỗi của một người, và các việc làm của xác thịt là những việc làm đến từ các phần tội lỗi đó. Bài viết này đề nghị một cái nhìn đúng với Kinh Thánh hơn đối với những từ đó. Bài này quả quyết rằng sứ đồ Phao-lô viết để cảnh cáo sự dùng việc làm của xác thịt để nâng cao đời sống tâm linh&mdash;các việc làm này là nền tảng của hầu hết các tôn giáo ngoại trừ tin lành của Cứu Chúa Giê-su Christ. Để dễ dàng cho việc thảo luận, chúng ta đặt tên cho hai quan niệm: "cách nhìn phổ thông," và "cách nhìn theo văn mạch," tức là cách nhìn một chân lý đặt trong bối cảnh rộng lớn bao trùm chân lý đó; nghịch lại với văn mạch là "đoạn chương thủ nghĩa."
 </p>
 </div>
 
