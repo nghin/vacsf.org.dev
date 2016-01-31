@@ -14,7 +14,7 @@ header: no
 <ul class="side-nav">
       <li><a href="{{ site.baseurl }}/bible-topics/meditations/put-to-death-the-deeds-of-the-body/">Putting to Death the Deeds of the Flesh - Làm Cho Chết Các Việc Của Chi Thể</a><p style="font-weight: normal;">
       
-At first glance, almost without being taught by anyone, most come to the conclusion that to put to death the deeds of the body means to literally pin down and conquer all weaknesses of the flesh. But does the context surrounding this verse warrant such interpretation? This article submits that its true application is not based on our ability, but on what Jesus had accomplished on the cross.<span style="color: #cc0000; font-style: italic;"> (Bài này có tiếng Việt)</span>
+At first glance, almost without being taught by anyone, most come to the conclusion that to put to death the deeds of the body means to literally pin down and conquer all weaknesses of the flesh. But does the context surrounding this verse warrant such interpretation? This article submits that the deeds of the flesh that must be put to death are not sins common to man, but are those that presume to bring man closer to God, to excel spiritually&mdash;it is religion.<span style="color: #cc0000; font-style: italic;"> (Bài này có tiếng Việt)</span>
 </p></li>
       <li><a href="{{ site.baseurl }}/bible-topics/meditations/ambassador/">Parable of the Ambassador - Ngụ Ngôn Quan Khâm Sai</a><p style="font-weight: normal;">
 
