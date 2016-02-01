@@ -67,13 +67,19 @@ Eagles fellowship</td>
 <tr>
 <td class="title-padding-even" style="background-color: #a9a9a9;"><strong>FEB</strong></td>
 <td class="title-padding-even" style="background-color: #a9a9a9;"
+align="left">7</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">Hội Đồng Thường Niên&mdash;Annual Church Conference</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #a9a9a9;"><strong>&nbsp;</strong></td>
+<td class="title-padding-even" style="background-color: #a9a9a9;"
 align="left">14</td>
-<td class="title-padding-even" style="background-color: #a9a9a9;">Hội Đồng Thường Niên & Tết &mdash;Annual VACSF Conference & New Year Celebration</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">Tết &mdash;New Year Celebration</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
 <td class="title-padding-even" style="background-color: #a9a9a9;"
-align="left">214</td>
+align="left">21</td>
 <td class="title-padding-even" style="background-color: #a9a9a9;">Đoàn Sa-ma-ri Nhân Lành Y Tế & Nha Khoa Trình Bày &mdash; Good Samaritan Medical & Dental Mission Presentation</td>
 </tr>
 <tr>

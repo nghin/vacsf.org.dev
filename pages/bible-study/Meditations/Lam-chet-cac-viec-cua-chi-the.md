@@ -22,7 +22,7 @@ categories:
 
 > Thật thế, nếu anh em sống theo xác thịt thì phải chết; song nếu nhờ Thánh Linh, làm cho chết các việc của thân thể, thì anh em sẽ sống. <cite>(Romans 8:13)</cite>
 
-## I. Hai cái nhìn về xác thịt và việc làm của nó
+## Hai cái nhìn về xác thịt và việc làm của nó
 
 <div>
 <p>
@@ -31,7 +31,7 @@ categories:
 </p>
 </div>
 
-## II. Theo cách nhìn phổ thông
+## Theo cách nhìn phổ thông
 
 Nếu cách nhìn phổ thông quả thực đúng với dụng ý của Phao-lô, thì người tín hữu có hy vọng gì? Vì có ai mà không sống theo xác thịt, không nhiều thì ít? Làm sao một người tín hữu trung bình có thể biết mình có đang sống, và sống bao nhiêu, dưới ảnh hưởng của xác thịt?
 
@@ -39,7 +39,7 @@ Tôi đã tốn 30 năm đầu kể từ khi tin Chúa tìm cách để đừng 
 
 <p class="blockquote">Vả, đức tin là sự biết chắc vững vàng của những điều mình đương trông mong là bằng cớ của những điều mình chẳng xem thấy.</p>
 
-### <span style="color: #666666;">i. Chúng ta phải cố gắng hết sức mình</span>
+### <span style="color: #666666;">Chúng ta phải cố gắng hết sức mình</span>
 
 Có thể có người sẽ nói: Phải, mặc dầu chúng ta không thể nào hoàn toàn làm chết được các việc làm của xác thịt, chúng ta vẫn phải cố gắng hết sức mình. Nhưng đây là sự tự dối mình, vì Romans 8:13 tuyên bố rõ ràng rằng *"nếu anh em sống theo xác thịt thì phải chết."* Do đó dù chỉ một chút xác thịt ở một nơi hoặc lúc nào đó cũng đủ để khiến bạn bị loại trừ trong nước Đức Chúa Trời, vì có chép trong James 2:10 rằng: *"Vì người nào giữ trọn luật pháp, mà phạm một điều răn, thì cũng đáng tội như đã phạm hết thảy."* Do đo theo cái nhìn phổ thông thì bạn phải làm cho chết hết mọi việc của chi thể.
 
@@ -47,7 +47,7 @@ Hơn nữa dù có cố gắng hết sức cũng không đủ, vì nếu đủ, 
 
 Tôi có câu hỏi cho quí vị giữ cái nhìn phổ thông là tại sao quí vị lại khăng khăng giữ lấy sự tin tưởng vào một hệ thống tín lý mà chắc chắn bạn sẽ bị khước từ trước ngưỡng cửa thiên đàng?
 
-### <span style="color: #666666;">ii. Các sách giải kinh nói gì?</span>
+### <span style="color: #666666;">Các sách giải kinh nói gì?</span>
 
 Hầu như tất cả các sách giải kinh dạy rằng vì bây giờ chúng ta được quyền năng của Thánh Linh, chúng ta có sức mạnh để làm cho chết các việc của chi thể&mdash;các sự vi phạm theo cách nhìn phổ thông.
 
@@ -95,7 +95,7 @@ Các nhà giải kinh phạm vào điều là đưa ra những tiêu chuẩn thu
 
 Ai có thể chứng nhận rằng một người nào đó đã làm chết các việc của chi thể mình? Ai có thể tự mình biết đã đạt đến bực trọn vẹn của mục tiêu đó?
 
-### <span style="color: #666666;">iii. Chạy không có mục đích</span>
+### <span style="color: #666666;">Chạy không có mục đích</span>
 
 Đến đây chúng ta đã trình bày được chứng cớ rằng những người có cái nhìn phổ thông không thể nào có hy vọng về sự sống đời đời. Phần đầu của Romans 8:13 viết rằng *"Nếu anh em sống theo xác thịt thì phải chết"* hàm ý lên án toàn thể nhân loại vì mọi người đều sống dưới sự kềm toả của xác thịt. Đây là lời Kinh Thánh nói về khả năng của loài người để làm chủ xác thịt:
 
@@ -105,13 +105,13 @@ Ai có thể chứng nhận rằng một người nào đó đã làm chết cá
 
 Do đó chúng ta chắc phải tự dối lòng mình nếu nghĩ rằng có thể làm chết những việc của xác thịt dựa theo cách nhìn phổ thông. Phải chăng chúng ta cũng giống như những người đang tham dự một cuộc chạy mà biết rằng mình không thể nào thắng được? Điều đáng kinh ngạc là các bục giảng khắp thế giới đều mang cách nhìn phổ thông như thể đó là mục đích chính của đạo Chúa. Họ đang chiêu mộ người đi đến một vương quốc mà chung quanh bao trùm hàng rào kẽm gai không ai vào được.
 
-### <span style="color: #666666;">iv. Ai đang vật lộn với xác chết?</span>
+### <span style="color: #666666;">Ai đang vật lộn với xác chết?</span>
 
 Nếu quả thực có người có thể làm chết đi các việc làm của xác thịt, thì chắc người đó chẳng còn phải vật lộn trong đời sống tin kính? Vì ai lại muốn vật lộn với những gì đã chết? Và nếu quả thực người ta có thể làm được điều đó, thì chắc sứ đồ Phao-lô đã không viết:
 
 <p class="blockquote"><sup>21</sup>Vậy tôi thấy có luật nầy trong tôi: khi tôi muốn làm điều lành, thì điều dữ dính dấp theo tôi.  <sup>22</sup>Vì theo người bề trong, tôi vẫn lấy luật pháp Ðức Chúa Trời làm đẹp lòng; <sup>23</sup>nhưng tôi cảm biết trong chi thể mình có một luật khác giao chiến với luật trong trí mình, bắt mình phải làm phu tù cho luật của tội lỗi, tức là luật ở trong chi thể tôi vậy. (Romans 7:21-23)</p>
 
-## III. Cách nhìn theo văn mạch
+## Cách nhìn theo văn mạch
 
 Cả Kinh Thánh nói về điều gì? Là một sách đạo đức để giải quyết vô số những việc làm xấu xa của nhân loại? Hoặc để bắc một nhịp cầu giữa khoảng cách quá xa vời giữa Thượng Đế và nhân loại? Quả thực dù Kinh Thánh khởi đầu bằng cách vạch trần tình trạng tội lỗi của nhân loại, nhưng rồi sau đó tiến đến sự công bố toàn thắng, không phải về một người nào đó sanh bởi thịt và huyết, nhưng về Con một của Đức Chúa Trời là Đấng Cứu Thế.
 
@@ -123,7 +123,7 @@ Chúa Giê-su đã đến cách đây hơn hai ngàn năm như đã được kh�
 
 Đức Chúa Trời buộc cả nhân loại không còn được dùng sức mình nữa vì cơ hội đã qua, Chúa đã chứng tỏ cho họ thấy họ không thể tự cứu được mình; bây giờ họ phải đầu phục và bày tỏ sự trông cậy trọn vẹn nơi Chúa Giê-su là Đấng Cứu Thế. Nhưng chúng ta sẽ thấy lòng kiêu ngạo của nhân loại là lớn lắm, và họ sẽ gắng hết sức mình để chứng tỏ một lần nữa họ "giống Chúa, biết điều thiện và điều ác." Và vì thế sứ đồ Phao-lô được giao cho trọng trách viết các lá thư cho các hội thánh tuyên bố với họ rằng bây giờ là giai đoạn của đức tin, không còn của việc làm nữa. Các việc đó chính là các việc làm của xác thịt mà họ phải làm cho chết; đó là loại việc làm cạnh tranh với thập tự giá của Đấng Christ trong sự cứu rỗi linh hồn. Những việc làm tội lỗi của xác thịt thì còn được tha thứ, nhưng việc làm dành quyền của thập tự giá bởi xác thịt là điếu đáng ghê tởm trước mặt Đức Chúa Trời.
 
-### <span style="color: #666666;">i. Chúng ta hãy học vài từ Hy-lạp</span>
+### <span style="color: #666666;">Chúng ta hãy học vài từ Hy-lạp</span>
 
 Chữ "việc" trong Romans 8:13 được đánh số Strong 4234:
 
@@ -140,7 +140,7 @@ Duyệt qua một số các sự dùng chữ Hy-lạp số 4238 trong Kinh Thán
 
 Chúng ta thường liên hệ "các việc làm của chi thể" với những hành động tội lỗi, nhưng chúng ta đã không nhìn từ khía cạnh của bối cảnh chung quanh lý do tại sao Phao-lô đã viết thư này, ông viết về sự sử dụng xác thịt để đạt được cao điểm của đời sống tâm linh.
 
-### <span style="color: #666666;">ii. Thập tự giá chưa đủ</span>
+### <span style="color: #666666;">Thập tự giá chưa đủ</span>
 
 Chẳng bao lâu sau khi Chúa Giê-su sống lại và về bên hữu Đức Chúa Cha đế ban sự công bình cho những kẻ xưng danh Ngài, và cũng chẳng bao lâu sau khi hội thánh Chúa được thành lập như được ghi nhận trong sách Công Vụ Các Sứ Đồ, các tín hữu của hội thánh ban đầu này quay trở về với nếp sống cũ. Đến nỗi sứ đồ Phao-lô đã phải khởi sự viết rất nhiều thư để kêu gọi họ giữ vững niềm tin về phúc âm của Đấng Christ.
 
@@ -191,15 +191,15 @@ Trong chương 8, tác giả Hê-bơ-rơ, sau khi cẩn trọng đặt nền mó
 
 Giao ước cũ và thấp kém hơn thì hoàn toàn đặt nền tảng trên xác thịt và việc làm của nó, nhưng giao ước mới và cao trọng hơn thì đặt nền tảng trên đức tin (Galatians 3:12)
 
-### iii. Ni-cô-đem và việc làm của xác thịt
+### Ni-cô-đem và việc làm của xác thịt
 
 Khi Chúa Giê-su khẳng định với Ni-cô-đem: *“Ngươi phải được tái sinh (John 3:1-21)”*, ông không khỏi nghĩ đến điều đó theo cách nhìn của xác thịt: tôi phải tái sinh bằng cách trở về trong bụng mẹ chăng? Hẳn nhiên là ý tưởng này chỉ đến sau khi Chúa tuyên bố với ông một điều lạ lùng, nhưng thực ra Ni-cô-đem còn quen thuộc hơn với những việc làm của xác thịt không khác gì các tín hữu Cơ-lô-se và Ga-la-ti, hoặc bất cứ người Hê-bơ-rơ  nào sốt sắng trong thời Cựu Ước.
 
-### iv. Danh vọng hư không của người cậy luật pháp
+### Danh vọng hư không của người cậy luật pháp
 
 Sự cậy vào xác thịt để sống đạo nhiều khi còn được coi là đáng trọng và đáng khen ngợi. Những lỗi lầm đến bởi xác thịt hư mất là điều hiển nhiên và không cần phải sâu nhiệm về thuộc linh để nhận diện, nhưng sự sử dụng xác thịt để đạt được sự nên thánh trọn vẹn, hoặc để được sự công bình của Đức Chúa Trời, thì có sức quyến rũ hoàn vũ và chung cuộc nhiều người theo đuổi. Đa số độc giả của Phao-lô không thấy tầm quan trọng của sự cảnh cáo của ông và cuối cùng thì họ lại bị lôi kéo đến điều mà chính ra họ phải tránh: dùng xác thịt mình để hầu việc Đức Chúa Trời.
 
-## IV. Kết Luận
+## Kết Luận
 
 Hy vọng đến đây, bạn đọc thấy cái nhìn phổ thông về "các việc của chi thể" không đứng vững trong bối cảnh chung quanh Romans 8:13, vì nếu quả thực đó cũng là cái nhìn của Phao-lô, thì chẳng người tín hữu nào được cứu, vì toàn thể nhân loại, cả người tin Chúa lẫn không tin Chúa, làm những việc của xác thịt không nhiều thì ít. Dầu vậy, dòng huyết của Đấng Christ cũng dư để bao phủ mọi vi phạm xấu xa của toàn thể nhân loại.
 
