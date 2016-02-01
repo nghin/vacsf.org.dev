@@ -25,10 +25,10 @@ Tel. 650-892-5270, Email: ongme1@yahoo.com
 
 ## Sunday Schedule
 
-* 10:30 - 11 AM: Prayer Meeting
-* 11 -12 PM: Trường Ch.Nhật - Sunday School.
-* 12 -1:30 PM: Thờ Phượng - Worship.
-* 1:30-2:30 PM: Thông Công - Fellowship
+* 11:00 - 11:30 AM: Prayer Gathering (in main sanctuary)
+* 11:30 -12:30 PM: Trường Ch.Nhật - Sunday School.
+* 12:30 -2:00 PM: Thờ Phượng - Worship.
+* 2:00-3:00 PM: Thông Công - Fellowship
 
 ## Weekly Activities
 

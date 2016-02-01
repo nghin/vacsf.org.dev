@@ -181,7 +181,7 @@ Phao-lô đã viết toàn bộ sách Ga-la-ti với mục đích trọng yếu 
 #### Thư gửi hội thánh Rô-ma
 <p class="blockquote"><sup>1</sup>Hỡi anh em, sự ước ao trong lòng tôi và lời tôi vì dân Y-sơ-ra-ên cầu nguyện cùng Ðức Chúa Trời, ấy là cho họ được cứu. <sup>2</sup>Vì tôi làm chứng cho họ rằng họ có lòng sốt sắng về Ðức Chúa Trời, nhưng lòng sốt sắng đó là không phải theo trí khôn. <sup>3</sup>Bởi họ không nhận biết sự công bình của Ðức Chúa Trời và tìm cách <u>lập sự công bình riêng của mình</u>, nên không chịu phục sự công bình của Ðức Chúa Trời;  <sup>4</sup>vì Ðấng Christ là sự cuối cùng của luật pháp, đặng xưng mọi kẻ tin là công bình. (Romans 10:1-4)</cite></p>
 
-Sự công bình riêng của mình còn đến từ đâu ngoài bản chất xác thịt? Đây là một tội chẳng phải bởi sự yếu đuối của con người, nhưng đến từ lòng kiêu ngạo. Loại công việc ít được giảng dạy trên toà giảng, nhưng sống trong lòng chính người đang rao giảng, của những nhà giải kinh đã không tuân theo nguyên tắc căn bản của luận lý.
+Sự công bình riêng của mình còn đến từ đâu ngoài bản chất xác thịt? Đây là một tội chẳng phải bởi sự yếu đuối của con người, nhưng đến từ lòng kiêu ngạo. Loại công việc ít được giảng dạy trên toà giảng, nhưng sống trong lòng, phần lớn, chính người mang trách nhiệm rao truyền lời Chúa, của những nhà giải kinh đã không tuân theo nguyên tắc căn bản của luận lý.
 
 #### Thư gửi hội thánh Hê-bơ-rơ
 
