@@ -180,7 +180,7 @@ Paul wrote the entire book of Galatians with the express purpose of calling them
 
 <p class="blockquote"><sup abp="1961">1</sup>Brothers and sisters, my heart's desire and prayer to God on behalf of my fellow Israelites is for their salvation. &nbsp;<sup>2</sup>For I can testify that they are zealous for God, but their zeal is not in line with the truth. &nbsp;<sup>3</sup>For <u>ignoring the righteousness that comes from God, and seeking instead to establish their own righteousness</u>, they did not submit to God's righteousness. &nbsp;<sup>4</sup>For Christ is the end of the law, with the result that there is righteousness for everyone who believes.&nbsp;<cite>(Romans 10:1-4)</cite></p>
 
-Where else but from the flesh that self righteousness came? This is a sin not of human frailty but of pride. The kind of deeds that are not commonly preached against from pulpits, but those that inhabit the hearts of preachers themselves, of great theologians who failed at the very basic rule of reasoning.
+Where else but from the flesh that self righteousness came? This is a sin not of human frailty but of pride. The kind of deeds that are not commonly preached against from pulpits, but those that oftentimes inhabit the hearts of the very handlers of the Word of God, of great theologians who failed at the very basic rule of reasoning.
 
 #### Letter to the Hebrews
 
