@@ -208,6 +208,8 @@ There is one "deed," the work of faith, that God allowed and provided for throug
 
 > <sup>28</sup>Therefore they said to Him, "What shall we do, so that we may work <u><strong>the works of God</strong></u>?" <sup>29</sup>Jesus answered and said to them, "This is the work of God, that you <u><strong>believe</strong></u> in Him whom He has sent." <cite>(John 6:28-29)</cite>
 
+Have you ever thought that "faith" is the greatest "work" in and of itself? Jesus said it, and I believe it.
+
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
 <div class="bible-index medium-4 columns">

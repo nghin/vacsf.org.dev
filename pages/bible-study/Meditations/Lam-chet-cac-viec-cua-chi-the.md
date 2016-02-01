@@ -209,6 +209,8 @@ Nhưng có một "việc làm," đó là đức tin, mà Chúa cho phép và ban
 
 > <sup>28</sup>Chúng thưa rằng: Chúng tôi phải làm chi cho được làm <u><strong>công việc Ðức Chúa Trời</strong></u>?  <sup>29</sup>Ðức Chúa Jêsus đáp rằng: Các ngươi <u><strong>tin</strong></u> Ðấng mà Ðức Chúa Trời đã sai đến, ấy đó là công việc Ngài. (John 6:28-29)."
 
+Quí vị có bao giờ suy nghĩ "đức tin" chính là "việc làm" cao trọng nhất? Chính Đức Chúa Giê-su nói như vậy, và tôi tin lời Ngài phán.
+
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
 
