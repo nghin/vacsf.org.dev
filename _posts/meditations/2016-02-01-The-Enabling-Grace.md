@@ -65,7 +65,14 @@ Let's suppose someone tries to motivate Carissa to climb to the top using fear o
 
 Many Christians struggle much like Carissa did. Their ascending to the height as far as heaven while being motivated by fear proves too much for them. Year by year they wait for a revival meeting, a "bồi linh" event, only to be disappointed, while the specifications of God's grace's tensile strength is clearly shown the wonderful scriptures if they know where to look. God gives us 52 Sundays a year with 52 chances to proclaim through sermons and Sunday School lessons to grow people's faith as they learn of God's cable. Let us not leave this wonderful job to others.
 
-> <sup>15</sup>If anyone confesses that Jesus is the Son of God, God resides in him and he in God.  <sup>16</sup>And we have come to know and to believe the love that God has in us. God is love, and the one who resides in love resides in God, and God resides in him.  <sup>17</sup><u>By this love is perfected with us, so that we may have confidence in the day of judgment</u>, because just as Jesus is, so also are we in this world.  <sup>18</sup>There is no fear in love, but perfect love drives out fear, because fear has to do with punishment. The one who fears punishment has not been perfected in love.  <sup>19</sup>We love because he loved us first. <cite>(I John 4:15-19)</cite>
+## The true objective
+
+For worldy pursuit, there is nothing wrong with setting a goal, and then work out steps leading to it. There are myriad examples in daily life. However things might be turned upside down in the spiritual realm. Jesus gives us plenty of <em>"for the kingdom of God is like ..."</em> where priorities and values are the opposite of what we expect.
+
+Had our objective been to teach kids like Carissa the power of the cable to support her, she would have discovered that she could get to  the top with it. The getting to the top is an added bonus as she might even find that the floating down with the support of the cable might actually be more fun. But if the objective is to get to the top, it compounds her discouragement upon failure.
+
+The apostle Paul uses all he has in his toolbox to teach us the true objective: Jesus. He'd tell us to fix our eyes upon Him. Even Jesus told us to fix our eyes upon Himself like the Hebrews of old were to fix their eyes upon the bronze snake when they were bitten by snakes in the desert. Once the Christians grow in the grace and knowledge of Jesus (2 Peter 3:18), other things will be added unto them, from lips that cannot stop talking about their Savior, from countenance that is lifted up as their burden is lifted, from hearts full of the living water from the throne of God fruit will be brought forth. For God is more interested in knowing whether this Christian knows the treasure he has than what he can do. If you haven't tasted the goodness of God don't bother trying to give it to someone else, because it will not please the heart of the Giver.
+
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
