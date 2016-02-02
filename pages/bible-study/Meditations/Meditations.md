@@ -12,6 +12,10 @@ header: no
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 
 <ul class="side-nav">
+      <li><a href="{{ site.baseurl }}/bible-topics/meditations/the-enabling-grace/">Enabling Grace&mdash;A rock climbing illustration of the power of God's amazing grace</a><p style="font-weight: normal;">
+A rock climbing event gave us an amazing illustration of the freeing power of God's unbreakable grace. Until the full knowledge of God's grace (<cite>2 Peter 3:18</cite>) is realized in a person's heart, he/she cannot rightly relate to God, cannot worship, cannot serve, everything is a fearful duty. But when His love is unleashed, he/she will ascend to the top.      
+<span style="color: #cc0000; font-style: italic;"> (Bài này có tiếng Việt)</span>
+</p></li>
       <li><a href="{{ site.baseurl }}/bible-topics/meditations/put-to-death-the-deeds-of-the-body/">Putting to Death the Deeds of the Flesh - Làm Cho Chết Các Việc Của Chi Thể</a><p style="font-weight: normal;">
       
 At first glance, almost without being taught by anyone, most come to the conclusion that to put to death the deeds of the body means to literally pin down and conquer all weaknesses of the flesh. But does the context surrounding this verse warrant such interpretation? This article submits that the deeds of the flesh that must be put to death are not sins common to man, but are those that presume to bring man closer to God, to excel spiritually&mdash;it is religion.<span style="color: #cc0000; font-style: italic;"> (Bài này có tiếng Việt)</span>
