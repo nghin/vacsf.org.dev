@@ -49,9 +49,9 @@ After getting down safely on the ground, she began to ask me to massage her hand
 
 ## God is our mighty cable
 
-As many of us witnessed Carissa's struggle that, we can draw many great lessons especially as leaders, pastors, and Sunday School teachers in our church. You are the one who are tasked with the job of helping such ones like Carissa to ascend the rock of their faith.
+As many of us witnessed Carissa's struggle that day, we can draw many great lessons especially as leaders, pastors, and Sunday School teachers in our church. You are the one who are tasked with the job of helping such ones like Carissa to ascend the rock of their faith.
 
-Did Carissa find the tips on how she could ascend the rock helpful? Not one bit. They actually made her more frustrated. All the helpers around her did not see the magnitude of her fear. Telling her to stop being afraid would not take away her fear. Telling about the myriad grips on the rock's surface would make her panic. Getting angry with her would increase her pain.
+Did Carissa find the tips on how she could ascend the rock helpful? Not one bit. They actually made her more frustrated. All the helpers around her did not see the magnitude of her fear. Telling her to stop being afraid would not take away her fear. Telling her about the myriad grips on the rock's surface would make her panic. Getting angry with her would increase her pain.
 
 Now let us imagine Carissa is like many Christians in our church. Climbing the rock is nothing compared with ascending the stairway to heaven. While the cable helps Carissa climb, it took our Lord Jesus to leave heaven and be crucified on the cross to get us up there. Now which is harder? Then why are many leaders still trying to make the same mistakes like when we tried to help Carissa ascend the rock? Do you know how useless those tips are? I know, because they are useless to me. And we saw it before our very eyes at the foot of the tall rocky challenge. Nevertheless, the tips may come in handy when the core issue of fear is resolved.
 
