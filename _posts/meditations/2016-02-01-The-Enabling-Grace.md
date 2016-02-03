@@ -35,7 +35,7 @@ I forgot how long, it just seemed like a long time, Carissa was stuck in one pla
 
 I just knew in my heart, if she let go, she would feel the cable's powerful upward pull slowing her descent. That upward pull would provide the assurance that she would not get a hard fall. I continued to cry out to her to let go to no avail. The rock climbing guide lady chimed in with me in trying to ask her to let go by telling her that the cable can support two thousand pounds. Still she clung to the rock.
 
-Other folks tried to show her what other grip points for her to grab with her already very tired fingers, or where to rest her weary feet. But the instructions came from others didn't help the matter one bit as she got more frustrated. She simply couldn't move. But I wasn't frustrated. I knew what she was facing, because I had been there during a very trying time in my life. It seemed as if God's love was pouring out in my heart to wait, for the right moment.
+Other folks tried to show her what other grip points for her to grab with her already very tired fingers, or where to rest her weary feet. But the instructions from others didn't help the matter one bit as she got more frustrated. She simply couldn't move. But I wasn't frustrated. I knew what she was facing, because I had been there during a very trying time in my life. It seemed as if God's love was pouring out in my heart to wait, for the right moment.
 
 ## Trusting the cable
 
@@ -71,8 +71,9 @@ For worldy pursuit, there is nothing wrong with setting a goal, and then work ou
 
 Had our objective been to teach kids like Carissa the power of the cable to support her, she would have discovered that she could get to  the top with it. The getting to the top is an added bonus as she might even find that the floating down with the support of the cable might actually be more fun. But if the objective is to get to the top, it compounds her discouragement upon failure.
 
-The apostle Paul uses all he has in his toolbox to teach us the true objective: Jesus. He'd tell us to fix our eyes upon Him. Even Jesus told us to fix our eyes upon Himself like the Hebrews of old were to fix their eyes upon the bronze snake when they were bitten by snakes in the desert. Once the Christians grow in the grace and knowledge of Jesus (2 Peter 3:18), other things will be added unto them, from lips that cannot stop talking about their Savior, from countenance that is lifted up as their burden is lifted, from hearts full of the living water from the throne of God fruit will be brought forth. For God is more interested in knowing whether this Christian knows the treasure he has than what he can do. If you haven't tasted the goodness of God don't bother trying to give it to someone else, because it will not please the heart of the Giver.
+The apostle Paul uses all he has in his toolbox to teach us the true objective: Jesus. He'd tell us to fix our eyes upon Him. Even Jesus told us to fix our eyes upon Himself like the Hebrews of old were to fix their eyes upon the bronze snake when they were bitten by snakes in the desert. Once the Christians grow in the grace and knowledge of Jesus (2 Peter 3:18), other things will be added unto them, from lips that cannot stop talking about their Savior, from countenance that is lifted up as their burden is lifted, from hearts full of the living water from the throne of God fruit will be brought forth.
 
+What is the most important thing in your ministry?
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
