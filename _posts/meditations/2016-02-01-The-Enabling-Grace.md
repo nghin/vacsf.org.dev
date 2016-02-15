@@ -3,7 +3,7 @@ layout: page-fullwidth
 subheadline: "Grace gives you a license to sin, or enables you to serve God?"
 title: "Enabling Grace&mdash;A rock climbing illustration"
 meta_teaser: "Vietnamese Alliance Church San Francisco grace enables good works"
-teaser: "An amazing real life illustration of how God's grace enables us to do what we couldn't due to crippling fears. For folks that are already achievers, this article may not be relevant, but for some others, what we learn from the rock climbing event as told in this story may be life transforming."
+teaser: "An amazing real life illustration of how God's grace enables us to do what we couldn't due to crippling fears. No Christians are exempted from such fears as we attempt to cross the gap between heaven and earth, a much greater challenge than the illustration this article attempts to show. What we learn from the rock climbing event as told in this story may be life transforming."
 permalink: /bible-topics/meditations/the-enabling-grace/
 breadcrumbs: true
 header: no
@@ -23,7 +23,7 @@ categories:
 <div>
 <p>
 <img alt src="{{ site.baseurl }}/images/rock-climbing.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-Families with young children in our church have started a tradition for the past few years when we got together every Martin Luther King holiday at a some remote location for the kids to spend some time together and outdoors away from their regular routines. This year we went back to the Moaning Cave in Jackson, CA, where we let the kids enjoy the outdoors sport of rock climbing. It was there that God gave me an inspiration to write this article, and to give me a great illustration to share with other leaders in our church how we should leverage God's matchless grace in healing and helping those that need it the most.
+Families with young children in our church have started a tradition for the past few years when we got together every Martin Luther King holiday at a some remote location for the kids to spend some time together and outdoors away from their regular routines. This year we went back to the Moaning Cave in Jackson, CA, where we let the kids enjoy the outdoors sport of rock climbing. It was there that God gave me an inspiration to write this article, a great illustration of God's empowering grace.
 </p>
 </div>
 
@@ -39,7 +39,7 @@ Other folks tried to show her what other grip points for her to grab with her al
 
 ## Trusting the cable
 
-Carissa must have come to a place when she learned she could trust the cable, that it would not cause any harm to come to her. Once she got there, I knew she would be able to make it to the top, and to enjoy the journey at the same time.
+Carissa must come to a place when she learned she could trust the cable, that it would not cause any harm to come to her. Once she got there, I knew she would be able to make it to the top, and to enjoy the journey at the same time.
 
 After what seemed like a long time, I began to try more than just talk, I let her feel my support with my hands and shoulders under her weight, and continued to encourage her to let go of the rock. Letting go she did, but probably by now she had no strength left to hold on.
 
@@ -53,7 +53,7 @@ As many of us witnessed Carissa's struggle that day, we can draw many great less
 
 Did Carissa find the verbal instructions on how she could ascend the rock helpful? Not one bit. They actually made her more frustrated. All the helpers around her did not see the magnitude of her fear. Telling her to stop being afraid would not take away her fear. Telling her about the myriad grips on the rock's surface would make her panic. Getting angry with her would increase her pain.
 
-Now let us imagine Carissa is like many Christians in our church. Climbing the rock is nothing compared with ascending the stairway to heaven. While the cable helps Carissa climb, it took our Lord Jesus to leave heaven and be crucified on the cross to get us up there. Now which is harder? Then why are many leaders still trying to make the same mistakes like when we tried to help Carissa ascend the rock? Do you know how useless those tips are? I know, because they are useless to me. And we saw it before our very eyes at the foot of the tall rocky challenge. Nevertheless, the tips may come in handy when the core issue of fear is resolved.
+Now let us imagine many Christians in our church are like Carissa. But climbing the rock is nothing compared with ascending the stairway to heaven. While the cable helps Carissa climb, it took our Lord Jesus to leave heaven and be crucified on the cross to get us up there. Now which is harder? Then why are many leaders still trying to make the same mistakes like when we tried to help Carissa ascend the rock? Do you know how useless those tips are? I know, because they are useless to me. And we saw it before our very eyes at the foot of the tall rocky challenge. The tips may be useful to those who have overcome the core stumbling block, which is the fear of falling as in the case of Carissa, but they are not essential, or even necessary in helping the children to ascend to the top. But if the core issue is not addressed, ten thousand tips will not be of any use.
 
 Once Carissa found for herself that she could trust the cable, the rest is history. This cable is like God's Grace, Mercies, and Faithfulness all combined whose tensile strength is increased by the power that created the universe and treated with the blood of the Son of God and guaranteed with an oath directly from the One in Whom there is no shadow of turning (Hebrews 6:13).
 
@@ -63,7 +63,7 @@ If we know how the knowledge of the trustworthy cable helps Carissa, why are fol
 
 ## Living in fear is burdensome
 
-Let's suppose someone tries to motivate Carissa to climb to the top using fear or rewards: Don't let go, because if you do, you'd fall and hurt real bad. If you get to the top, there will be a great reward waiting for you. Or using shame, or cheers, or pep talks? None of those things would have worked for Carissa as her fear was too overwhelming. And yet this strategy is often used to motivate Christians. They might work for worldly goals, but for something as impossible as having our sins wiped as white as snow, for becoming children of God, leave them to the world. Especially this is Kingdom's economy we're talking about where there are no nerit-based rewards, but grace-based gifts.
+Let's suppose someone tries to motivate Carissa to climb to the top using fear or rewards: Don't let go, because if you do, you'd fall and hurt real bad. If you get to the top, there will be a great reward waiting for you. Or using shame, or cheers, or pep talks? None of those things would have worked for Carissa as her fear was too overwhelming. And yet this strategy is often used to motivate Christians. They might work for worldly goals, but for something as impossible as having our sins wiped as white as snow, for becoming children of God, they will not achieve their desired goal. Especially this is Kingdom's economy we're talking about where there are no nerit-based rewards, but grace-based gifts.
 
 This time next year, if God is willing that we'll be back at that rock, what will Carissa remember that will allow her to scale that rock again? Nothing except that wonderful sense of peace about the very strong cable. So it is with God's grace in the lives of Christians. What that will motivate them to scale the height of their faith are not the do's and the dont's, but God's seven billion times seven forgiveness of their short comings.
 
