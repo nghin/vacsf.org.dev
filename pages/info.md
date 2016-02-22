@@ -83,6 +83,18 @@ align="left">21</td>
 <td class="title-padding-even" style="background-color: #a9a9a9;">Đoàn Sa-ma-ri Nhân Lành Y Tế & Nha Khoa Trình Bày &mdash; Good Samaritan Medical & Dental Mission Presentation</td>
 </tr>
 <tr>
+<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;"
+align="left">25</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">Movie Night: "Woodlawn" &mdash; 7 p.m.</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #a9a9a9;">&nbsp;</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;"
+align="left">27</td>
+<td class="title-padding-even" style="background-color: #a9a9a9;">Nhóm tư gia nhà ông bà Diện &mdash; rotational family meeting</td>
+</tr>
+<tr>
 <td class="title-padding-even" style="background-color: #cccccc;"><strong>MAR</strong></td>
 <td class="title-padding-even" style="background-color: #cccccc;"
 align="left">25</td>

@@ -62,6 +62,8 @@ And if grieving the Holy Spirit leads to damnation, who among us can be saved? A
 
 Realistically we don't have to work so hard to prove the fallacy of this belief. The root of the problem is we only read the a small part of the verse where the phrase "grieve the Holy Spirit" jumps out and automatically assumes it is unforgivable; and then the faulty assumption takes on a life of its own since the very beginning of Christendom. And no one dared to ask its authenticity.
 
+<a name="blasphemy">&nbsp;</a>
+
 ### The <u>REAL</u> Unforgivable Sin
 
 Consider what Jesus said about the unforgivable sin:
