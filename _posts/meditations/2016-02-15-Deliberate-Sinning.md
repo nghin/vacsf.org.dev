@@ -98,7 +98,7 @@ Hebrews 10 starts out with comparing the old system of sacrifices to that of Chr
 
 ##### Christ
 
-- make perfect the worshippers
+- make perfect the worshippers (perfection is required so we may enter God's presence&mdash;Matthew 5:48)
 - offered once for all and never to be repeated again
 - no further consciousness of sins
 - can take away sins
@@ -154,9 +154,13 @@ In the context of this Hebrews passage, it is the deliberate sinning through unb
 
 In the case of the Galatians, it is the reliance on circumcision that made them alienated from Christ. They fell from grace in their trying to be justified through the law. In the case of the Hebrews, their reliance on the law is through the sacrifices of blood of bulls and goats (Hebrews 10:4). Trying to be justified by the law while Christ already died to bring them the justification they needed, this made them the enemy of God as we continue reading to Hebrews 10:29:
 
-<p class="blockquote">... huống chi kẻ giày đạp Con Ðức Chúa Trời, coi huyết của giao ước, tức là huyết mà mình nhờ nên thánh, là ô uế, lại khinh lờn Ðức Thánh Linh ban ơn, thì anh em há chẳng tưởng rằng người ấy đáng bị hình rất nghiêm đoán phạt hay sao?</p>
+<p class="blockquote">How much greater punishment do you think that person deserves who has contempt for the Son of God, and profanes the blood of the covenant that made him holy, and insults the Spirit of grace? (Hebrews 10:29)</p>
 
 For us modern Christians, what do we rely on to be justified before God? Our works? Our righteous deeds?
+
+## Conclusion
+
+In the eyes of the writer of Hebrews, the sin of his target audience is definitely not of the commission of one against another, or even against self, but againt God. However there is only one sin againt God that cannot be forgiven: the distorting of the Holy Spirit's conviction of men concerning what sin really is: unbelief in the One God has sent. To be fully convinced of this interpretation, one needs to expand outward to the larger context of the whole of chapter 10, and subsequently backtrack to the entire book of Hebrews.
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
