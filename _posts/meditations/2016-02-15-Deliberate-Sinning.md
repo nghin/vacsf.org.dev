@@ -162,6 +162,8 @@ For us modern Christians, what do we rely on to be justified before God? Our wor
 
 In the eyes of the writer of Hebrews, the sin of his target audience is definitely not of the commission of one against another, or even against self, but againt God. However there is only one sin againt God that cannot be forgiven: the distorting of the Holy Spirit's conviction of men concerning what sin really is: unbelief in the One God has sent. To be fully convinced of this interpretation, one needs to expand outward to the larger context of the whole of chapter 10, and subsequently backtrack to the entire book of Hebrews.
 
+>  <sup>18</sup>And to whom did God swear that they would never enter his rest if not to those who disobeyed? <sup>19</sup>So we see that they were not able to enter, because of their unbelief (Hebrews 3:18-19). <cite>The disobedience is to the call to believe</cite>
+
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
 <div class="bible-index medium-4 columns">
