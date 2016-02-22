@@ -12,6 +12,9 @@ header: no
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 
 <ul class="side-nav">
+      <li><a href="{{ site.baseurl }}/bible-topics/meditations/deliberate-sinning/">Deliberate sinning&mdash;<cite>Hebrews 10:26-27</cite></a><p style="font-weight: normal;">
+It is the sin of continued trusting in means other than Christ for their salvation. Christ came as the ultimate sacrifice to replace all sacrifices of the blood of bulls and goats once for all.
+</p></li>
       <li><a href="{{ site.baseurl }}/bible-topics/meditations/the-enabling-grace/">Enabling Grace&mdash;A rock climbing illustration of the power of God's amazing grace</a><p style="font-weight: normal;">
 A rock climbing event gave us an amazing illustration of the freeing power of God's unbreakable grace. Until the full knowledge of God's grace (<cite>2 Peter 3:18</cite>) is realized in a person's heart, he/she cannot rightly relate to God, cannot worship, cannot serve, everything is a fearful duty. But when His love is unleashed, he/she will ascend to the top.      
 <span style="color: #cc0000; font-style: italic;"> (Bài này có tiếng Việt)</span>
