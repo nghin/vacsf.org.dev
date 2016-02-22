@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "The Bible: It's All About Jesus"
 subheadline: "It's time to learn the Bible for yourself"
-teaser: "The Bible is not written just for theologians. Or to put it another way, it is written so simple folks like us can understand. There are, of course, many obscure passages requiring knowledge of some historical context, but there are enough clear truth to be understood and to live by for a lifetime. I like to use the analogy of a plane which is defined by three points. Let's call this a plane of truth. There are many more than 3 points of truth to define God's plan of salvation. If we frequently check our understanding, or interpretation, against them, we can't go wrong. And it's all about Jesus."
+teaser: "The Bible is not written just for theologians, but for the world at the most common denominator so everyone can know the will of God. There are, of course, many obscure passages requiring knowledge of some historical context, but there are enough clear truth to be understood and to live by for a lifetime. I like to use the analogy of a plane which is defined by three points. Let's call this a plane of truth. There are many more than 3 points of truth to define God's plan of salvation. If we frequently check our understanding, or interpretation, against them, we can't go wrong. And it's all about Jesus."
 permalink: "/bible-topics/"
 header:
    image_fullwidth: "header_bible_topics.jpg"
