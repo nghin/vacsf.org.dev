@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-subheadline: "Real meaning in Old and New Covenant Contexts"
-title: "Deliberate Sinning"
+subheadline: "Ý Nghĩa Chân Thực Trong Bối Cảnh Cựu Và Tân Ước"
+title: "Cố Ý Phạm Tội"
 meta_teaser: "Vietnamese Alliance Church San Francisco deliberate sinning sacrifice  consciousness sins truth"
-teaser: "What sin is written about in Hebrews 10:26-27? The common transgressions that good Christians should avoid at all cost? Or something specific that warrants such stern warning? This writing proposes that the deliberate sinning addressed in this passage is not about sins in general, but about a specific sin that calls for God's judgement, and a fury of fire, the sin that into an enemy of God."
-permalink: /bible-topics/meditations/deliberate-sinning/
+teaser: "Hebrews 10:26-27 viết về tội gì? Những tội thông thường mà người tin Chúa nên tránh bằng mọi giá? Hoặc một điều gì đó đặc biệt đòi hỏi một cảnh cáo nghiêm trọng? Bài viết này đề nghị rằng tội cố ý trong đoạn Kinh thánh này không nói về những vi phạm thông thường, nhưng về một vi phạm đặc biệt đến nỗi phải chịu sự phán xét của Chúa, đe doạ về lửa hừng, một tội khiến người phạm trở nên kẻ thù của Đức Chúa Trời."
+permalink: /hoc-kinh-thanh/suy-gam/co-tinh-pham-toi/
 breadcrumbs: true
 header: no
 image:
@@ -16,16 +16,15 @@ categories:
 <div class="row">
 <div class="medium-8 columns" markdown="1">
 
-<!-- <em><a style="color: #ff0000;" href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/co-tinh-pham-toi/">(Bấm vào đây để đọc tiếng Việt)</a></em> -->
+> <sup>26</sup>Vì nếu chúng ta đã <strong>nhận biết lẽ thật</strong> rồi, mà lại <strong>cố ý phạm tội</strong>, thì không còn có <strong>tế lễ chuộc tội</strong> nữa,  <sup>27</sup>nhưng chỉ có sự đợi chờ kinh khiếp về <strong>sự phán xét</strong>, và lửa hừng sẽ đốt cháy <strong>kẻ bội nghịch</strong> mà thôi (Hebrews 10:26-27).
 
-><sup>26</sup>For if we <u><strong>deliberately keep on sinning</strong></u> after receiving the <u><strong>knowledge of the truth</strong></u>, <u><strong>no further sacrifice</strong></u> for sins is left for us, <sup>27</sup>but only a certain fearful expectation of <u><strong>judgment</strong></u> and a fury of fire that will consume <u><strong>God's enemies</strong></u> <cite>Hebrews 10:26-27)</cite>.
-
-## Synopsis
+## Ý Chính
 
 <div>
 <p>
 <img alt src="{{ site.baseurl }}/images/deliberate-sinning.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-Contrary to common interpretation, the deliberate sinning here is not against the law of sin and death, but against the new law of the spirit of life. The target audience is most likely Christians who though profess Christ still deal with sins as though Christ's sacrifice is not enough, they still offer sacrifices for sins, but none is left. The arrival of Christ as a perfect sacrifice provided by God has obsoleted the previous sacrificial system. By relying on the old sacrifices of the blood of bulls and goats (Hebrews 10:4), they deliberately sinned by not placing their full trust on Christ, and in doing so they chose to live under the law, and by the law they will be judged (Galatians 3:12). In trusting in sacrifices other than Christ, they became God's enemies (Hebrews 10:29).
+
+Ngược lại với những giải thích phổ thông, sự cố ý phạm tội ở đây không phải là đối với luật của sự tội và sự chết, nhưng đối với luật thần linh sự sống. Đối tượng của đoạn Kinh Thánh này chắc chắn là những người mặc dù xưng nhận Đấng Christ nhưng vẫn đương đầu với vấn đề tội lỗi như thể sự hy sinh của Chúa là không đủ, họ vẫn còn dâng những của tế lễ cho những sự vi phạm, nhưng chúng không còn hiệu nghiệm nữa. Khi Đấng Christ đến trong vai trò của sinh tế toàn hảo ban cho từ chính Đức Chúa Trời thì Ngài đã phế bỏ hệ thống dâng của tế lễ cũ. Vì sự ỷ lại vào các vật tế lễ cũ của huyết bò và dê đực (Hebrews 10:4), họ đã cố ý phạm tội vì đã không đặt niềm tin trọn vẹn nơi Đấng Christ, và trong việc làm đó họ đã chọn để sống dưới luật pháp, và vì đó họ sẽ chịu sự xét đoán của luật pháp (Galatians 3:12). Vì cậy nơi các của tế lễ khác thay vì Đấng Christ, họ đã trở nên kẻ thù của Đức Chúa Trời(Hebrews 10:29).
 </p>
 </div>
 
@@ -160,13 +159,7 @@ For us modern Christians, what do we rely on to be justified before God? Our wor
 
 ## Conclusion
 
-In the eyes of the writer of Hebrews, the sin of his target audience is definitely not of the transgression of one against another, or even against self, but againt God. However there is only one sin againt God that cannot be forgiven: the slandering, or blaspheming, or distorting of the Holy Spirit's conviction of men concerning what sin really is: unbelief in the One God has sent.
-
-In trusting in the sacrifices of the blood of bulls and goats, these believers committed a deliberate sin of not placing their full trust on the finished work of Christ. This is manifested at the church of Galatia in their trust in circumcision, at the church of Colosse in their trust in the observing of certain days, the washing of hands, or other methods of self deprivation.
-
-In short, Christ is the only way God provides for us to have access to Him, nothing else can add to it&mdash;even our most righteous deeds, and nothing can cancel its efficacy&mdash;even all manner of sins except that of unbelief.
-
-To be fully convinced of this interpretation, one needs only to expand outward to the larger context of the whole of chapter 10, and subsequently backtrack to the entire book of Hebrews.
+In the eyes of the writer of Hebrews, the sin of his target audience is definitely not of the commission of one against another, or even against self, but againt God. However there is only one sin againt God that cannot be forgiven: the distorting of the Holy Spirit's conviction of men concerning what sin really is: unbelief in the One God has sent. To be fully convinced of this interpretation, one needs to expand outward to the larger context of the whole of chapter 10, and subsequently backtrack to the entire book of Hebrews.
 
 >  <sup>18</sup>And to whom did God swear that they would never enter his rest if not to those who disobeyed? <sup>19</sup>So we see that they were not able to enter, because of their unbelief (Hebrews 3:18-19). <cite>The disobedience is to the call to believe</cite>
 
