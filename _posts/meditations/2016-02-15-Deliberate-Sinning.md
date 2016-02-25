@@ -16,7 +16,7 @@ categories:
 <div class="row">
 <div class="medium-8 columns" markdown="1">
 
-<!-- <em><a style="color: #ff0000;" href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/co-tinh-pham-toi/">(Bấm vào đây để đọc tiếng Việt)</a></em> -->
+<em><a style="color: #ff0000;" href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/co-tinh-pham-toi/">(Bấm vào đây để đọc tiếng Việt&mdash;bài đang được chuyển dịch qua Việt ngữ ...)</a></em>
 
 ><sup>26</sup>For if we <u><strong>deliberately keep on sinning</strong></u> after receiving the <u><strong>knowledge of the truth</strong></u>, <u><strong>no further sacrifice</strong></u> for sins is left for us, <sup>27</sup>but only a certain fearful expectation of <u><strong>judgment</strong></u> and a fury of fire that will consume <u><strong>God's enemies</strong></u> <cite>Hebrews 10:26-27)</cite>.
 
@@ -51,13 +51,9 @@ Let us view them from both Old and New Covenant lenses so we may have a clear id
 
 ### View from the Old Covenant
 
-As we read in Numbers 15:22-31 we saw that there were basically two kinds of sins, one intentional and the other unintentional where only the unintentional sins could be forgiven through a sacrifice. I will leave the attempt to define which is which to the theologians, but will look at it through the eyes of the common man, of the tax collectors and prostitutes, the regular folks who knew very little beyond John 3:16. To these folks a sin is a sin, intentional or not, which produces the same result: shame, self hatred, regret, etc.
+As we read in Numbers 15:22-31 we saw that there were basically two kinds of sins, one intentional and the other unintentional where only the unintentional sins could be forgiven through a sacrifice.
 
-Can you tell if the last sin you committed was intentional or unintentional? The last time someone hurt your feelings, cut you off on the freeway, a loved one kept making the same mistake? The anger, frustration, or desire for vengeance kept stewing for some period of time, were those hateful feelings intentional or unintentional? Can some sacrifices be offered for them?
-
-It sounds like this whole intentional/unintentional business is so confusing, isn't it? I don't envy the folks who had to live by the rules spelled out in Numbers 15:22-31, they may feel secure for a while thanks to sacrifices that can be offered to offset transgressions deemed unintentional by some authorities under the Old Covenant, but what if there were others that might have been deemed intentional and because of them they got put to death or cut off from the people?
-
-There is nothing secure about this system because of the human element in it. But perhaps God allowed it as a shadow of the real thing to come, when the line is clearly drawn between the intentional and the unintentional, where there might be more permanency, more assurance about which path one can take that produces a hope that lasts into eternity. No more fuzzy logic, no more guesswork. 
+All sins must be based on the breaking of the Ten Commandments, but the difference is in whether they were committed intentionally or unintentionally. Here is where things can get a little complicated. According to Deuteronomy 17:6, there needs to be two or three witnesses before a transgressor can be put to death. One might raise a question about how the witnesses can see through the heart of the transgresser to know without any shadow of doubt that the sin was committed intentionally. However we don't need to solve this problem of determining intentionality of a transgression, because under the New Covenant we will be shown a much clearer picture of sin and forgiveness.
 
 ### View from the New Covenant
 

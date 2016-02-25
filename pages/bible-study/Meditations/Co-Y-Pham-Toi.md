@@ -3,7 +3,7 @@ layout: page-fullwidth
 subheadline: "Ý Nghĩa Chân Thực Trong Bối Cảnh Cựu Và Tân Ước"
 title: "Cố Ý Phạm Tội"
 meta_teaser: "Vietnamese Alliance Church San Francisco deliberate sinning sacrifice  consciousness sins truth"
-teaser: "Hebrews 10:26-27 viết về tội gì? Những tội thông thường mà người tin Chúa nên tránh bằng mọi giá? Hoặc một điều gì đó đặc biệt đòi hỏi một cảnh cáo nghiêm trọng? Bài viết này đề nghị rằng tội cố ý trong đoạn Kinh thánh này không nói về những vi phạm thông thường, nhưng về một vi phạm đặc biệt đến nỗi phải chịu sự phán xét của Chúa, đe doạ về lửa hừng, một tội khiến người phạm trở nên kẻ thù của Đức Chúa Trời."
+teaser: "Hebrews 10:26-27 viết về tội gì? Những tội thông thường mà người tin Chúa nên tránh bằng mọi giá? Hoặc một điều gì đó đặc biệt khiến tác giả phải viết lời cảnh cáo nghiêm trọng? Bài viết này đề nghị rằng tội cố ý trong đoạn Kinh thánh này không nói về những vi phạm thông thường, nhưng về một vi phạm đặc biệt đến nỗi phải chịu sự phán xét của Chúa, đe doạ về lửa hừng, một tội khiến người phạm trở nên kẻ thù của Đức Chúa Trời."
 permalink: /hoc-kinh-thanh/suy-gam/co-tinh-pham-toi/
 breadcrumbs: true
 header: no
@@ -24,49 +24,45 @@ categories:
 <p>
 <img alt src="{{ site.baseurl }}/images/deliberate-sinning.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 
-Ngược lại với những giải thích phổ thông, sự cố ý phạm tội ở đây không phải là đối với luật của sự tội và sự chết, nhưng đối với luật thần linh sự sống. Đối tượng của đoạn Kinh Thánh này chắc chắn là những người mặc dù xưng nhận Đấng Christ nhưng vẫn đương đầu với vấn đề tội lỗi như thể sự hy sinh của Chúa là không đủ, họ vẫn còn dâng những của tế lễ cho những sự vi phạm, nhưng chúng không còn hiệu nghiệm nữa. Khi Đấng Christ đến trong vai trò của sinh tế toàn hảo ban cho từ chính Đức Chúa Trời thì Ngài đã phế bỏ hệ thống dâng của tế lễ cũ. Vì sự ỷ lại vào các vật tế lễ cũ của huyết bò và dê đực (Hebrews 10:4), họ đã cố ý phạm tội vì đã không đặt niềm tin trọn vẹn nơi Đấng Christ, và trong việc làm đó họ đã chọn để sống dưới luật pháp, và vì đó họ sẽ chịu sự xét đoán của luật pháp (Galatians 3:12). Vì cậy nơi các của tế lễ khác thay vì Đấng Christ, họ đã trở nên kẻ thù của Đức Chúa Trời(Hebrews 10:29).
+Ngược lại với những giải thích phổ thông, sự cố ý phạm tội ở đây không phải là đối với luật của sự tội và sự chết, nhưng đối với luật thần linh sự sống. Đối tượng của đoạn Kinh Thánh này chắc chắn là những người mặc dù xưng nhận Đấng Christ nhưng vẫn đương đầu với vấn đề tội lỗi như thể sự hy sinh của Chúa là không đủ, họ vẫn còn dâng những của tế lễ cho những sự vi phạm, nhưng chúng không còn hiệu nghiệm nữa. Khi Đấng Christ đến trong vai trò của sinh tế toàn hảo ban cho từ chính Đức Chúa Trời thì Ngài đã phế bỏ hệ thống dâng của tế lễ cũ. Vì đã biết điều đó qua sự giảng dạy của các sứ đồ, mà họ vẫn ỷ lại vào các vật tế lễ cũ của huyết bò và dê đực (Hebrews 10:4), như thế họ đã cố ý phạm tội vì đã không đặt niềm tin trọn vẹn nơi Đấng Christ, và trong việc làm đó họ đã chọn để sống dưới luật pháp, và vì đó họ sẽ chịu sự xét đoán của luật pháp (Galatians 3:12). Vì cậy nơi các của tế lễ khác thay vì Đấng Christ, họ đã trở nên kẻ thù của Đức Chúa Trời(Hebrews 10:29).
 </p>
 </div>
 
-## Background in Old Testament
+## Nguồn gốc từ Cựu Ước
 
-From a reading of Numbers 15:22-31 we learn that <strong><em>"a female goat a year old for a sin offering"</em></strong> can be used as a remedy for someone who sinned "unwittingly," or unintentionally. However for someone who sinned with a "<strong><em>high hand</em></strong>," or intentionally, there is no remedy; he must be cut off from the people.
+Đọc từ đoạn Kinh thánh Numbers 15:22-31 (Dân Số Ký) chúng ta học được rằng <strong><em>"một con dê cái giáp năm làm của lễ chuộc tội"</em></strong> có thể được dùng cho một người lỡ lầm phạm tội. Tuy nhiên người <strong><em>cố tình phạm tội</em></strong>, khinh bỉ Đức Giê-hô-va, thì sẽ bị truất khỏi dân sự, và không của lễ nào có thể chuộc tội cho người đó.
 
-In short, unintentional breaking of God's commandments can be forgiven through an atoning sacrifice. Intentional sin, however, cannot.
+Nói một cách ngắn gọn, lỡ lầm vi phạm vào điều răn của Đức Chúa Trời có thể được tha thứ bởi dùng một của lễ, nhưng tội đến bởi sự cố tình thì không tha thứ được.
 
-Some key ideas jump out from the verses:
+Một vài ý chính nẩy ra từ những câu gốc của bài viết này:
 
-- deliberately keep on sinning
-- knowledge of the truth
-- no further sacrifice
-- judgement
-- God's enemy
+- Cố ý phạm tội
+- Nhận biết lẽ thật
+- Không còn có của lễ chuộc tội nữa
+- Sự phán xét
+- Kẻ bội nghịch (kẻ thù của Đức Chúa Trời)
 
-Let us view them from both Old and New Covenant lenses so we may have a clear idea of how to apply them today. It is important that we acknowledge that the Old Testament, including the Old Covenant which dictated the relationship between God and Man during that period, is written as a shadow of things to come in the New Testament. The Bible is clear in saying that the shadow is <u>not</u> the real thing which is expressed in the person and work of Jesus Christ. We should follow the Person&mdash;the Way, Truth,and Life, and not the shadow (Colossians 2:17; Hebrews 10:1). The Bible is also clear that the New Covenant comes to replace the obsolete Old Covenant as it is written in Hebrews 8:13: <strong><em>"By calling this covenant \"new,\" he has made the first one obsolete; and what is obsolete and outdated will soon disappear."</em></strong> The Old Covenant is still relevant in the sense that it is still needed to convict the unbelieving world until they submit to Christ, but once they express their faith in Christ, they enter a new relationship with Him based on the New Covenant. Many Christians due to their lack of understanding of the Bible attempt to live under both Covenants, hence committing spiritual adultery (Romans 7:1-4).
+Chúng ta hãy suy gẫm về những ý này từ cả hai khía cạnh của Cựu Ước và Tân Ước hầu có thể biết cách rõ ràng hơn làm sao để áp dụng trong niềm tin. Một điều quan trọng là chúng ta phải ý thức rằng Cựu Ước, và những mệnh lệnh quản trị mối liên hệ giữa loài người và Đức Chúa Trời trong giai đoạn đó, chỉ là hình bóng của những việc sẽ xảy đến trong thời Tân Ước. Kinh thánh cho chúng ta thấy rõ hình bóng <u>chẳng phải</u> là hình thật như được bày tỏ trong thân vị của Chúa Giê-su và những việc lớn Ngài đã làm. Chúng ta phải đi theo Người&mdash;Đường Đi, Chân Lý, và Nguồn Sống&mdash;, thay vì đi theo bóng (Colossians 2:17; Hebrews 10:1). Kinh thánh cũng cho thấy rõ Tân Ước đến để thế vào Cựu Ước đã quá hạn của nó như đã được viết trong Hebrews 8:13: <strong><em>“Gọi ước đó là ước mới, thì đã xưng ước trước là cũ; vả, điều chi đã cũ đã già, thì gần tiêu mất đi.”</em></strong>  Cựu Ước vẫn còn hiệu lực về phương diện nó vẫn cần thiết để dẫn đưa thế giới đến niềm tin trong Chúa, nhưng khi họ đã đầu phục Chúa thì bước vào mối liên hệ dưới Tân Ước. Nhiều tín hữu vì không hiẻu rõ Kinh thánh nên vẫn tìm cách sống dưới cả hai giao ước, và như thế họ đã phạm tội ngoại tình thuộc linh (Romans 7:1-4).
 
-## 1. Deliberately keep on sinning
+## 1. Cố Ý Phạm Tội
 
-><sup>26</sup>For if we <u><strong>deliberately keep on sinning</strong></u> after receiving the <u>knowledge of the truth</u>, <u>no further sacrifice</u> for sins is left for us, <sup>27</sup>but only a certain fearful expectation of <u>judgment</u> and a fury of fire that will consume <u>God's enemies</u>. <cite>(Hebrews 10:26-27)</cite>
+> <sup>26</sup>Vì nếu chúng ta đã nhận biết lẽ thật rồi, mà lại <strong>cố ý phạm tội</strong>, thì không còn có tế lễ chuộc tội nữa,  <sup>27</sup>nhưng chỉ có sự đợi chờ kinh khiếp về sự phán xét, và lửa hừng sẽ đốt cháy kẻ bội nghịch mà thôi (Hebrews 10:26-27).
 
-### View from the Old Covenant
+### Nhìn từ Cựu Ước
 
-As we read in Numbers 15:22-31 we saw that there were basically two kinds of sins, one intentional and the other unintentional where only the unintentional sins could be forgiven through a sacrifice. I will leave the attempt to define which is which to the theologians, but will look at it through the eyes of the common man, of the tax collectors and prostitutes, the regular folks who knew very little beyond John 3:16. To these folks a sin is a sin, intentional or not, which produces the same result: shame, self hatred, regret, etc.
+Đọc trong Numbers 15:22-31 (Dân Số Ký) chúng ta thấy có hai thứ tội, tội cố ý và tội lầm lỡ mà chỉ tội lầm lỡ mới được chuộc nhờ một của lễ. 
 
-Can you tell if the last sin you committed was intentional or unintentional? The last time someone hurt your feelings, cut you off on the freeway, a loved one kept making the same mistake? The anger, frustration, or desire for vengeance kept stewing for some period of time, were those hateful feelings intentional or unintentional? Can some sacrifices be offered for them?
+Mọi tội lỗi đều đặt nền tảng trên sự vi phạm vào một hay hơn trong Mười Điều Răn, nhưng điểm khác biệt là vì vô tình hay cố ý. Đây là điểm mà vấn đề trở nên phức tạp. Theo Deuteronomy 17:6 (Phục Truyền Luật Lệ Ký), cần phải có hai hoặc ba người chứng thì kẻ phạm tội mới bị tử hình hoặc bị truất khỏi dân sự. Chúng ta có thể nêu lên câu hỏi làm sao người chứng có thể nhìn vào tấm lòng của kẻ phạm tội để biết động lực thúc đẩy họ. Tuy nhiên chúng ta không cần phải giải quyết vấn đề về duyên cớ của sự phạm tội, vì trong Tân Ước Chúa sẽ cho chúng ta thấy tỏ tường về ý nghĩa của tội lỗi và sự tha thứ.  
 
-It sounds like this whole intentional/unintentional business is so confusing, isn't it? I don't envy the folks who had to live by the rules spelled out in Numbers 15:22-31, they may feel secure for a while thanks to sacrifices that can be offered to offset transgressions deemed unintentional by some authorities under the Old Covenant, but what if there were others that might have been deemed intentional and because of them they got put to death or cut off from the people?
+### Nhìn từ Tân Ước
 
-There is nothing secure about this system because of the human element in it. But perhaps God allowed it as a shadow of the real thing to come, when the line is clearly drawn between the intentional and the unintentional, where there might be more permanency, more assurance about which path one can take that produces a hope that lasts into eternity. No more fuzzy logic, no more guesswork. 
+Đức Chúa Trời hẳn phải biết sự khó khăn của vấn đề phân biệt vô tình hay cố ý trong sự phạm tội, nhưng Ngài muốn cho nhân loại đi đến đường cùng, để xem họ có thể dùng khả năng "biết điều thiện và ác" mà bước đi với Ngài không.
 
-### View from the New Covenant
+Khi Đấng Christ đến thế gian cũng là lúc Đức Chúa Trời bắt đầu chỉ cho nhân loại một con đường tốt hơn. Cho họ thấy Ngài không phân biệt tội thuộc cỡ ruồi hay lạc đà, vô tình hay cố ý, tội nhẹ hoặc tội trọng, vì *"mọi người đều đã phạm tội, thiếu mất sự vinh hiển của Ðức Chúa Trời  (Romans 3:23)."* Ngài cho họ thấy mọi người phải chịu phần của sự hư mất.
 
-God must know what problem can be caused by the intentional/unintentional system of differentiation, but He wanted to let man come to the place where they exhaust all their resources, let them use their "knowledge of good and evil" to see if they can figure out how to get right with Him using their fuzzy logic.
+Ngài tuyên bố với thế giới rằng họ chỉ nên lo lắng về một điều; chỉ một tội đáng bị gọi là cố ý; chỉ một tội không có của lễ nào chuộc được. Và Ngài nói về vai trò của Đức Thánh Linh khi nói về ý nghĩa của tội lỗi:
 
-When Christ came into the world was when God began to show mankind a better path. He showed them He's not interested in differentiating camels and gnats, intentional or unintentional, venial or mortal, types of sins: <em>"For all have sinned and fall short of God's glory" (Romans 3:23)</em>. He showed them that they all committed sins that deserve eternal damnation.
-
-He declared to the world that there is only one sin that mankind must worry about; there is only one that its commission is defined as intentional; there is only one that there is no sacrifice for. Here is what Jesus said about the role of the Holy Spirit concerning sin:
-
-> <sup>8</sup>And when he (the Holy Spirit) comes, he will prove the world <u>wrong concerning sin</u> ... <sup>9</sup>concerning sin, <u>because they do not believe in me</u> (John 16:8-9)
+> <sup>8</sup>Khi Ngài đến thì sẽ khiến thế gian tự cáo về tội lỗi, về sự công bình và về sự phán xét. <sup>9</sup>Về tội lỗi, <u>vì họ không tin ta</u> (John 16:8-9)
 
 The world has been wrong concerning sin? Yes, it has been obsessed with sins and their categorization. The real intentional sin lies in how one answers this question: Do you believe on the One God has sent? As a matter of fact Jesus said it here earlier in John:
 
@@ -159,7 +155,13 @@ For us modern Christians, what do we rely on to be justified before God? Our wor
 
 ## Conclusion
 
-In the eyes of the writer of Hebrews, the sin of his target audience is definitely not of the commission of one against another, or even against self, but againt God. However there is only one sin againt God that cannot be forgiven: the distorting of the Holy Spirit's conviction of men concerning what sin really is: unbelief in the One God has sent. To be fully convinced of this interpretation, one needs to expand outward to the larger context of the whole of chapter 10, and subsequently backtrack to the entire book of Hebrews.
+In the eyes of the writer of Hebrews, the sin of his target audience is definitely not of the transgression of one against another, or even against self, but againt God. However there is only one sin againt God that cannot be forgiven: the slandering, or blaspheming, or distorting of the Holy Spirit's conviction of men concerning what sin really is: unbelief in the One God has sent.
+
+In trusting in the sacrifices of the blood of bulls and goats, these believers committed a deliberate sin of not placing their full trust on the finished work of Christ. This is manifested at the church of Galatia in their trust in circumcision, at the church of Colosse in their trust in the observing of certain days, the washing of hands, or other methods of self deprivation.
+
+In short, Christ is the only way God provides for us to have access to Him, nothing else can add to it&mdash;even our most righteous deeds, and nothing can cancel its efficacy&mdash;even all manner of sins except that of unbelief.
+
+To be fully convinced of this interpretation, one needs only to expand outward to the larger context of the whole of chapter 10, and subsequently backtrack to the entire book of Hebrews.
 
 >  <sup>18</sup>And to whom did God swear that they would never enter his rest if not to those who disobeyed? <sup>19</sup>So we see that they were not able to enter, because of their unbelief (Hebrews 3:18-19). <cite>The disobedience is to the call to believe</cite>
 
@@ -175,3 +177,4 @@ In the eyes of the writer of Hebrews, the sin of his target audience is definite
 <div class="small-12" style="padding: 0px; border-bottom: none;">
     {% include next-previous-post-in-category %}
 </div>
+
