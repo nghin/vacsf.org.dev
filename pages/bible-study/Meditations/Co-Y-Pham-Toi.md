@@ -24,7 +24,7 @@ categories:
 <p>
 <img alt src="{{ site.baseurl }}/images/deliberate-sinning.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 
-Ngược lại với những giải thích phổ thông, sự cố ý phạm tội ở đây không phải là đối với luật của sự tội và sự chết, nhưng đối với luật thần linh sự sống. Đối tượng của đoạn Kinh Thánh này chắc chắn là những người mặc dù xưng nhận Đấng Christ nhưng vẫn đương đầu với vấn đề tội lỗi như thể sự hy sinh của Chúa là không đủ, họ vẫn còn dâng những của tế lễ cho những sự vi phạm, nhưng chúng không còn hiệu nghiệm nữa. Khi Đấng Christ đến trong vai trò của sinh tế toàn hảo ban cho từ chính Đức Chúa Trời thì Ngài đã phế bỏ hệ thống dâng của tế lễ cũ. Vì đã biết điều đó qua sự giảng dạy của các sứ đồ, mà họ vẫn ỷ lại vào các vật tế lễ cũ của huyết bò và dê đực (Hebrews 10:4), như thế họ đã cố ý phạm tội vì đã không đặt niềm tin trọn vẹn nơi Đấng Christ, và trong việc làm đó họ đã chọn để sống dưới luật pháp, và vì đó họ sẽ chịu sự xét đoán của luật pháp (Galatians 3:12). Vì cậy nơi các của tế lễ khác thay vì Đấng Christ, họ đã trở nên kẻ thù của Đức Chúa Trời(Hebrews 10:29).
+Ngược lại với những giải thích phổ thông, sự cố ý phạm tội ở đây không phải là đối với luật của sự tội và sự chết, nhưng đối với luật thần linh sự sống. Đối tượng của đoạn Kinh Thánh này chắc chắn là những người mặc dù xưng nhận Đấng Christ nhưng vẫn đương đầu với vấn đề tội lỗi như thể sự hy sinh của Chúa là không đủ, họ vẫn còn dâng những của tế lễ cho những sự vi phạm, nhưng chúng không còn hiệu nghiệm nữa. Khi Đấng Christ đến trong vai trò của sinh tế toàn hảo ban cho từ chính Đức Chúa Trời thì Ngài đã phế bỏ hệ thống dâng của tế lễ cũ. Vì đã biết điều đó qua sự giảng dạy của các sứ đồ, mà họ vẫn ỷ lại vào các vật tế lễ cũ của huyết bò và dê đực (Hebrews 10:4), như thế họ đã cố ý phạm tội vì đã không đặt niềm tin trọn vẹn nơi Đấng Christ, và trong việc làm đó họ đã chọn để sống dưới luật pháp, và vì đó họ sẽ chịu sự xét đoán của luật pháp (Galatians 3:12). Vì cậy nơi các của tế lễ khác thay vì Đấng Christ, họ đã trở nên kẻ thù của Đức Chúa Trời (Hebrews 10:29).
 </p>
 </div>
 
@@ -64,106 +64,105 @@ Ngài tuyên bố với thế giới rằng họ chỉ nên lo lắng về một
 
 > <sup>8</sup>Khi Ngài đến thì sẽ khiến thế gian tự cáo về tội lỗi, về sự công bình và về sự phán xét. <sup>9</sup>Về tội lỗi, <u>vì họ không tin ta</u> (John 16:8-9)
 
-The world has been wrong concerning sin? Yes, it has been obsessed with sins and their categorization. The real intentional sin lies in how one answers this question: Do you believe on the One God has sent? As a matter of fact Jesus said it here earlier in John:
+Thế gian vẫn thường sai lầm về ý nghĩa của tội lỗi? Phải, thế gian cứ xu hướng về tội lỗi và sự phân loại của chúng. Tội cố ý là tuỳ theo câu trả lời cho câu hỏi sau đây: Bạn có tin vào Đấng mà Đức Chúa Trời đã sai đến? Thực vậy, Đức Chúa Giê-su đã nói về điều này ở đoạn trước trong sách Giăng:
 
-<p class="blockquote"><sup>28</sup>So then they said to him, "What must we do to accomplish the deeds God requires?"  <sup>29</sup>Jesus replied, "This is the deed God requires - <u>to believe</u> in the one whom he sent." (John 6:28-29)</p>
+<p class="blockquote"><sup>28</sup>Chúng thưa rằng: Chúng tôi phải làm chi cho được làm công việc Ðức Chúa Trời?  <sup>29</sup>Ðức Chúa Jêsus đáp rằng: Các ngươi tin Ðấng mà Ðức Chúa Trời đã sai đến, ấy đó là công việc Ngài. (John 6:28-29)</p>
 
-To further emphasize the role of the Holy Spirit in correcting the world's view concerning sin, Jesus asserted in Matthew 12:31:
+Để nhấn mạnh thêm về vai trò của Đức Thánh Linh trong sự sửa đổi cái nhìn của thế gian về tội lỗi, Chúa Giê-su phán trong Matthew 12:31:
 
-<p class="blockquote"> <sup>31</sup>For this reason I tell you, people will be forgiven for every sin and blasphemy, but the blasphemy against the Spirit will not be forgiven.  <sup>32</sup>Whoever speaks a word against the Son of Man will be forgiven. But whoever speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come.</p>
+<p class="blockquote"> <sup>31</sup>Ấy vậy, ta phán cùng các ngươi, các tội lỗi và lời phạm thượng của người ta đều sẽ được tha; song lời phạm thượng đến Ðức Thánh Linh thì sẽ chẳng được tha đâu (Matthew 12:31).</p>
 
-Every sin can be forgiven except one. There is no further need to pit between camels and gnats. You can even blaspheme against God Himself and be forgiven, but you're not allowed to change the message of the Holy Spirit: sin is the act of not believing in Christ. The original Greek word for "blasphemy" may also be translated to "slander," to distort the ministry of the Holy Spirit (click <a href="{{ site.url }}/bible-topics/meditations/grieving-holy-spirit/#blasphemy">here</a> for further discussion on the word "blaspheme").
+Mọi tội đều được tha chỉ ngoại trừ một tội. Không cần phải phân biệt giữa ruồi và lạc đà nữa. Ngay cả nói phạm đến Đức Chúa Trời còn được tha thứ, nhưng đừng bao giờ tráo đổi sứ điệp của Đức Thánh Linh: tội lỗi là vì không tin nơi Đấng Christ. Chữ Hy-lạp nguyên thuỷ có thể được dịch để mang ý nghĩa "phạm thượng," "xuyên tạc," hoặc "bóp méo," mà chữ "bóp méo" có lẽ là từ dịch chính xác nhất, mang ý nghĩa bóp méo sứ điệp của Thánh Linh (bấm vào <a href="{{ site.url }}/bible-topics/meditations/grieving-holy-spirit/#blasphemy">đây</a> để đọc thêm về ý nghĩa chữ "nói phạm").
 
-The slanderer of the Holy Spirit takes peoples eyes from the main and singular objective: Christ, and moves them to the myriad camels and gnats, and the intentional or unintentional, of sins. They move them from the position of the assurance of salvation to the confusing world of chasing endlessly one sin after another.
+Kẻ xuyên tạc Thánh Linh lôi kéo mắt người ta khỏi mục tiêu duy nhất và chính yếu: Đấng Christ, và hướng mắt họ đến hằng hà những ruồi và lạc đà, vô tình và cố ý, của tội lỗi. Kẻ đó dẫn họ từ địa vị biết chắc vững vàng của sự cứu rỗi đến thế giới hỗn độn của sự theo đuổi không ngừng nghỉ từ tội này đến tội kia.
 
-#### The <cite>Hebrews 10</cite> context
+#### Bối cảnh của Hê-bơ-rơ 10
 
-So far we have reduced the confusion of intentional vs. unintentional sins down to a single real sin: the sin of unbelief. This is a very critical paradigm shift in our relationship with God; a shift from the Old Covenant to the New Covenant where the one deals with sin and death and the other faith and life. The context of Hebrews 10 proves even more valuable in further affirming this paradigm shift.
+Đến đây chúng ta đã giảm thiểu sự lẫn lộn giữa các tội cố ý hoặc vô tình đến chỉ một tội duy nhất đáng kể: tội chẳng tin. Đây là một sự chuyển đổi quan điểm tối yếu trong mối liên hệ với Đức Chúa Trời; một chuyển đổi từ Cựu Ước qua Tân Ước mà một ước cai quản sự tội và sự chết còn ước kia đức tin và sự sống. Bối cảnh của Hê-bơ-rơ đoạn 10 còn chứng tỏ rõ ràng hơn sự cần thiết của chuyển đổi quan điểm này.
 
-Hebrews 10 starts out with comparing the old system of sacrifices to that of Christ.
+Hebrews 10 khởi đầu bằng cách so sánh hệ thống dâng của lễ trong thời Cựu Ước với Đấng Christ:
 
-<p class="blockquote"><sup>1</sup>For the law possesses a shadow of the good things to come but not the reality itself, and is therefore <strong>completely unable</strong>, by the same sacrifices offered continually, year after year, <strong>to perfect those who come to worship</strong>.  <sup>2</sup>For otherwise would they not have <strong>ceased to be offered</strong>, since the worshipers would have been purified <strong>once for all</strong> and so have <strong>no further consciousness of sin?</strong>  <sup>3</sup>But in those sacrifices there is a <strong>reminder of sins</strong> year after year.  <sup>4</sup>For the blood of bulls and goats <strong>cannot take away sins</strong>.</p>
+<p class="blockquote"><sup>1</sup>Vả, luật pháp chỉ là bóng của sự tốt lành ngày sau, không có hình thật của các vật, nên <strong>không bao giờ</strong> cậy tế lễ mỗi năm hằng dâng như vậy, mà khiến kẻ đến gần Ðức Chúa Trời <strong>trở nên trọn lành</strong> được. <sup>2</sup><strong>Nếu được</strong>, thì những kẻ thờ phượng đã <strong>một lần được sạch rồi</strong>, lương tâm họ không còn biết tội nữa, nhơn đó, <strong>há chẳng thôi dâng tế lễ hay sao?</strong>  <sup>3</sup>Trái lại, những tế lễ đó chẳng qua là mỗi năm <strong>nhắc cho nhớ lại tội lỗi</strong>. <sup>4</sup>Vì huyết của bò đực và dê đực <strong>không thể cất tội lỗi</strong> đi được (Hebrews 10:1-4).</p>
 
-##### Man initiated sacrifices
+##### Những của lễ đến từ con người
 
-- cannot make the worshippers perfect
-- must be offered continually (like confession of sins nowadays)
-- remind the worshippers of sins
-- cannot take away sins
+- không thể khiến những kẻ đến thờ phượng được trọn vẹn
+- phải được dâng không ngừng nghỉ (giống như sự xưng tội ngày nay)
+- nhắc nhở kẻ đến thờ phượng về tội lỗi
+- không thể cất đi tội lỗi
 
-##### Christ
+##### Đấng Christ
 
-- make perfect the worshippers (perfection is required so we may enter God's presence&mdash;Matthew 5:48)
-- offered once for all and never to be repeated again
-- no further consciousness of sins
-- can take away sins
+- làm cho kẻ đến thờ phượng được trọn vẹn (kẻ vào thiên đàng phải là người trọn vẹn&mdash;Matthew 5:48)
+- được dâng một lần và không bao giờ dâng lại một lần nữa
+- không còn mặc cảm tội lỗi nữa
+- cất đi được tội lỗi
 
-With just these four verses alone we can make a case for the transition from all manners of sin to the singular sin of unbelief, from repeated and continual offering of sacrifices for all sort of sins to the final once for all sacrifice of Christ.
+Chỉ với bốn câu Kinh thánh này chúng ta có thể biện minh cho sự dời đổi từ muôn trạng thái của tội lỗi đến chỉ một tội duy nhất là tội chẳng tin, từ dự dâng không ngừng nghỉ những của lễ cho muôn tội đến sự dâng một lần đủ cả của Đấng Christ.
 
-There is also another important truth in these verses that not only supports the need of the paradigm shift, it makes all the difference in how we are to relate to God, our concept of sin, in giving us the key to the peace that passes understanding that has eluded Christians for two thousand years since Christ. The truth about Christ's sacrifice allows us to have <strong><em>"no further consciousness of sins"</em></strong>. This is in contrast to the sacrifices of the blood of bulls and goats that serve as reminders of sins. Have you ever thought that in Christ you are allowed to have no further consciousness of sins? Consciousness of sins produces guilt, and religion thrives on guilt.
+Có một chân lý quan trọng nữa trong các câu Kinh thánh này, không những trong sự bênh vực về sự cần đổi quan điểm, mà còn đem lại đổi thay lớn trong mối liên hệ với Đức Chúa Trời, trong quan niệm về tội lỗi, trong sự ban cho chúng ta bí quyết bình an vượt quá sự hiểu biết mà nhiều tín hữu đã khao khát tìm cầu gần hai ngàn năm từ khi Đấng Christ xuống thế gian. Chân lý về sự hy sinh của Đấng Christ cho chúng ta được <strong><em>"lương tâm không còn biết tội nữa"</em></strong>. Điều này tương phản với những của lễ bằng huyết dê và bò đực lại nhắc cho người dâng về tội lỗi của mình. Bạn có bao giờ nghĩ rằng trong Chúa lương tâm mình được phép không còn biết tội nữa không? Sự biết tội dẫn đến mặc cảm tội lỗi, mà tôn giáo thì sống nhờ mặc cảm tội lỗi của lương tâm.
 
-Therefore to deliberately keep on sinning is to continue to disobey the call to trust in Christ as the only means for salvation. While all sins can be forgiven, this sin of unbelief prevents any possibility of its forgiveness required for reconciliation with God. To tie deliberate sinning to the common transgressions that spring from man's sinful nature is to make it impossible for anyone to enter the kingdom of God, or at least to make the Christian life anything but an easy yoke and a light burden.
+Do đó tội mà người ta cố ý phạm ở đây là tội bất tuân lời kêu gọi đặt niềm tin nơi Đấng Christ là phương duy nhất dẫn đến sự cứu rỗi. Trong khi mọi tội đều được tha thứ, tội chẳng tin cản ngăn ơn tha thứ là điều kiện để làm hoà với Đức Chúa Trời. Nếu cho rằng sự cố tình phạm tội liên hệ đến những tội lỗi đến từ bản chất xác thịt thì không ai vào được nước Đức Chúa Trời, hoặc ít nhất cũng khiến đời sống tin kính không phản ảnh ách êm dịu và gánh nhẹ nhàng mà Chúa Giê-su thường nói đến cho những kẻ theo Ngài.
 
-## 2. Knowledge of the truth
+## 2. Nhận biết lẽ thật
 
-><sup>26</sup>For if we <u>deliberately keep on sinning</u> after receiving the <u><strong>knowledge of the truth</strong></u>, <u>no further sacrifice</u> for sins is left for us, <sup>27</sup>but only a certain fearful expectation of <u>judgment</u> and a fury of fire that will consume <u>God's enemies</u>. <cite>(Hebrews 10:26-27)</cite>
+> <sup>26</sup>Vì nếu chúng ta đã <strong>nhận biết lẽ thật</strong> rồi, mà lại cố ý phạm tội, thì không còn có tế lễ chuộc tội nữa,  <sup>27</sup>nhưng chỉ có sự đợi chờ kinh khiếp về sự phán xét, và lửa hừng sẽ đốt cháy kẻ bội nghịch mà thôi (Hebrews 10:26-27).
 
-This part ties in perfectly with the conclusion that the ultimate sin is the sin of unbelief. If we place the main verses of this writing in even the larger context of the entire book of Hebrews we'd see that the <strong><em>knowledge of the truth</em></strong> in verse 26 is the knowledge that Christ's sacrifice is an act that replaces the entire sacrificial system once for all.
+Phần này kết hợp chặt chẽ với kết luận rằng tội tối hậu là sự chẳng tin. Nếu chúng ta đặt những câu Kinh thánh chính của bài viết này vào bối cảnh rộng lớn hơn của toàn bộ sách Hê-bơ-rơ chúng ta sẽ thấy rằng sự <strong>"nhận biết lẽ thật"</strong> trong câu 26 là sự nhận biết rằng sự hi sinh của Đấng Christ là một hành động thay thế toàn thể hệ thống dâng của lễ của thời Cựu Ước một lần đủ cả.
 
-The first part of verse 26 can be paraphrased as follows:
+Phần đầu của câu 26 có thể được diễn ý như sau:
 
-<p class="blockquote">For if we deliberately refused to be forgiven of all our sins by believing in the truthful message we heard ...</p>
+<p class="blockquote">Vì nếu chúng ta cố tình từ chối không chịu nhận sự tha thứ mọi tội lỗi bởi tin vào lời chân thật đã rao giảng cho chúng ta ...</p>
 
-## 3. No further sacrifice
+## 3. Không còn có tế lễ chuộc tội nữa
 
-><sup>26</sup>For if we <u>deliberately keep on sinning</u> after receiving the <u>knowledge of the truth</u>, <u><strong>no further sacrifice</strong></u> for sins is left for us, <sup>27</sup>but only a certain fearful expectation of <u>judgment</u> and a fury of fire that will consume <u>God's enemies</u>. <cite>(Hebrews 10:26-27)</cite>
+> <sup>26</sup>Vì nếu chúng ta đã nhận biết lẽ thật rồi, mà lại cố ý phạm tội, thì <strong>không còn có tế lễ chuộc tội nữa</strong>,  <sup>27</sup>nhưng chỉ có sự đợi chờ kinh khiếp về sự phán xét, và lửa hừng sẽ đốt cháy kẻ bội nghịch mà thôi (Hebrews 10:26-27).
 
-Under the Old Covenant, God gave His people a system of sacrifices to give them a measure of peace upon their failures to keep His commandments, but the sacrifices must be offered repeatedly because it is inevitable that they would continue to sin against Him. Christ brought this system to an end by His death on the cross.
+Trong mối liên hệ qua Cựu Ước, Chúa cho dân sự Ngài một hệ thống tế lễ để ban cho họ một phần nào sự cởi bỏ gánh nặng khi họ không giữ những mệnh lệnh của Ngài, nhưng những của tế lễ đó cứ phải được lập đi lập lại vì họ không tránh khỏi sự tái phạm. Chúa Giê-su đã đem lại sự kết thúc của những của lễ đó qua sự chết của Ngài trên thập tự giá.
 
-<p class="blockquote"><sup>14</sup><strong><u>For by one sacrifice he has made perfect forever</u></strong> those who are being made holy. <sup>15</sup>The Holy Spirit also testifies to us about this. First he says: <sup>16</sup>“This is the covenant I will make with them after that time, says the Lord.  I will put my laws in their hearts, and I will write them on their minds.” <sup>17</sup>Then he adds: “<strong><u>Their sins and lawless acts I will remember no more</u></strong>.” <sup>18</sup>And <strong><u>where these have been forgiven, sacrifice for sin is no longer necessary</u></strong> (Hebrews 10:14-18).</p>
+<p class="blockquote"><sup>14</sup>Vì nhờ dâng <strong><u>chỉ một của tế lễ</u></strong>, Ngài làm cho những kẻ nên thánh được <strong><u>trọn vẹn đời đời</u></strong>.  <sup>15</sup>Ðức Thánh Linh cũng làm chứng cho chúng ta như vậy; vì đã phán rằng:  <sup>16</sup>Chúa phán: Nầy là giao ước ta lập với chúng nó Sau những ngày đó, Ta sẽ để luật pháp ta vào lòng chúng nó Và ghi tạc nơi trí khôn,  <sup>17</sup>Lại phán: <strong><u>Ta sẽ chẳng còn nhớ đến tội lỗi gian ác của chúng nó nữa</u></strong>.  <sup>18</sup><strong><u>Bởi hễ có sự tha thứ thì không cần dâng của lễ vì tội lỗi nữa</u></strong> (Hebrews 10:14-18).</p>
 
-The old sacrificial system deals with sins one by one, intentional or unintentional, never ending, Christ came to deal with sin once for all, though sin is still manifested in the fallen flesh, the consciousness of sins is erased from the mind of one who fully trusts in the finished work of Christ. Therein lies the possibility of rest (Matthew 11:28).
+Hệ thống dâng của tế lễ cũ chú về tội lỗi, từng tội một, cố ý hoặc vô tình, không ngừng nghỉ, Đấng Christ đến để thanh toán vấn đề tội lỗi một lần đủ cả, mặc dù tội lỗi vẫn còn phản ảnh trong xác thịt hư nát, ý niệm về tội lỗi đã được tẩy rửa khỏi tâm trí của người đặt trọn niềm tin nơi việc đã được trọn của Đấng Christ. Nhờ đó người đó có thể được yên nghỉ (Matthew 11:28).
 
+## 4. Sự phán xét
 
-## 4. Judgement
+> <sup>26</sup>Vì nếu chúng ta đã nhận biết lẽ thật rồi, mà lại cố ý phạm tội, thì không còn có tế lễ chuộc tội nữa,  <sup>27</sup>nhưng chỉ có sự <strong>đợi chờ kinh khiếp về sự phán xét</strong>, và lửa hừng sẽ đốt cháy kẻ bội nghịch mà thôi (Hebrews 10:26-27).
 
-><sup>26</sup>For if we <u>deliberately keep on sinning</u> after receiving the <u>knowledge of the truth</u>, <u>no further sacrifice</u> for sins is left for us, <sup>27</sup>but only a certain fearful expectation of <u><strong>judgment</strong></u> and a fury of fire that will consume <u>God's enemies</u>. <cite>(Hebrews 10:26-27)</cite>
+Những câu Kinh thánh này hẳn không phải viết cho người tin Chúa vì sự sử dụng chữ *"phán xét"*. Romans 8:1-2 viết rằng người tin Chúa thì không còn bị đoán phạt nữa:
 
-These verses must not be addressing Christians for the use of the word *"judgment"*. Romans 8:1-2 says that there is not supposed to be any judgment for Christians:
+<p class="blockquote"><sup>1</sup>Cho nên hiện nay chẳng còn có sự đoán phạt nào cho những kẻ ở trong Ðức Chúa Jêsus Christ;  <sup>2</sup>vì luật pháp của Thánh Linh sự sống đã nhờ Ðức Chúa Jêsus Christ buông tha tôi khỏi luật pháp của sự tội và sự chết (Romans 8:1-2).</p>
 
-<p class="blockquote"><sup>1</sup>Therefore, there is now <strong>no condemnation</strong> for those who are in Christ Jesus, <sup>2</sup>because through Christ Jesus the law of the Spirit who gives life has set youa free from the law of sin and death (Romans 8:1-2).</p>
+và sau đó trong câu 34:
 
-and then later in verse 34:
+<p class="blockquote">Ai sẽ lên án họ ư? Ðức Chúa Jêsus Christ là Ðấng đã chết, và cũng đã sống lại nữa. Ngài đang ngự bên hữu Ðức Chúa Trời, cầu nguyện thế cho chúng ta.  (Romans 8:34).</p>
 
-<p class="blockquote">Who then is the one who condemns? No one. Christ Jesus who died--more than that, who was raised to life--is at the right hand of God and is also interceding for us (Romans 8:34).</p>
+Tuy nhiên sự phán xét vẫn dành cho những kẻ cố tình từ chối không đặt niềm tin nơi Đấng Christ để được sự cứu rỗi, họ vẫn cậy nơi các phương tiện khác, các của lễ khác, thay vì Đấng Christ.
 
-Judgment however is reserved for those who deliberately refuse to place their trust on Christ alone for their salvation, they still rely on other means, other sacrifices in place of Christ.
+## 5. Kẻ thù của Đức Chúa Trời
 
-## 5. God's Enemy
+> <sup>26</sup>Vì nếu chúng ta đã nhận biết lẽ thật rồi, mà lại cố ý phạm tội, thì không còn có tế lễ chuộc tội nữa,  <sup>27</sup>nhưng chỉ có sự đợi chờ kinh khiếp về sự phán xét, và <strong>lửa hừng sẽ đốt cháy kẻ bội nghịch</strong> mà thôi (Hebrews 10:26-27).
 
-><sup>26</sup>For if we <u>deliberately keep on sinning</u> after receiving the <u>knowledge of the truth</u>, <u>no further sacrifice</u> for sins is left for us, <sup>27</sup>but only a certain fearful expectation of <u>judgment</u> and a fury of fire that will consume <u><strong>God's enemies</strong></u>. <cite>(Hebrews 10:26-27)</cite>
+Trong bối cảnh của đoạn Kinh thánh Hê-bơ-rơ này, chúng ta thấy sự cố ý phạm tội là sự không tin, hoặc sự đặt niềm tin vào một điều gì khác ngoài Đấng Christ. Phao-lô đã viết điều này cho tín hữu Ga-la-ti mà chúng ta có thể nhờ đó thấy điểm tương đồng về tội họ đã phạm:
 
-In the context of this Hebrews passage, it is the deliberate sinning through unbelief, through trusting in something other than Christ. Paul wrote this to the Galatians that might help us see the similarity of the sin they commit:
+<p class="blockquote"><sup>2</sup>Tôi là Phao-lô nói với anh em rằng, nếu anh em chịu làm phép cắt bì, thì Ðấng Christ không bổ ích chi cho anh em hết.  <sup>3</sup>Tôi lại rao cho mọi người chịu cắt bì rằng, họ buộc phải vâng giữ trọn cả luật pháp.  <sup>4</sup>Anh em thảy đều muốn cậy luật pháp cho được xưng công bình, thì đã lìa khỏi Ðấng Christ, mất ân điển rồi (Galatians 5:2-4).</p>
 
-<p class="blockquote"><sup>2</sup>Mark my words! I, Paul, tell you that if you let yourselves be circumcised, Christ will be of no value to you at all. <sup>3</sup>Again I declare to every man who lets himself be circumcised that he is obligated to obey the whole law. <sup>4</sup>You who are trying to be justified by the law have been <strong>alienated from Christ</strong>; you have <strong>fallen away from grace</strong> (Galatians 5:2-4).</p>
+Trong trường hợp của người Ga-la-ti, sự họ cậy vào phép cắt bì khiến họ bị cắt lìa khỏi Đấng Christ. Họ đã trật phần ân điển trong sự cố tìm sự công bình qua luật pháp. Còn trong trường hợp người Hê-bơ-rơ, họ cậy vào luật pháp qua sự dâng các của lễ bằng huyết dê và bò đực (Hebrews 10:4). Cố tìm sự công bình qua luật pháp trong khi Đấng Christ đã chịu chết để đem lại sự công bình cho họ rồi, vì thế họ trở nên kẻ thù của Đức Chúa Trời.
 
-In the case of the Galatians, it is the reliance on circumcision that made them alienated from Christ. They fell from grace in their trying to be justified through the law. In the case of the Hebrews, their reliance on the law is through the sacrifices of blood of bulls and goats (Hebrews 10:4). Trying to be justified by the law while Christ already died to bring them the justification they needed, this made them the enemy of God as we continue reading to Hebrews 10:29:
+<p class="blockquote">... huống chi kẻ giày đạp Con Ðức Chúa Trời, coi huyết của giao ước, tức là huyết mà mình nhờ nên thánh, là ô uế, lại khinh lờn Ðức Thánh Linh ban ơn, thì anh em há chẳng tưởng rằng người ấy đáng bị hình rất nghiêm đoán phạt hay sao? (Hebrews 10:29)</p>
 
-<p class="blockquote">How much greater punishment do you think that person deserves who has contempt for the Son of God, and profanes the blood of the covenant that made him holy, and insults the Spirit of grace? (Hebrews 10:29)</p>
+Còn chúng ta những tín hữu thời nay, chúng ta cậy nơi điều gì để được Chúa chấp nhận? Việc làm? Công đức?
 
-For us modern Christians, what do we rely on to be justified before God? Our works? Our righteous deeds?
+## Kết luận
 
-## Conclusion
+Trong mắt tác giả Hê-bơ-rơ, tội của đối tượng những thơ ông viết chắc chắn không phải là những tội phạm giữa người đối với người, hoặc ngay cả đối với chính mình, nhưng đối với Đức Chúa Trời. Tuy nhiên chỉ có một tội đối với Ngài mà không thể được tha thứ: tội rao giảng sai lệch lời Đức Thánh Linh khi Ngài chỉnh lại cái nhìn sai lầm của con người về ý nghĩa thực của tội lỗi: đó là tội chẳng tin nơi Con Đức Trời đã sai đến.
 
-In the eyes of the writer of Hebrews, the sin of his target audience is definitely not of the transgression of one against another, or even against self, but againt God. However there is only one sin againt God that cannot be forgiven: the slandering, or blaspheming, or distorting of the Holy Spirit's conviction of men concerning what sin really is: unbelief in the One God has sent.
+Trong sự trông cậy nơi của lễ bằng huyết dê và bò đực, các tín hữu này phạm tội cố tình không đặt trọn niềm tin nơi việc đã trọn của Đấng Christ. Điều này được chứng tỏ trong hội thánh Ga-la-ti khi họ cậy nơi phép cắt bì, ở hội thánh Cơ-lô-se khi họ giữ ngày này, ngày kia, về phép rửa tay, hoặc các phương pháp hành xác tự làm khổ mình.
 
-In trusting in the sacrifices of the blood of bulls and goats, these believers committed a deliberate sin of not placing their full trust on the finished work of Christ. This is manifested at the church of Galatia in their trust in circumcision, at the church of Colosse in their trust in the observing of certain days, the washing of hands, or other methods of self deprivation.
+Nói tóm lại, Đấng Christ là con đường duy nhất Chúa ban để chúng ta được đến gần Ngài, chẳng được thêm vào đó điều gì&mdash;cả những việc công bình nhất, và cũng chẳng điều gì có thể làm mất hiệu lực của thập tự giá&mdash;kể cả mọi tội lỗi ngoại trừ tội chẳng tin.
 
-In short, Christ is the only way God provides for us to have access to Him, nothing else can add to it&mdash;even our most righteous deeds, and nothing can cancel its efficacy&mdash;even all manner of sins except that of unbelief.
+Để hoàn toàn được yên lòng về cách giải thích này, chúng ta chỉ cần đặt đoạn Kinh thánh này vào bối cảnh rộng hơn của cả Hebrews chương 10, và cuối cùng là cả sách Hê-bơ-rơ.
 
-To be fully convinced of this interpretation, one needs only to expand outward to the larger context of the whole of chapter 10, and subsequently backtrack to the entire book of Hebrews.
-
->  <sup>18</sup>And to whom did God swear that they would never enter his rest if not to those who disobeyed? <sup>19</sup>So we see that they were not able to enter, because of their unbelief (Hebrews 3:18-19). <cite>The disobedience is to the call to believe</cite>
+>  <sup>18</sup>Ngài lại thề với ai rằng không được vào sự yên nghỉ của Ngài? Há chẳng phải với những người không vâng lời sao?  <sup>19</sup>Vả, chúng ta thấy những người ấy không thể vào đó được vì cớ không tin (Hebrews 3:18-19) <cite>(không vâng lời về sự kêu gọi đến với niềm tin)</cite>).
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
