@@ -12,6 +12,9 @@ header: no
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 
 <ul class="side-nav">
+      <li><a href="{{ site.baseurl }}/bible-topics/meditations/suffer-with-christ/">Suffering with Christ&mdash;<cite>Romans 8:16-17</cite></a><p style="font-weight: normal;">
+Christianity does not have a monopoly when it comes to suffering as a means for higher spirituality. The virtue of self sacrifice is exalted in virtually all religions. Concerning Christianity, what does the Bible say about suffering?
+</p></li>
       <li><a href="{{ site.baseurl }}/bible-topics/meditations/deliberate-sinning/">Deliberate sinning&mdash;<cite>Hebrews 10:26-27</cite></a><p style="font-weight: normal;">
 What sin is written about in <cite>Hebrews 10:26-27</cite>? The common transgressions that good Christians should avoid at all cost? Or something specific that warrants such stern warning? This writing proposes that the deliberate sinning addressed in this passage is not about sins in general, but about a specific sin that calls for God's judgement, and a fury of fire, the sin that makes one an enemy of God.
 </p></li>

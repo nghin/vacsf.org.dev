@@ -3,7 +3,10 @@ layout: page-fullwidth
 subheadline: "To suffer with Christ, we must know what He's suffering for"
 title: "Suffering with Christ"
 meta_teaser: "Vietnamese Alliance Church San Francisco true meaning of suffering with Christ Romans 8:17"
-teaser: "The virtue of self sacrifice is exalted in virtually all religions. Christianity does not have a monopoly when it comes to suffering as a means for higher spirituality. At least this is the assumption of all those who seek a higher state of spiritual attainment. Concerning Christianity, what does the Bible say about suffering? Let us take a close look at the suffering of Christ to see if our perception of suffering with, or for, Him is indeed what the apostle Paul had in mind when he wrote Romans 8:17."
+teaser: "
+Christianity does not have a monopoly when it comes to suffering as a means for higher spirituality.
+The virtue of self sacrifice is exalted in virtually all religions.
+Concerning Christianity, what does the Bible say about suffering? Let us take a close look at the suffering of Christ to see if our perception of suffering with, or for, Him is indeed what the apostle Paul had in mind when he wrote Romans 8:17."
 permalink: /bible-topics/meditations/suffer-with-christ/
 breadcrumbs: true
 header: no
@@ -70,7 +73,7 @@ Or the key verses of this article might have been written by Paul as follows:
 
 <p class="blockquote"><sup>16</sup>The Spirit himself bears witness to our spirit that we are God's children. <sup>17</sup>And if children, then heirs (namely, heirs of God and also fellow heirs with Christ) - if indeed we suffer, <strong><u>[are dead and buried]</u></strong> with him so we may also be glorified with him (Romans 8:16-17).</p>
 
-The point being made is wherever the deeds of being dead and buried is expressed, suffering might very well be included as part of it, too, and they all belong to Christ alone, not to be shared with any fallen flesh and blood. Nevertheless they were shared with us, as an imparted gift as if we had actually undergone the physical suffering, as we place our trust in Christ.
+The point being made is wherever the deeds of being dead and buried is expressed, suffering might very well be included as part of it, too, and they all belong to Christ alone, not to be shared with any fallen flesh and blood because "to Him be the glory forever and ever (Romans 11:36)". Nevertheless they were shared with us, as an imparted gift as if we had actually undergone the physical suffering, as we place our trust in Christ.
 
 ## In Conclusion
 
