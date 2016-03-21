@@ -1,3 +1,21 @@
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=10879607; 
+var sc_invisible=0; 
+var sc_security="e19e9944"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="free web stats"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/10879607/0/e19e9944/0/"
+alt="free web stats"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+
 <script src="{{ site.url }}{{ site.baseurl }}/assets/js/javascript.min.js"></script>
 <!-- Go Here: http://labs.bible.org/NETBibleTagger to add this to your site. -->
 <!-- ****** NET ********************
@@ -6,6 +24,7 @@ org.bible.NETBibleTagger.voidOnMouseOut = true;
 var backgroundColor = 'FFFFAA';
 </script>
 ****************** NET ********* -->
+
 <!-- ****** BLUE LETTER ******** -->
 <script src="http://www.blueletterbible.org/assets/scripts/blbToolTip/BLB_ScriptTagger-min.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -15,7 +34,7 @@ BLB.Tagger.HideTanslationAbbrev = false;
 BLB.Tagger.TargetNewWindow = true;
 BLB.Tagger.Style = 'par'; // 'line' or 'par'
 BLB.Tagger.NoSearchTagNames = ''; // HTML element list
-BLB.Tagger.NoSearchClassNames = 'noTag doNotTag'; // CSS class list
+BLB.Tagger.NoSearchClassNames = 'noTag,doNotTag'; // CSS class list
 </script>
 <!-- *******BLUE LETTER ******** -->
 
