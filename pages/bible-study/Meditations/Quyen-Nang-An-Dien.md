@@ -16,7 +16,7 @@ categories:
 <div class="row">
 <div class="medium-8 columns" markdown="1">
 
-<em><a style="color: #ff0000;" href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/quyen-nang-cua-an-dien/">(Bấm vào đây để đọc tiếng Việt)</a></em>
+<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/quyen-nang-cua-an-dien/">(Bấm vào đây để đọc tiếng Việt)</a></em>
 
 ## Động Moaning ở Jackson, CA
 

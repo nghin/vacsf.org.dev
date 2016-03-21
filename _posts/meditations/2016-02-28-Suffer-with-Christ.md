@@ -19,7 +19,7 @@ categories:
 <div class="row">
 <div class="medium-8 columns" markdown="1">
 
-<em><a style="color: #ff0000;" href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/chiu-dau-don-voi-chua/">(Bấm vào đây để đọc tiếng Việt&mdash;bài đang được chuyển dịch qua Việt ngữ ...)</a></em>
+<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/chiu-dau-don-voi-chua/">(Bấm vào đây để đọc tiếng Việt)</a></em>
 
 > <sup>16</sup>The Spirit himself bears witness to our spirit that we are God's children.  <sup>17</sup>And if children, then heirs (namely, heirs of God and also fellow heirs with Christ) - <u><strong>if indeed we suffer with him</strong></u> so we may also be glorified with him (Romans 8:16-17).
 
@@ -45,7 +45,7 @@ STRONGS NT 4841: συμπάσχω<br />
 συμπάσχω (T WH συνπάσχω (cf. σύν, II. at the end)); to suffer or feel pain together (in a medical sense, as in Hippocrates () and Galen): 1 Corinthians 12:26; to suffer evils (troubles, persecutions) in like manner with another: Romans 8:17
 </p>
 
-<cite>I Corinthians 12:26</cite> confirms that whatever Christ suffers for is what we're asked by the main verse to suffer with Him. This leads to the next section where we determine what Christ's purpose is in His suffering.
+The definition above confirms that whatever Christ suffers for is what we're asked by the main verse to suffer with Him. This leads to the next section where we determine what Christ's purpose is in His suffering.
 
 ## Christ's purpose in suffering
 
@@ -53,7 +53,7 @@ One simple goal clearly expressed in the Bible: to carry the weight of the sin o
 
 In the Old Covenant, the animal to be sacrificed must be as perfect as it is deemed acceptable by the presiding priest. Exodus 12:5 writes concerning selection of the lamb for the first Passover: *"Your lamb shall be an <strong>unblemished</strong> male a year old; you may take it from the sheep or from the goats."* The unblemished lamb is a type of the sinless Christ to be offered once for all to take away the sin of the world. This is the main reason for Christ's suffering. Christ does not suffer just for the sake of suffering itself, or as if there is any virtue in the suffering so that He may benefit from it. The requirement for this task is not only that the sacrifice must be sinless, but must be God Himself, perfect in every way.
 
-Here comes the challenge to everyone who wants to suffer with Christ: Do you have what it takes to suffer with Him in this endeavor? Are you sinless? Are you the Second Person of Godhead? Whose sin are you going to die for&mdash;let's not forget no one can die for his own sin except he's sinless which is a contradiction?
+Here comes the challenge to everyone who wants to suffer with Christ in the same manner as defined in the Thayer's Greek Lexicon dictionary: Do you have what it takes to suffer with Him in this endeavor? Are you sinless? Are you the Second Person of Godhead? Whose sin are you going to die for&mdash;let's not forget no one can die for his own sin except he's sinless which is a contradiction? Now are you ready for 39 lashes and nails on hands and feet and hung on the cross until death?
 
 So far we have ruled out every reason one might think of as a motivation for suffering with Christ. We can't suffer with Christ, and yet Romans 8:17 asks that we suffer with Him. Therefore Paul must not have referred to this suffering in the way the world does. The way of the world, or the flesh, is always something that we do, but the way of the Spirit is through faith.
 
@@ -79,7 +79,13 @@ The point being made is wherever the deeds of being dead and buried is expressed
 
 If we follow the context leading from Romans 1 all the way through to our main verses of Romans 8:16-17, we'd see that Paul was trying to convince the Romans of the full benefit of being in Christ, he wanted them to step fully into the New Covenant relationship with God. It is clear many in the first churches of Christ still had a hard time identifying themselves with Christ and the cross, which includes his suffering.
 
-A practical application point is though some, perhaps even a large majority of those who come to Christ, may never experience hardship or persecution for their faith, they nevertheless become co-sufferers with Christ by the virtue of their placing their faith in Him. It is a gift from God to those who call by His Son's name.
+A practical application point is though some, perhaps even a large majority of those who come to Christ, may never experience hardship or persecution for their faith, they nevertheless become co-sufferers with Christ by the virtue of their placing their faith in Him, hence they become included "in Christ." And if they're in Christ, His suffering then becomes theirs through faith. It is a gift from God to those who call by His Son's name.
+
+Perhaps this is a good place to refer to Romans 12:2
+
+> Do not be conformed to this present world, but be transformed by the renewing of your mind, so that you may test and approve what is the will of God - what is good and well-pleasing and perfect (Romans 12:2)
+
+Are we thinking like the world concerning the concept of suffering?
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->

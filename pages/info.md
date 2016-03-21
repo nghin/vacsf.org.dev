@@ -21,7 +21,7 @@ header:
 San Francisco, CA 94110<br/>
 Tel. 650-892-5270<br/>
 Pastor: Rev. Andrew Ông<br/>
-Tel. 650-892-5270, Email: ongme1@yahoo.com
+Tel. 650-892-5270, Email: contact@vacsf.org
 
 ## Sunday Schedule
 
@@ -96,15 +96,27 @@ align="left">27</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #cccccc;"><strong>MAR</strong></td>
-<td class="title-padding-even" style="background-color: #cccccc;"
-align="left">25</td>
-<td class="title-padding-even" style="background-color: #cccccc;">Đêm Thương
-Khó &mdash; Good Friday</td>
+<td class="title-padding-even" style="background-color: #cccccc;" align="left">11</td>
+<td class="title-padding-even" style="background-color: #cccccc;">VAY Rally&mdash;Berryessa church, 7 p.m.</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
-<td class="title-padding-even" style="background-color: #cccccc;"
-align="left">27</td>
+<td class="title-padding-even" style="background-color: #cccccc;" align="left">12</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Eagles Meeting&mdash;Nhóm Eagles @ Kally</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
+<td class="title-padding-even" style="background-color: #cccccc;" align="left">19</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Nhóm&mdash;Meeting @ Trang-Lộc-MỹDung</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
+<td class="title-padding-even" style="background-color: #cccccc;" align="left">25</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Đêm Thương Khó &mdash; Good Friday</td>
+</tr>
+<tr>
+<td class="title-padding-even" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
+<td class="title-padding-even" style="background-color: #cccccc;" align="left">27</td>
 <td class="title-padding-even" style="background-color: #cccccc;">Lễ Phục Sinh &mdash; Easter Sunday</td>
 </tr>
 <tr>

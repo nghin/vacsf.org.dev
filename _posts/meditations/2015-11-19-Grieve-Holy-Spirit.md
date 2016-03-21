@@ -16,7 +16,7 @@ categories:
 <div class="row">
 <div class="medium-8 columns" markdown="1">
 
-<em><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/lam-buon-thanh-linh/">(Bấm vào đây để đọc tiếng Việt)</a></em>
+<em><a href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/lam-buon-thanh-linh/">(Bấm vào đây để đọc tiếng Việt)</a></em>
 
 ### Where is this verse which states such theology?
 

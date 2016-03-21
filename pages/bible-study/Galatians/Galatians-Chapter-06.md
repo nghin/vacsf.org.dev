@@ -9,7 +9,7 @@ breadcrumb: true
 header: no
 ---
 <!--more-->
-<em><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/06/">(Bấm vào đây để đọc tiếng Việt)</a></em>
+<em><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/06/">(Bấm vào đây để đọc tiếng Việt)</a></em>
 <div class="row">
 <div class="medium-8 columns" markdown="1">
 <!-- main body text -->
@@ -20,7 +20,7 @@ header: no
 This verse is self-explanatory.
 
 #### <strong>The burden of law observances</strong>
-> <sup>2</sup>Carry one another's <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">burdens</span></span>, and in this way you will <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">fulfill the law of Christ</span></span>.<span style="text-align: justify;">
+> <sup>2</sup>Carry one another's <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">burdens</span></span>, and in this way you will <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">fulfill the law of Christ</span></span>.<span style="text-align: justify;">
 
 <div>
 <p>

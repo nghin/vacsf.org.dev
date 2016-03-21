@@ -16,7 +16,7 @@ categories:
 <div class="row">
 <div class="medium-8 columns" markdown="1">
 
-<em><a style="color: #ff0000;" href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/co-tinh-pham-toi/">(Bấm vào đây để đọc tiếng Việt)</a></em>
+<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/co-tinh-pham-toi/">(Bấm vào đây để đọc tiếng Việt)</a></em>
 
 ><sup>26</sup>For if we <u><strong>deliberately keep on sinning</strong></u> after receiving the <u><strong>knowledge of the truth</strong></u>, <u><strong>no further sacrifice</strong></u> for sins is left for us, <sup>27</sup>but only a certain fearful expectation of <u><strong>judgment</strong></u> and a fury of fire that will consume <u><strong>God's enemies</strong></u> <cite>Hebrews 10:26-27)</cite>.
 

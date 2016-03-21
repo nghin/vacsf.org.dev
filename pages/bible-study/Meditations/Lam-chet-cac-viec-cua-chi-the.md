@@ -17,7 +17,7 @@ categories:
 <div class="medium-8 columns" markdown="1">
 
 <!--
-<em><a style="color: #ff0000;" href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/lam-cho-chet-cac-viec-cua-chi-the/">(Bấm vào đây để đọc tiếng Việt)</a></em>
+<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/lam-cho-chet-cac-viec-cua-chi-the/">(Bấm vào đây để đọc tiếng Việt)</a></em>
 -->
 
 > Thật thế, nếu anh em sống theo xác thịt thì phải chết; song nếu nhờ Thánh Linh, làm cho chết các việc của thân thể, thì anh em sẽ sống. <cite>(Romans 8:13)</cite>

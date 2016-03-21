@@ -9,7 +9,7 @@ header: no
 breadcrumb: true
 ---
 <!--more-->
-<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/09/">(Bấm vào đây để đọc tiếng Việt)</a></p>
+<p style="font-style: italic;"><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/09/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="medium-8 columns">
 

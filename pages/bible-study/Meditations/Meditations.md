@@ -12,6 +12,8 @@ header: no
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 
 <ul class="side-nav">
+      <li><a href="{{ site.baseurl }}/bible-topics/meditations/missing-gods-grace/">Missing God's Grace&mdash;<cite>Galatians 5:4</cite></a><p style="font-weight: normal;">
+Have you always lived the Christian life like walking a tightrope? One misstep and down you go. Though you might be blessed with a faith to believe that Jesus will not let you fall forever into your death, it is the constant fear of falling that makes for a very lethargic and powerless journey into eternity. Knowing the real cause of the falling from God's grace will give you Jesus' promised peace that passes understanding.
       <li><a href="{{ site.baseurl }}/bible-topics/meditations/suffer-with-christ/">Suffering with Christ&mdash;<cite>Romans 8:16-17</cite></a><p style="font-weight: normal;">
 Christianity does not have a monopoly when it comes to suffering as a means for higher spirituality. The virtue of self sacrifice is exalted in virtually all religions. Concerning Christianity, what does the Bible say about suffering?
 </p></li>
@@ -43,7 +45,7 @@ A more complete picture of baptism. This article points out the historical roots
 </p></li>
       <li><a href="{{ site.baseurl }}/bible-topics/meditations/rewards/">Rewards - Phần Thưởng Trên Trời</a><p style="font-weight: normal;">
 
-Are there degrees of rewards in heaven? This article will show that the very idea is a worldly one, but it is at the core of work-based religion <span style="font-style: italic; color: #ff0000;">(bài này có tiếng Việt)</span>
+Are there degrees of rewards in heaven? This article will show that the very idea is a worldly one, but it is at the core of work-based religion <span style="font-style: italic; color: #d30015;">(bài này có tiếng Việt)</span>
 
 </p></li>
       <li><a href="{{ site.baseurl }}/bible-topics/meditations/christ-in-me/">The Hope of Glory</a><p style="font-weight: normal;">

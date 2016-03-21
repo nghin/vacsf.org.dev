@@ -9,7 +9,7 @@ breadcrumb: true
 header: no
 ---
 <!--more-->
-<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/">(Bấm vào đây để đọc tiếng Việt)</a></p>
+<p style="font-style: italic;"><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;" markdown="1">
 
 What Paul wrote in this book of Romans is frequently misunderstood, or regarded with suspicion, that it gives folks a license to sin. This is not what Romans 3:20 said. For all practical intents and purposes, it says you will not get any closer to God by doing good, or be driven further from God by doing bad, because the law is only meant to show how sinful you are. It's an x-ray into your heart to show its utter depravity. It does not heal you, or give you life.

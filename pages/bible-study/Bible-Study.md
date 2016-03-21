@@ -9,7 +9,7 @@ header:
 ---
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 
-<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/">(Bấm vào đây để đọc tiếng Việt)</a></p>
+<p style="font-style: italic;"><a href="{{ site.projectname }}/hoc-kinh-thanh/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 
 <ul class="side-nav">
       <li><a href="{{ site.projectname }}/bible-topics/book-of-romans/"><h4><strong>Book of Romans</strong></h4></a>

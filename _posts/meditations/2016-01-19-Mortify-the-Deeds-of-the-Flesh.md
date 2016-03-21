@@ -16,7 +16,7 @@ categories:
 <div class="row">
 <div class="medium-8 columns" markdown="1">
 
-<em><a style="color: #ff0000;" href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/lam-cho-chet-cac-viec-cua-chi-the/">(Bấm vào đây để đọc tiếng Việt)</a></em>
+<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/lam-cho-chet-cac-viec-cua-chi-the/">(Bấm vào đây để đọc tiếng Việt)</a></em>
 
 > For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live. <cite>(Romans 8:13)</cite>
 

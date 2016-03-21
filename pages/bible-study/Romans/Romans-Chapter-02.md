@@ -9,12 +9,12 @@ breadcrumb: true
 header: no
 ---
 <!--more-->
-<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/02/">(Bấm vào đây để đọc tiếng Việt)</a></p>
+<p style="font-style: italic;"><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ro-ma/02/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="medium-8 columns">
 <p style="text-align: left;">This sub-section of Romans 2, from verses 1 through 16 is long, so you want to hover your cursor here: Romans 2:1-16, to view the whole passage at once.</p>
 <h4 style="text-align: left;"><strong>All men are under judgement</strong></h4>
-<p style="text-align: left;"><blockquote><sup>1</sup>Therefore <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">you are without excuse</span></span>, whoever you are, when you judge someone else. For on whatever grounds you judge another, you condemn yourself, because you who judge practice the same things. <sup>2</sup>Now we know that Godʼs judgment is in accordance with truth against those who practice such things. <sup>3</sup>And do you think, <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;">whoever you are</span></span>, when you judge those who practice such things and yet do them yourself, that you will escape Godʼs judgment?</blockquote></p>
+<p style="text-align: left;"><blockquote><sup>1</sup>Therefore <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">you are without excuse</span></span>, whoever you are, when you judge someone else. For on whatever grounds you judge another, you condemn yourself, because you who judge practice the same things. <sup>2</sup>Now we know that Godʼs judgment is in accordance with truth against those who practice such things. <sup>3</sup>And do you think, <span style="text-decoration: underline;"><span style="color: #d30015; text-decoration: underline;">whoever you are</span></span>, when you judge those who practice such things and yet do them yourself, that you will escape Godʼs judgment?</blockquote></p>
 <div>
 <p>
 <img alt src="{{ site.baseurl }}/images/no-condemnation.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">

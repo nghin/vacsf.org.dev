@@ -3,13 +3,13 @@ layout: page-fullwidth
 subheadline: "Bible Study"
 title: "Galatians Chapter 1"
 meta_teaser: "Bible Study on the first chapter of Galatians"
-teaser: "Paul starts out with an assertion of his apostleship. His greeting of <span style=\"color:#ff0000\"><em>grace and peace</em></span> though typical of his writing, is a direct challenge or reminder to the Galatians that they need God's grace, not works, and they cannot have peace if they revert back to the law. He was so shocked the Galatians so quickly returned to the Mosaic law system, and he calls that the perversion of the gospel: the mixing of works with grace. He warned them of <span style=\"color: #ff0000;\"><em>anathema</em></span>, translated as eternal damnation in some translation, if they pursue a gospel that is not based on grace alone."
+teaser: "Paul starts out with an assertion of his apostleship. His greeting of <span style=\"color:#d30015\"><em>grace and peace</em></span> though typical of his writing, is a direct challenge or reminder to the Galatians that they need God's grace, not works, and they cannot have peace if they revert back to the law. He was so shocked the Galatians so quickly returned to the Mosaic law system, and he calls that the perversion of the gospel: the mixing of works with grace. He warned them of <span style=\"color: #d30015;\"><em>anathema</em></span>, translated as eternal damnation in some translation, if they pursue a gospel that is not based on grace alone."
 permalink: /bible-topics/book-of-galatians/01/
 breadcrumb: true
 header: no
 ---
 <!--more-->
-<p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/01/">(Bấm vào đây để đọc tiếng Việt)</a></p>
+<p style="font-style: italic;"><a href="{{ site.projectname }}/hoc-kinh-thanh/sach-ga-la-ti/01/">(Bấm vào đây để đọc tiếng Việt)</a></p>
 <div class="row">
 <div class="medium-8 columns" markdown="1">
 
