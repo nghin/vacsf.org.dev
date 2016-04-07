@@ -2,11 +2,8 @@
 layout: page-fullwidth
 subheadline: "To suffer with Christ, we must know what He's suffering for"
 title: "Suffering with Christ"
-meta_teaser: "Vietnamese Alliance Church San Francisco true meaning of suffering with Christ Romans 8:17"
-teaser: "
-Christianity does not have a monopoly when it comes to suffering as a means for higher spirituality.
-The virtue of self sacrifice is exalted in virtually all religions.
-Concerning Christianity, what does the Bible say about suffering? Let us take a close look at the suffering of Christ to see if our perception of suffering with, or for, Him is indeed what the apostle Paul had in mind when he wrote Romans 8:17."
+meta_description: "Romans 8:17 &mdash; What does it mean to suffer with Christ? To suffer with Christ is to endure with Him in exactly the same manner (STRONGS NT 4841: συμπάσχω). Do you meet all the requirements? Chịu khổ với Chúa nghĩa là gì?"
+teaser: "Christianity does not have a monopoly when it comes to suffering as a means for higher spirituality. The virtue of self sacrifice is exalted in virtually all religions. Concerning Christianity, what does the Bible say about suffering? Let us take a close look at the suffering of Christ to see if our perception of suffering with, or for, Him is indeed what the apostle Paul had in mind when he wrote Romans 8:17."
 permalink: /bible-topics/meditations/suffer-with-christ/
 breadcrumbs: true
 header: no

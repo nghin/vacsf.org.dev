@@ -2,7 +2,7 @@
 layout: page-fullwidth
 subheadline: "Who misses the grace of God?"
 title: "Missing God's Grace"
-meta_teaser: "Vietnamese Alliance Church San Francisco Falling Missing grace"
+meta_description: "Missing God's Grace. Falling From Grace. Trật Phần Ân Điển. Is your Christianity like walking a tightrope? Do you have peace with God?"
 teaser: "Have you always lived the Christian life like walking a tightrope? One misstep and down you go. Though you might be blessed with a faith to believe that Jesus will not let you fall forever into your death, it is the constant fear of falling that makes for a very lethargic and powerless journey into eternity. Knowing the real cause of the falling from God's grace will give you Jesus' promised peace that passes understanding."
 permalink: /bible-topics/meditations/missing-gods-grace/
 breadcrumbs: true
@@ -17,7 +17,7 @@ categories:
 <div class="row">
 <div class="medium-8 columns" markdown="1">
 
-<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/trat-phan-an-dien/">(Bấm vào đây để đọc tiếng Việt&mdash;bài đang được chuyển dịch qua Việt ngữ ...)</a></em>
+<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/trat-phan-an-dien/">(Bấm vào đây để đọc tiếng Việt)</a></em>
 
 > You who are trying to be justified by the law have been alienated from Christ; you have <strong>fallen away from grace</strong> (Galatians 5:4).
 
@@ -58,7 +58,7 @@ There is a part of this verse that is even more alarming about the danger of rel
 
 > <sup>15</sup>And regard the patience of our Lord as salvation, just as also our dear brother Paul wrote to you, according to the wisdom given to him,  <sup>16</sup>speaking of these things in all his letters. Some things in these letters are <strong><u>hard to understand</u></strong>, things the ignorant and unstable <strong><u>twist to their own destruction</u></strong>, as they also do to the rest of the scriptures.  <sup>17</sup>Therefore, dear friends, since you have been forewarned, be on your guard that you do not get led astray by the error of these unprincipled men and <strong><u>fall from your firm grasp on the truth</u></strong>.  <sup>18</sup>But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the honor both now and on that eternal day (2 Peter 3:15-18).
 
-A pastor preached a sermon, which was posted on youtube titled <em>"Do not take advantage of God's grace,"</em> citing the 2 Peter 3:15-18 verses quoted above. These verses were used to support the concept of falling from grace according to common interpretation. The citing of these verses in the sermon's context erred in several aspects.
+A pastor preached a sermon, which was posted on youtube titled <em>"Do not abuse God's grace,"</em> citing the 2 Peter 3:15-18 verses quoted above. These verses were used to support the concept of falling from grace according to common interpretation. The citing of these verses in the sermon's context erred in several aspects.
 
 - They do not talk of falling from grace, but of falling from a firm grasp on the truth. The context around it shows Paul was warning his audience of those who distorted Scriptures.
 - They do not talk of <em>"unrepentant actions"</em> but of the apostle's call to the audience to be on guard against erroneous doctrine.
@@ -78,6 +78,12 @@ For the time being, let us reason from the point of view of the common interpret
 <p class="blockquote">For instance, if bitterness, which is actually a state of anger and hatred, is not repented of, one could become defiled by that <u>wrong attitude</u> or spirit and fall short of the grace of God.</p>
 
 If it is true that an "unrepentant sin" will cause someone to fall from grace, then it is incumbent upon the individual to rid himself of all possibilities of such sins. But is it even possible for anyone to rid himself of every trace of this type of sin which causes the falling from grace?
+
+The author of the excerpted article may argue that this only applies to some sin that the sinner keeps falling into, "unrepentently." But the apostle James thinks otherwise, as he wrote in James 2:10:
+
+<p class="blockquote">For whoever keeps the whole law and yet stumbles at just one point is guilty of breaking all of it.</p>
+
+Therefore if we take the author's argument to its final conclusion, any sin no matter how little will cause one to break all of God's law, every sin is an "unrepentant action" deserving a falling from God's grace.
 
 "Wrong attitude" is also too subjective a term to describe a condition that can have such eternal consequences as falling from grace. A hyper sensitive person may perceive an emotional state as "wrong," while another person of certain temperament may perceive it as normal in their culture or upbringing. Such ambiguous definition cannot be used to define our relationship with God.
 
@@ -126,4 +132,4 @@ The world tries to use the law as means to draw near to God, but instead it alie
 
 <div class="small-12" style="padding: 0px; border-bottom: none;">
     {% include next-previous-post-in-category %}
-Let</div>
+</div>

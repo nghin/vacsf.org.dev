@@ -2,11 +2,8 @@
 layout: page-fullwidth
 subheadline: "Chúa chịu khổ về điều gì?"
 title: "Suffering with Christ"
-meta_teaser: "Vietnamese Alliance Church San Francisco true meaning of suffering with Christ Romans 8:17"
-teaser: "
-Không phải chỉ riêng gì tín hữu đạo Tin Lành mới có khái niệm về sự khổ đau là phương tiện để tấn tới trong đời sống tâm linh.
-Hầu như mọi tôn giáo đều coi trọng sự xả thân vì đạo.
-Riêng trong đạo Tin Lành, Kinh thánh nói gì về sự chịu khổ? Chúng ta hãy nhìn sâu vào sự chịu khổ của Đấng Christ để thử nghiệm khái niệm của chúng ta về sự chịu khổ với, hoặc cho, Chúa có thực đúng với ý của sứ đồ Phao-lô khi ông viết đoạn Kinh thánh Romans 8:17 không."
+meta_description: "Romans 8:17 &mdash; What does it mean to suffer with Christ? To suffer with Christ is to endure with Him in exactly the same manner (STRONGS NT 4841: συμπάσχω). Do you meet all the requirements? Chịu khổ với Chúa nghĩa là gì?"
+teaser: "Không phải chỉ riêng gì tín hữu đạo Tin Lành mới có khái niệm về sự khổ đau là phương tiện để tấn tới trong đời sống tâm linh. Hầu như mọi tôn giáo đều coi trọng sự xả thân vì đạo. Riêng trong đạo Tin Lành, Kinh thánh nói gì về sự chịu khổ? Chúng ta hãy nhìn sâu vào sự chịu khổ của Đấng Christ để thử nghiệm khái niệm của chúng ta về sự chịu khổ với, hoặc cho, Chúa có thực đúng với ý của sứ đồ Phao-lô khi ông viết đoạn Kinh thánh Romans 8:17 không."
 permalink: /hoc-kinh-thanh/suy-gam/chiu-dau-don-voi-chua/
 breadcrumbs: true
 header: no

@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-subheadline: "Ân điển khiến chúng ta tự do phạm tội, hay ban quyên phép để chúng ta làm việc lành?"
+subheadline: "Tại sao bạn sống trong sợ hãi?"
 title: "Quyền Năng của Ân Điển&mdash;Bài Học Leo Núi"
-meta_teaser: "Vietnamese Alliance Church San Francisco grace enables good works"
+meta_description: "Grace gives you a license to sin, or enables you to serve God? Ân điển khiến chúng ta tự do phạm tội, hay ban quyền phép để chúng ta làm việc lành?"
 teaser: "Một dẫn chứng thực tế trong đời sống cho thấy ân điển Chúa có quyền năng khiến chúng ta làm được những điều mà trước kia chúng ta không làm được vì kiệt quệ trong sợ hãi. Chẳng người tín hữu nào được tránh khỏi nỗi sợ khi họ đang tìm cách sống sao cho đẹp lòng Chúa, là một điều còn khó vạn lần hơn là bài học leo núi mà bài viết này dùng làm dẫn chứng. Điều mà chúng ta học được từ câu chuyện leo núi này có thể dẫn đến một thay đổi lớn lao trong đời sống đức tin."
 permalink: /hoc-kinh-thanh/suy-gam/quyen-nang-cua-an-dien/
 breadcrumbs: true

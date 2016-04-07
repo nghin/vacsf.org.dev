@@ -1,14 +1,14 @@
 ---
 layout: page-fullwidth
-subheadline: "Do people really need the gospel so they may freely sin?"
+subheadline: "Do people need God's grace so they may freely sin?"
 title: "Abusing God's Grace"
-meta_teaser: "Vietnamese Alliance Church San Francisco Abusing grace"
+meta_description: "Abusing God's grace. Is it grace, or is it the law, that arouses sin (Romans 7:5)? Lạm dụng ân điển. Tội lỗi bị kích thích bởi ân điển, hay bởi luật pháp?"
 teaser: "Work in progress ..."
 permalink: /bible-topics/meditations/abusing-grace/
 breadcrumbs: true
 header: no
 image:
-    thumb: "/thumbs/FallingFromGrace.jpg"
+    thumb: "/thumbs/break-the-chains.jpg"
 categories:
     - bible-study
 ---
@@ -19,101 +19,34 @@ categories:
 
 <em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/lam-dung-an-dien/">(Bấm vào đây để đọc tiếng Việt&mdash;bài đang được chuyển dịch qua Việt ngữ ...)</a></em>
 
-> You who are trying to be justified by the law have been alienated from Christ; you have <strong>fallen away from grace</strong> (Galatians 5:4).
-
-## Common interpretation
+## Introduction
 
 <div>
 <p>
-<img alt src="{{ site.baseurl }}/images/FallingFromGrace.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-A quick Internet search returns the following excerpt of an article which shows a common conception of why someone might fall from grace: 
-
-<p class="blockquote"><em>"Once one receives God’s grace and stands in His grace, <u>future unrepentant actions</u> by that individual could cause him or her to fall short of being under grace. For instance, if bitterness, which is actually a state of anger and hatred, is not repented of, one could become defiled by that wrong attitude or spirit and fall short of the grace of God."</em></p>
+<img alt src="{{ site.baseurl }}/images/break-the-chains.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+There have been many sermons preached and books written on various subjects; but no matter what the titles are and however many angles from which they came, the underlying teaching is a focus on sins and the warnings against falling into them. More often than not, Romans 6:1 is used as the basis for such teaching: <em>"What shall we say then? Are we to remain in sin so that grace may increase?"</em>
 </p>
 </div>
 
-Interestingly there are only a few Internet postings in the Christian vein concerning this topic of "falling from grace," however there are thousands using the expression but for other secular topics. The majority of these postings are about someone, especially public figures, who used to be loved and respected but now have fallen from grace due to some unwise actions, such as that <em>"future unrepentant actions"</em> as quoted above.
+There is clearly an assumption that the majority of Christians needs to be reminded that they should not abuse God's grace as demonstrated in the amount of sermons and writings. This article attempts to show that such warnings are both misplaced and show perhaps a lack of the knowledge of God's grace on the part of the writers or preachers.
 
-The common thread that runs through all these sources, be they Christian or secular, observes that the reason someone fall from grace is their commission or omission of certain things.
+## As false assumption
 
-Despite the fact that there are so few Christian postings on the topic, my own church experience is that no matter what the theology is held by the individual denominations, most sermons and writings seem to agree with the secular view concerning the topic of falling from grace, except for some who might have come to a different conclusion from their own study of the topic.
+Do people really need to know God's grace before they can start taking advantage of it? If it is true that people do take advantage of God's grace, then the world may be better of without Christianity, because they would not have known God's grace and will not be able to abuse it, to find a license to sin. Of course we all know that people sinned way before they knew of the concept of God's grace. How much did man sin before God sent the great flood?
 
-## What does the Bible say?
+We've heard many testimonies and stories of changed lives, of those who led such a lives controlled by sins and changed for the better. If these testimonies are true, and if these positive stories of changed lives are reliable, then what is the rationale for such teaching? What necessitates the constant preaching against the abusing of God's grace which defies the very guarantee of God that <em>"He who began a good work in you will carry it on to completion until the day of Christ Jesus" (Philippians 1:6)</em>?
 
-There is only one verse in the Bible that contains the phrase "falling from grace," and it is Galatians 5:4. And there is another, Hebrews 12:15, that contains a similar phrase "fail of the grace of God KJV)," or "comes short of the grace of God (NET)." The context of both verses are very similar, however in Galatians 5:4 the cause for falling from grace is immediately shown in the verse, while in Hebrews it is spread out through many chapters. Therefore Galatians 5:4 is chosen for to avoid a laborious and long winded explanation.
+## The contradictions
 
-Let us read Galatians 5:4 again here:
+Before the preachers of "Do not abuse God's grace" can start worrying about folks taking advantage of it, they must have succeeded in planting a seed of faith in God such that their listeners are fully convicted that God's forgiveness through the cross can cover their multitude of sins.
 
-<p class="blockquote">You who are <strong>trying to be justified by the law </strong>have been <strong>alienated from Christ</strong>; you have <strong>fallen away from grace</strong> (Galatians 5:4).</p>
+If they had not succeeded in doing so, there's no point worrying about their abusing of God's grace, because how can someone who does not have the assurance of salvation do the very thing they're being accused of?
 
-It is clear from Galatians 5:4 that the cause for falling away from grace is not any sin whatsoever but the attempt to be justified by the law. While it is easy to understand the world's point of view on this topic, how is it that the majority in Christendom completely ignored the cause for falling away from grace so clearly shown in this verse: <strong><em>trying to be justified by the law</em></strong>.
+In the book "The Grace Awakening," Charles Swindoll asserted if you don't preach grace until you're accused of giving people a license to sin, you haven't preached anything of great value at all. The great preacher Martyn L. Jones also wrote virtually the same thing years before C. Swindoll of the very same thing. But both these men simply recapitulated what the apostle Paul wrote in Romans of accusation against him preaching too much of God's grace: <em>"What shall we say then? Are we to remain in sin so that grace may increase?"</em>, to which he responded <em>"Absolutely not."</em>
 
-It is the trying to be justified, to get right with God, to be called the righteous, to be sanctified, holy, blameless, through the keeping of the law.
+In reality, a survey of all material ever written through the ages shows a disproportionate focus on sins, not grace. Therefore we can safely assert that the "do not abuse God's grace" type of preaching is not based on the true state of faith of believers at all.
 
-So folks who hold the common interpretation, that it is some sin that makes you fall from grace, do you realize that the very effort to abide by this rule makes you fall from grace in the first place? Do you realize that you're believing the exact opposite of what Galatians 5:4 is saying?
-
-There is a part of this verse that is even more alarming about the danger of relying on the law for justification: <strong><em>"being alienated from Christ."</em></strong> While there might be an ambiguity about the meaning of falling from grace, it is clear what being alienated from Christ means.
-
-## 2<font style="color: rgba(0,0,0,0);">-</font>Peter<font style="color: rgba(0,0,0,0);">-</font>3:17
-
-> <sup>15</sup>And regard the patience of our Lord as salvation, just as also our dear brother Paul wrote to you, according to the wisdom given to him,  <sup>16</sup>speaking of these things in all his letters. Some things in these letters are <strong><u>hard to understand</u></strong>, things the ignorant and unstable <strong><u>twist to their own destruction</u></strong>, as they also do to the rest of the scriptures.  <sup>17</sup>Therefore, dear friends, since you have been forewarned, be on your guard that you do not get led astray by the error of these unprincipled men and <strong><u>fall from your firm grasp on the truth</u></strong>.  <sup>18</sup>But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the honor both now and on that eternal day (2 Peter 3:15-18).
-
-A pastor preached a sermon, which was posted on youtube titled <em>"Do not take advantage of God's grace,"</em> citing the 2 Peter 3:15-18 verses quoted above. These verses were used to support the concept of falling from grace according to common interpretation. The citing of these verses in the sermon's context erred in several aspects.
-
-- They do not talk of falling from grace, but of falling from a firm grasp on the truth. The context around it shows Paul was warning his audience of those who distorted Scriptures.
-- They do not talk of <em>"unrepentant actions"</em> but of the apostle's call to the audience to be on guard against erroneous doctrine.
-
-As an aside, in order to guard against erroneous interpretation of any Scriptures, one must be careful to preserve context. We can use the topic of "falling from grace" as an example. We must consider all foundational truths around the topic:
-
-- Several scriptures that form the basis for the concept of "grace."
-- To fall from grace one must have committed an unforgivable sin; there are several passages that help us form this basis.
-- Study the immediate context of "falling from grace" to see that the root cause is the reliance on the keeping of the law.
-
-And perhaps there are other truths that might help us make sure we don't err in our interpretation; truths such as righteousness, reconciliation, man's total depravity, being born again, flesh vs. spirit, etc. If we do our job correctly we'd find that none of the foundation truths we find are in conflict with any other found in the Bible.
-
-## Common interpretation revisited
- 
-For the time being, let us reason from the point of view of the common interpretation, specifically from the article of which we took an excerpt.
-
-<p class="blockquote">For instance, if bitterness, which is actually a state of anger and hatred, is not repented of, one could become defiled by that <u>wrong attitude</u> or spirit and fall short of the grace of God.</p>
-
-If it is true that an "unrepentant sin" will cause someone to fall from grace, then it is incumbent upon the individual to rid himself of all possibilities of such sins. But is it even possible for anyone to rid himself of every trace of this type of sin which causes the falling from grace?
-
-"Wrong attitude" is also too subjective a term to describe a condition that can have such eternal consequences as falling from grace. A hyper sensitive person may perceive an emotional state as "wrong," while another person of certain temperament may perceive it as normal in their culture or upbringing. Such ambiguous definition cannot be used to define our relationship with God.
-
-The common misconception concerning the issue of sin is we become sinners the moment we commit something that violates God's law. Someone may have theological degrees with the belief that we're sinners by nature, in practice, in conversation and the sermons that they preach, it shows they believe otherwise.
-
-There are at least two Scripture passages that tell us what sin really is.
-
-#### John<font style="color: rgba(0,0,0,0);">-</font>16:8-9
-
-Jesus speaks of the Holy Spirit:
-
-<p class="blockquote"> <sup>8</sup>When he comes, he will prove the world to be in the <strong>wrong about sin</strong> and righteousness and judgment: <sup>9</sup><strong>about sin, because people do not believe in me</strong>.</p>
-
-How is the world wrong about sin? It is wrong because it consistently believes that sin has to do with what people do, what act they commit, what good things they neglect to do. In holding such belief, they imply the solution lies in the sinner's determination to stop sinning. Jesus declared that such belief is wrong, because even if a person has somehow managed never to commit a sin common to man, he is still a sinner. What he needs is not that he has to learn how to quit sinning, but he needs is to trust in Christ.
-
-This verse is in agreement with the key verse of this writing, Galatians 5:4 to be quoted again here:
-
-<p class="blockquote">You who are trying to be justified by the law have been alienated from Christ; you have <strong>fallen away from grace</strong> (Galatians 5:4).</p>
-
-The law doesn't deal with the sin nature, but it deals with the sins that people commit. It deals with them one at a time. One sin, one sacrifice. But faith in Christ deals with our sin nature once for all. Do you see the connection here? The insistence to deal with sins through the law, not the sins though they may be so vile and cause so much pain for those who fall into them, is the principle cause for falling away from grace.
-
-#### Matthew<font style="color: rgba(0,0,0,0);">-</font>5:27-28
-
-<p class="blockquote"><sup>27</sup>You have heard that it was said, ‘You shall not commit adultery. <sup>28</sup>But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart.</p>
-
-Once again, Jesus confirmed that the action is just a product of what is already in the heart, which is another way to say it's embedded deep in the sin nature of man. Stopping the action does not eradicate it from every cell that made up parts of the living being.
-
-But it seems there is a veil over the eyes of many because even until now, the large majority of people of faith still focus on the wrong object. However when the Holy Spirit comes into the hearts of those who seek the truth, they will be convicted and realize that they had been wrong all along about sin.
-
-## In conclusion
-
-The real cause for someone to fall away from grace is their reliance on the observance of the law for justification. This is the way of the world, and the world is wrong about how to deal with sins. Unfortunately so many in the church hold this concept of sin just like the world.
-
-> Do not be conformed to this present world, but be transformed by the renewing of your mind, so that you may test and approve what is the will of God--what is good and well-pleasing and perfect (Romans 12:2).
-
-The world tries to use the law as means to draw near to God, but instead it alienates them from Christ. The Bible recorded the first example of the effect of the law on the relationship between God and Man. The appearance of the law in the conscience of the first couple in the Garden of Eden in the form of the knowledge of good and evil immediately drove a wedge between them and God. But thankfully God already knew this and had prepared beforehand a way to bring them back to Him. All they needed, as we do now, is to fix our eyes on the One that God had sent (John 3:14).
+To be continued ...
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->

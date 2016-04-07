@@ -2,7 +2,7 @@
 layout: page-fullwidth
 subheadline: "Which gospel are you proclaiming?"
 title: "Ngụ Ngôn Quan Khâm Sai"
-meta_teaser: "Bible Study on the Parable of the Ambassador"
+meta_description: "Parable of the Ambassador. Message of reconciliation. Ngụ Ngôn Quan Khâm Sai. Sứ điệp giảng hoà."
 teaser: "Đây không phải là một ngụ ngôn của Chúa Giê-su, nhưng được viết trong dạng một ngụ ngôn đẻ thúc dục người đọc làm trọn vẹn vai trò quan khâm sai của Đức Chúa Trời: rao truyền tin mừng cứu rỗi y như Chúa đã giao cho, đừng thêm hoặc bớt gì."
 permalink: /hoc-kinh-thanh/suy-gam/quan-kham-sai/
 breadcrumb: true

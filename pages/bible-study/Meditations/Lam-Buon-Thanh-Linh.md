@@ -2,7 +2,7 @@
 layout: page-fullwidth
 subheadline: "Bị Ngài lìa bỏ? Mất sự sống đời?"
 title: "Làm Buồn Lòng Thánh Linh?"
-meta_teaser: "Grieving Holy Spirit Lose Salvation"
+meta_description: "Do you lose your salvation if you grieve the Holy Spirit? Làm buồn Đức Thánh Linh có mất sự sống đời đời không?"
 teaser: "Một câu Kinh Thánh quen thuộc nhưng rất thường khi bị giải thích sai. Trường Thần Học không dạy điều này nhưng thường được lồng trong những bài giảng và được nhiều người chấp nhận. Sự hiểu và ứng dụng sai lầm này sẽ ảnh hưởng đến đời sống tâm linh như thế nào? Có phù hợp với những chân lý căn bản khác trong Kinh Thánh Không? Chúng ta hãy cùng nhau nghiên cứu."
 permalink: /hoc-kinh-thanh/suy-gam/lam-buon-thanh-linh/
 breadcrumb: true

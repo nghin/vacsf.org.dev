@@ -2,7 +2,7 @@
 layout: page-fullwidth
 subheadline: "Ý Nghĩa Chân Thực Trong Bối Cảnh Cựu Và Tân Ước"
 title: "Cố Ý Phạm Tội"
-meta_teaser: "Vietnamese Alliance Church San Francisco deliberate sinning sacrifice  consciousness sins truth"
+meta_description: "Deliberate sinning. Is it about sins in general, or a specific sin that that has eternal implication? Cố ý phạm tội. Tội lỗi nói chung, hay một tội duy nhất quan hệ đến sự sống đời đời?"
 teaser: "Hebrews 10:26-27 viết về tội gì? Những tội thông thường mà người tin Chúa nên tránh bằng mọi giá? Hoặc một điều gì đó đặc biệt khiến tác giả phải viết lời cảnh cáo nghiêm trọng? Bài viết này đề nghị rằng tội cố ý trong đoạn Kinh thánh này không nói về những vi phạm thông thường, nhưng về một vi phạm đặc biệt đến nỗi phải chịu sự phán xét của Chúa, đe doạ về lửa hừng, một tội khiến người phạm trở nên kẻ thù của Đức Chúa Trời."
 permalink: /hoc-kinh-thanh/suy-gam/co-tinh-pham-toi/
 breadcrumbs: true

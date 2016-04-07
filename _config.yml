@@ -54,7 +54,9 @@ paginate: 5
 paginate_path: "blog/page:num"
 
 # Required for jekyll 3.0
-gems: [jekyll-paginate, jekyll-gist]
+gems:
+  - jekyll-paginate
+  - jekyll-gist
 
 # Theme works best with Kramdown (using the table of contents function)
 markdown: kramdown

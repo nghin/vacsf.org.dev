@@ -1,9 +1,9 @@
 ---
 layout: page-fullwidth
 subheadline: "Ai là người trật phần ân điển?"
-title: "Trật Phần Ân Điển"
-meta_teaser: "Vietnamese Alliance Church San Francisco Falling Missing grace"
-teaser: "Bạn vẫn thường sống đời tin kính như một người đi trên giây? Trật một bước là rơi xuống. Dù bạn có được diễm phúc có niềm tin rằng Chúa Giê-su sẽ chẳng hề để bạn rơi vào sự chết, nhưng sự thường xuyên sợ bị rơi xuống khiến đoạn đường hành trình vào vĩnh cửu của bạn đầy mệt mỏi và bất lực. Khi bạn biết rõ nguyên nhân nào một người có thể bị trật phần ân điển bạn sẽ kinh nghiệm được sự bình an vượt quá sự suy tưởng và Chúa Giê-su đã hứa ban."
+title: "Trật Phần Ân Điển &mdash; Galatians<font style='color: rgba(0,0,0,0);'>-</font>5:4"
+meta_description: "Missing God's Grace. Falling From Grace. Trật Phần Ân Điển. Is your Christianity like walking a tightrope? Do you have peace with God?"
+teaser: "Bạn vẫn thường sống đời tin kính như một người đi trên giây? Trật một bước là rơi xuống. Dù bạn có được diễm phúc có niềm tin rằng Chúa Giê-su sẽ chẳng hề để bạn rơi vào sự chết, nhưng sự thường xuyên sợ bị rơi xuống khiến đoạn đường hành trình vào vĩnh cửu của bạn đầy mệt mỏi và bất lực. Khi bạn biết rõ nguyên nhân nào một người có thể bị trật phần ân điển bạn sẽ kinh nghiệm được sự bình an vượt quá sự suy tưởng mà Chúa Giê-su đã hứa ban."
 permalink: /hoc-kinh-thanh/suy-gam/trat-phan-an-dien/
 breadcrumbs: true
 header: no
@@ -43,76 +43,84 @@ Chỉ có một đoạn Kinh thánh chứa đựng cụm từ "mất ân điển
 
 Chúng ta hãy ôn lại Galatians 5:4 ở đây một lần nữa:
 
-<p class="blockquote">You who are <strong>trying to be justified by the law </strong>have been <strong>alienated from Christ</strong>; you have <strong>fallen away from grace</strong> (Galatians 5:4).</p>
+<p class="blockquote">Anh em thảy đều muốn <strong>cậy luật pháp cho được xưng công bình</strong>, thì đã <strong>lìa khỏi Ðấng Christ, mất ân điển rồi</strong> (Galatians 5:4).</p>
 
-Chúng ta thấy rõ trong Galatians 5:4 rằng nguyên nhân của sự mất ân điển không phải là sự phạm một tội nào đó nhưng là sự tìm kiếm công bình qua luật pháp. Trong khi chúng ta có thể thấy dễ hiểu là tại sao người đời mang quan điểm của họ về sự mất ân điền, nhưng điều lạ là tại sao hầu hết các tín hữu cũng hầu như bỏ lơ lời viết rõ ràng trong đoạn Kinh thánh này về sự mất ân điển: <srong><em>cậy luật pháp cho được xưng công bình</em></strong>.
+Chúng ta thấy rõ trong Galatians 5:4 rằng nguyên nhân của sự mất ân điển không phải là sự phạm một tội nào đó nhưng là sự tìm kiếm công bình qua luật pháp. Trong khi chúng ta có thể thấy dễ hiểu là tại sao người đời mang quan điểm của họ về sự mất ân điền, nhưng điều lạ là tại sao hầu hết các tín hữu cũng hầu như bỏ lơ lời viết rõ ràng trong đoạn Kinh thánh này về sự mất ân điển: <strong><em>cậy luật pháp cho được xưng công bình</em></strong>.
 
-It is the trying to be justified, to get right with God, to be called the righteous, to be sanctified, holy, blameless, through the keeping of the law.
+Chính sự cố đạt được sự công bình, sống đẹp lòng Chúa, được nên thánh, được trọn vẹn, qua những việc làm bởi sự đòi hỏi của luật pháp, là nguyên nhân của sự mất ân điển.
 
-So folks who hold the common interpretation, that it is some sin that makes you fall from grace, do you realize that the very effort to abide by this rule makes you fall from grace in the first place? Do you realize that you're believing the exact opposite of what Galatians 5:4 is saying?
+Do đó những người có quan niệm phổ thông, là một tội lỗi nào đó gây nên sự mất ân điển, quí vị có ý thức được rằng chính nỗ lực để sống theo nguyên tắc đó là bước đầu của sự mất ân điển? Quí vị có biết rằng mình đang tin vào điều hoàn toàn trái ngược với sự dạy dỗ của Galatians 5:4?
 
-There is a part of this verse that is even more alarming about the danger of relying on the law for justification: <strong><em>"being alienated from Christ."</em></strong> While there might be an ambiguity about the meaning of falling from grace, it is clear what being alienated from Christ means.
+Có một phần trong đoạn Kinh thánh này còn đáng sợ hơn về sự cậy luật pháp để được xưng công bình: <strong><em>"lìa khỏi Đấng Christ."</em></strong> Trong khi chúng ta có thể mù mờ về ý nghĩa của sự mất ân điển, không ai có thể phủ nhận ý nghĩa chân thực của sự lìa khỏi Đấng Christ.
 
 ## 2<font style="color: rgba(0,0,0,0);">-</font>Peter<font style="color: rgba(0,0,0,0);">-</font>3:17
 
-> <sup>15</sup>And regard the patience of our Lord as salvation, just as also our dear brother Paul wrote to you, according to the wisdom given to him,  <sup>16</sup>speaking of these things in all his letters. Some things in these letters are <strong><u>hard to understand</u></strong>, things the ignorant and unstable <strong><u>twist to their own destruction</u></strong>, as they also do to the rest of the scriptures.  <sup>17</sup>Therefore, dear friends, since you have been forewarned, be on your guard that you do not get led astray by the error of these unprincipled men and <strong><u>fall from your firm grasp on the truth</u></strong>.  <sup>18</sup>But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the honor both now and on that eternal day (2 Peter 3:15-18).
+> <sup>15</sup>Lại phải nhìn biết rằng sự nhịn nhục lâu dài của Chúa chúng ta cốt vì cứu chuộc anh em, cũng như Phao lô, anh rất yêu dấu của chúng ta, đã đem sự khôn ngoan được ban cho mình mà viết thơ cho anh em vậy.  <sup>16</sup>Ấy là điều người đã viết trong mọi bức thơ, nói về những sự đó, ở trong có <strong><u>mấy khúc khó hiểu</u></strong>, mà những kẻ dốt nát và tin không quyết đem <strong><u>giải sai ý nghĩa</u></strong>, cũng như họ giải sai về các phần Kinh Thánh khác, <strong><u>chuốc lấy sự hư mất</u></strong> riêng về mình.  <sup>17</sup>Hỡi kẻ rất yêu dấu, vì anh em đã được biết trước, vậy hãy giữ cho cẩn thận, e anh em cũng bị sự mê hoặc của những người ác ấy dẫn dụ, <strong><u>mất sự vững vàng</u></strong> của mình chăng.  <sup>18</sup>Hãy tấn tới trong ân điển và trong sự thông biết Chúa và Cứu Chúa chúng ta là Ðức Chúa Jêsus Christ. Nguyền xin vinh hiển về nơi Ngài, từ rày đến đời đời! A-men (2 Peter 3:15-18).
 
-A pastor preached a sermon, which was posted on youtube titled <em>"Do not take advantage of God's grace,"</em> citing the 2 Peter 3:15-18 verses quoted above. These verses were used to support the concept of falling from grace according to common interpretation. The citing of these verses in the sermon's context erred in several aspects.
+Có một vị mục sư giảng một bài trên youtube với đề tài <em>"Chớ Lạm Dụng Ân Điển,"</em> và trích đoạn 2 Peter 3:15-18 ở trên. Những câu Kinh thánh này được dùng để bênh vực cái nhìn phổ thông về sự mất ân điển. Sự sử dụng những câu Kinh thánh này trong nội dung bài giảng sai lầm về một số phương diện.
 
-- They do not talk of falling from grace, but of falling from a firm grasp on the truth. The context around it shows Paul was warning his audience of those who distorted Scriptures.
-- They do not talk of <em>"unrepentant actions"</em> but of the apostle's call to the audience to be on guard against erroneous doctrine.
+- Những câu này không nói về sự mất ân điển, nhưng nói về sự lung lay của niềm tin dựa trên chân lý. Văn mạch của câu này cho thấy Phao-lô đang cảnh cáo tín hữu coi chừng những người đang bóp méo Kinh thánh.
+- Những câu này không nói về những <em>"hành động thiếu ăn năn"</em> nhưng về sự kêu gọi của sứ đồ với người đọc đề phòng những giáo điều sai lạc.
 
-As an aside, in order to guard against erroneous interpretation of any Scriptures, one must be careful to preserve context. We can use the topic of "falling from grace" as an example. We must consider all foundational truths around the topic:
+Ngoài ra, để tránh sự giải thích Kinh thánh cách sai lạc, chúng ta phải cẩn thận duy trì văn mạch. Chúng ta có thể dùng chính chủ đề "mất ân điển" này làm một thí dụ. Phải xem xét mọi chân lý chung quanh chủ đề:
 
-- Several scriptures that form the basis for the concept of "grace."
-- To fall from grace one must have committed an unforgivable sin; there are several passages that help us form this basis.
-- Study the immediate context of "falling from grace" to see that the root cause is the reliance on the keeping of the law.
+- Nhiều đoạn Kinh thánh làm nền tảng của ý niệm "ân điển."
+- Để bị trật phần ân điển một người phải phạm một tội không thể tha thứ được; có nhiều đoạn Kinh thánh giúp chúng ta thấy chân lý này.
+- Nghiên cứu bối cảnh tức thời chung quanh sự "mất ân điển" để thấy rằng cội rễ của nó là sự ỷ lại vào luật pháp.
 
-And perhaps there are other truths that might help us make sure we don't err in our interpretation; truths such as righteousness, reconciliation, man's total depravity, being born again, flesh vs. spirit, etc. If we do our job correctly we'd find that none of the foundation truths we find are in conflict with any other found in the Bible.
+Và có lẽ còn nhiều chân lý khác nữa có thể giúp chúng ta biết chắc mình không sai lạc trong sự giải thích Kinh thánh; chân lý chẳng hạn như sự công bình, giảng hoà, sự suy bại toàn diện của con người, sự tái sinh, xác thịt và thần linh, v.v. Nếu theo đúng nguyên tắc căn bản chúng ta sẽ thấy không một chân lý nền tảng nào lại mâu thuẫn với những chân lý khác.
 
-## Common interpretation revisited
- 
-For the time being, let us reason from the point of view of the common interpretation, specifically from the article of which we took an excerpt.
+## Viếng lại cách giải thích phổ thông
 
-<p class="blockquote">For instance, if bitterness, which is actually a state of anger and hatred, is not repented of, one could become defiled by that <u>wrong attitude</u> or spirit and fall short of the grace of God.</p>
+Tạm thời chúng ta hãy luận lý từ cách nhìn phổ thông, nhất là từ vị trí của bài viết mà chúng ta đã trích ra. 
 
-If it is true that an "unrepentant sin" will cause someone to fall from grace, then it is incumbent upon the individual to rid himself of all possibilities of such sins. But is it even possible for anyone to rid himself of every trace of this type of sin which causes the falling from grace?
+<p class="blockquote">Chẳng hạn như nếu người đó không ăn năn về sự cay đắng, là một trạng thái giận dữ và thù ghét, thì có thể bị ô uế vì một <u>thái độ</u> hoặc tâm thần xấu mà bị trật phần ân điển.</p>
 
-"Wrong attitude" is also too subjective a term to describe a condition that can have such eternal consequences as falling from grace. A hyper sensitive person may perceive an emotional state as "wrong," while another person of certain temperament may perceive it as normal in their culture or upbringing. Such ambiguous definition cannot be used to define our relationship with God.
+Nếu quả thực một "hành động không hối cải" có thể khiến một người bị mất ân điển thì người đó phải tìm mọi cách để gột rửa hết mọi cơ hội có thể phạm tội như vậy. Nhưng có thể nào một người có khả năng gột rửa hết mọi dấu tích của tội lỗi kẻo mất sự sống đời đời?
 
-The common misconception concerning the issue of sin is we become sinners the moment we commit something that violates God's law. Someone may have theological degrees with the belief that we're sinners by nature, in practice, in conversation and the sermons that they preach, it shows they believe otherwise.
+Tác giả của bài viết được trích ra ở trên có thể lý luận rằng nguyên tắc này chỉ áp dụng cho những tội mà người phạm không chịu chừa bỏ. Nhưng sứ đồ Gia-cơ lại nghĩ khác, ông có viết trong James 2:10 như sau:
 
-There are at least two Scripture passages that tell us what sin really is.
+<p class="blockquote">Vì người nào giữ trọn luật pháp, mà phạm một điều răn, thì cũng đáng tội như đã phạm hết thảy.</p>
 
-#### John<font style="color: rgba(0,0,0,0);">-</font>16:8-9
+Do đó nếu chúng ta đưa lý luận của tác giả cho đến kết luận cuối cùng thì mọi tội dù lớn hay nhỏ đều khiến chúng ta phạm vào toàn bộ luật pháp của Đức Chúa Trời, và mọi tội đều là "hành động không hối cải" đáng bị trật phần ân điển.
 
-Jesus speaks of the Holy Spirit:
+Nếu quả thực một "tội không chừa bỏ" có thể khiến một người trật phần ân điển, thì chắc người đó phải bằng mọi cách tránh đừng phạm tội như vậy nữa. Nhưng có thể nào một người có khả năng trừ bỏ mọi dấu tích tội lỗi trong mình hầu tránh phải trật phần ân điển?
 
-<p class="blockquote"> <sup>8</sup>When he comes, he will prove the world to be in the <strong>wrong about sin</strong> and righteousness and judgment: <sup>9</sup><strong>about sin, because people do not believe in me</strong>.</p>
+"Thái độ xấu" cũng là một ý niệm có tính cách chủ quan để diễn tả một tình trạng quan hệ đến sự sống đời đời như trật phần ân điển. Một người nhậy cảm có thể nghĩ rằng một thái độ nào đó là "xấu," trong khi một người có tâm tính khác có thể nghĩ đó là chuyện bình thường trong sự trưởng dưỡng hoặc văn hoá của họ. Một định nghĩa mơ hồ như vậy không thể nào được dùng để định nghĩa một mối tương quan với Chúa.
 
-How is the world wrong about sin? It is wrong because it consistently believes that sin has to do with what people do, what act they commit, what good things they neglect to do. In holding such belief, they imply the solution lies in the sinner's determination to stop sinning. Jesus declared that such belief is wrong, because even if a person has somehow managed never to commit a sin common to man, he is still a sinner. What he needs is not that he has to learn how to quit sinning, but he needs is to trust in Christ.
+Quan niệm sai lầm rất phổ thông về vấn đề tội lỗi là một người chỉ trở nên người có tội khi phạm một điều gì đó nghịch với luật pháp Đức Chúa Trời. Một người có thể có bằng cấp về thần học và tin rằng con người vốn bản chất tội lỗi, trong thực tế, niềm tin đó không được bày tỏ trong khi đối thoại và khi giảng Kinh thánh.
 
-This verse is in agreement with the key verse of this writing, Galatians 5:4 to be quoted again here:
+Có ít nhất hai đoạn Kinh thánh cho chúng ta biết tội lỗi thực sự là gì.
 
-<p class="blockquote">You who are trying to be justified by the law have been alienated from Christ; you have <strong>fallen away from grace</strong> (Galatians 5:4).</p>
+### John<font style="color: rgba(0,0,0,0);">-</font>16:8-9
 
-The law doesn't deal with the sin nature, but it deals with the sins that people commit. It deals with them one at a time. One sin, one sacrifice. But faith in Christ deals with our sin nature once for all. Do you see the connection here? The insistence to deal with sins through the law, not the sins though they may be so vile and cause so much pain for those who fall into them, is the principle cause for falling away from grace.
+Chúa Giê-su nói về Đức Thánh Linh:
 
-#### Matthew<font style="color: rgba(0,0,0,0);">-</font>5:27-28
+<p class="blockquote"><sup>8</sup>Khi Ngài đến thì sẽ khiến thế gian tự cáo về tội lỗi, về sự công bình và về sự phán xét.  <sup>9</sup>Về tội lỗi, vì họ không tin ta;</p>
 
-<p class="blockquote"><sup>27</sup>You have heard that it was said, ‘You shall not commit adultery. <sup>28</sup>But I tell you that anyone who looks at a woman lustfully has already committed adultery with her in his heart.</p>
+Thế gian hiểu sai về tội lỗi như thế nào? Họ hiểu sai vì họ luôn nghĩ rằng tội lỗi có liên hệ đến hành động, việc họ làm, hoặc điều lành mà họ đã không làm. Vì giữ quan niệm đó, họ tin rằng phương cách giải quyết vấn đề tội lỗi là tuỳ thuộc vào sự quyết tâm của một người để đừng phạm tội nữa. Chúa Giê-su cho chúng ta biết suy nghĩ như vậy là sai, vì cho dù một người có bằng cách nào đó không hề phạm một tội mà loài người thường phạm phải, họ vẫn là người có tội. Điều họ cần không phải là học làm sao để đừng phạm tội nữa, nhưng là sự họ cần đặt niềm tin nơi Chúa.
 
-Once again, Jesus confirmed that the action is just a product of what is already in the heart, which is another way to say it's embedded deep in the sin nature of man. Stopping the action does not eradicate it from every cell that made up parts of the living being.
+Câu Kinh thánh dưới đây mang cùng một ý với đoạn gốc của bài viết này, xin trích lại Galatians 5:4 dưới đây:
 
-But it seems there is a veil over the eyes of many because even until now, the large majority of people of faith still focus on the wrong object. However when the Holy Spirit comes into the hearts of those who seek the truth, they will be convicted and realize that they had been wrong all along about sin.
+<p class="blockquote">Anh em thảy đều muốn cậy luật pháp cho được xưng công bình, thì đã <strong>lìa khỏi Ðấng Christ, mất ân điển rồi</strong> (Galatians 5:4).</p>
 
-## In conclusion
+Luật pháp không giải quyết vấn đề bản chất tội lỗi, nhưng nhắm vào từng tội lỗi mà mỗi người phạm phải. Một tội, một của lễ. Nhưng đức tin trong Đấng Christ thì giải quyết vấn đề tội lỗi một lần đủ cả. Độc giả có thấy ý chính ở đây không? Sự khăng khăng cứ tìm cách để đương đầu với tội lỗi qua luật pháp, chứ không phải là những tội lỗi dù xấu xa và gây nhiều đau đớn cho kẻ phạm vào nó, chính là nguyên nhân của sự trật phần ân điển.
 
-The real cause for someone to fall away from grace is their reliance on the observance of the law for justification. This is the way of the world, and the world is wrong about how to deal with sins. Unfortunately so many in the church hold this concept of sin just like the world.
+### Matthew<font style="color: rgba(0,0,0,0);">-</font>5:27-28
 
-> Do not be conformed to this present world, but be transformed by the renewing of your mind, so that you may test and approve what is the will of God--what is good and well-pleasing and perfect (Romans 12:2).
+<p class="blockquote"><sup>27</sup>Các ngươi có nghe lời phán rằng: Ngươi chớ phạm tội tà dâm.  <sup>28</sup>Song ta phán cho các ngươi biết: Hễ ai ngó đờn bà mà động tình tham muốn, thì trong lòng đã phạm tội tà dâm cùng người rồi.></p>
 
-The world tries to use the law as means to draw near to God, but instead it alienates them from Christ. The Bible recorded the first example of the effect of the law on the relationship between God and Man. The appearance of the law in the conscience of the first couple in the Garden of Eden in the form of the knowledge of good and evil immediately drove a wedge between them and God. But thankfully God already knew this and had prepared beforehand a way to bring them back to Him. All they needed, as we do now, is to fix our eyes on the One that God had sent (John 3:14).
+Một lần nữa, Chúa Giê-su lại nhấn mạnh rằng một hành động chỉ là sản phẩm của những gì đang chất chứa trong tấm lòng, hay nói cách khác là nó nằm sâu trong bản chất tội lỗi của con người. Dù có ngăn trở được hành động cũng chẳng có thể tẩy trừ được nó khỏi từng tế bào cấu kết nên trọn kẻ có tội.
+
+Nhưng dường như có một bức màn che mắt nhiều người vì trong hiện tại, phần đông những tín hữu vẫn chú tâm vào đối tượng sai lầm. Tuy nhiên khi Đức Thánh Linh vào lòng của người tìm chân lý, họ sẽ được cáo trách và ý thức được rằng họ đã sai lầm từ lâu lắm về vấn đề tội lỗi.
+
+## Kết Luận
+
+Nguyên nhân chính khiến một người có thể trật phần ân điển là sự họ cậy vào những việc làm theo sự đòi hỏi của luật pháp để được xưng công bình (Galatians 5:4). Đây là đường lối của thế gian, và cả thế gian đều sai lầm về cách đương đầu với vấn đề tội lỗi. Nhưng điều đáng buồn là rất nhiều các tín hữu cũng có cái nhìn giống như thế gian.
+
+> Ðừng làm theo đời nầy, nhưng hãy biến hóa bởi sự đổi mới của tâm thần mình, để thử cho biết ý muốn tốt lành, đẹp lòng và trọn vẹn của Ðức Chúa Trời là thể nào (Romans 12:2).
+
+Thế gian cố dùng luật pháp làm phương tiện đến gần Đức Chúa Trời, nhưng ngược lại họ lại bị tách rời khỏi Đấng Christ. Kinh thánh ghi lại bằng chứng đầu tiên của ảnh hưởng của luật pháp trên mối liên hệ giữa Đức Chúa Trời và loài người. Khi luật pháp bắt đầu hiện diện trong lương tâm của cặp vợ chồng đầu tiên trong vườn Địa Đàng dưới dạng thức của khả năng phân biệt được điều thiện và điều ác, thì liền tức thì luật pháp đó làm nứt rạn sự thông công giữa Đức Chúa Trời và tạo vật của Ngài. Nhưng tạ ơn Chúa vì Ngài đã biết trước về điều này và đã chuẩn bị trước một chương trình đề đưa họ trở về với Ngài. Điều duy nhất họ cần, cũng như mỗi người trong chúng ta ngày nay, là chú nhìn vào Đấng mà Đức Chúa Trời đã sai đến (John 3:14).
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
@@ -125,4 +133,4 @@ The world tries to use the law as means to draw near to God, but instead it alie
 
 <div class="small-12" style="padding: 0px; border-bottom: none;">
     {% include next-previous-post-in-category %}
-Let</div>
+</div>

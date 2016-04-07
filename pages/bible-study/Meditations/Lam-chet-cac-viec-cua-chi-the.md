@@ -2,8 +2,8 @@
 layout: page-fullwidth
 subheadline: "Cái nhìn đúng về sự làm chết các việc của chi thể"
 title: "Làm Chết Các Việc Của Chi Thể&mdash;<cite>Romans 8:13</cite>"
-meta_teaser: "Vietnamese Alliance Church San Francisco flesh mortification mortify deeds"
-teảe: "Thoạt nhìn, hầu như không cần ai dạy bảo, hầu như ai cũng đi đến kết luận rằng làm chết các việc của chi thể nghĩa là chiến thắng được mọi cám dỗ của xác thịt. Nhưng từ tiết của thư Rô-ma có cho chúng ta đi đến kết luận đó hay không? Kinh Thánh cho nhiều người dùng xác thịt mình không phải làm những việc tội lỗi thường tình của loài người, nhưng để được thông công với Đức Chúa Trời; những việc làm đó chính là đối tượng của những bài viết của Phao-lô. Tôi hy vọng rằng bài viết này giúp đỡ những người đang chiến đấu xác thịt theo cách nhìn phổ thông tìm được sự khuây khoả trong cách nhìn thuộc bối cảnh đề xướng trong bài viết này, và đi theo Chúa với những bước nhẹ nhàng hơn cho đến ngày của Cứu Chúa Giê-su Christ."
+meta_description: "Mortify the deeds of the flesh. Does this mean never sinning anymore? Why try to put to death what is already dead and buried with Christ (Romans 6:4)? Làm chết các việc của chi thể. Nghĩa là không còn phạm tội nữa? Tại sao còn cố làm cho chết nếu đã đồng chết và chôn cùng Đấng Christ?"
+teaser: "Thoạt nhìn, hầu như không cần ai dạy bảo, hầu như ai cũng đi đến kết luận rằng làm chết các việc của chi thể nghĩa là chiến thắng được mọi cám dỗ của xác thịt. Nhưng từ tiết của thư Rô-ma có cho chúng ta đi đến kết luận đó hay không? Kinh Thánh cho nhiều người dùng xác thịt mình không phải làm những việc tội lỗi thường tình của loài người, nhưng để được thông công với Đức Chúa Trời; những việc làm đó chính là đối tượng của những bài viết của Phao-lô. Tôi hy vọng rằng bài viết này giúp đỡ những người đang chiến đấu xác thịt theo cách nhìn phổ thông tìm được sự khuây khoả trong cách nhìn thuộc bối cảnh đề xướng trong bài viết này, và đi theo Chúa với những bước nhẹ nhàng hơn cho đến ngày của Cứu Chúa Giê-su Christ."
 permalink: /hoc-kinh-thanh/suy-gam/lam-cho-chet-cac-viec-cua-chi-the/
 breadcrumb: true
 header: no

@@ -2,7 +2,7 @@
 layout: page-fullwidth
 subheadline: "Will the Holy Spirit leave you? Will you lose your salvation?"
 title: "Grieving the Holy Spirit"
-meta_teaser: "Vietnamese Alliance Church San Francisco Baptism"
+meta_description: "Do you lose your salvation if you grieve the Holy Spirit? Làm buồn Đức Thánh Linh có mất sự sống đời đời không?"
 teaser: "A very common mis-interpretation of a familiar Bible verse. It is not taught in seminary, but widely preached and accepted by many Christians. What is the impact of this interpretation on a Christian's relationship with God? Is it in harmony with the rest of Scriptures? Let us explore."
 permalink: /bible-topics/meditations/grieving-holy-spirit/
 breadcrumb: true
