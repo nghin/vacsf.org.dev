@@ -32,7 +32,7 @@ There is clearly an assumption that the majority of Christians needs to be remin
 
 ## A false assumption
 
-Do people really need to know God's grace before they can start taking advantage of it? If it is true that people do take advantage of God's grace, then the world may be better of without Christianity, because then they would not have known God's grace to abuse it, or to find a license to sin. Of course we all know that people sinned way before they knew of the concept of God's grace. Consider how much man sinned before God sent the great flood, and it was long before Christ came to freely give salvation to those who believed.
+Do people really need to know God's grace before they can start taking advantage of it? If it is true that people do take advantage of God's grace, then the world may be better of without Christianity, because then they would not have known God's grace to abuse it, or to find a license to sin. Of course we all know that people sinned long before they knew of the concept of God's grace. Consider how much man sinned before God sent the great flood, and it was long before Christ came to freely give salvation to those who believed.
 
 We've heard many testimonies and stories of changed lives, of those who led such lives controlled by sins and then changed for the better. If these testimonies are true, and if these positive stories of changed lives are reliable, then what is the rationale for such teaching? What necessitates the constant preaching against the abusing of God's grace which defies the very guarantee of God that <em>"He who began a good work in you will carry it on to completion until the day of Christ Jesus" (Philippians 1:6)</em>?
 
@@ -52,7 +52,7 @@ In short, the glaring contradiction lies in the fact that little time is spent o
 
 The preaching of "do not abuse God's grace" is only valid if God's grace does in fact cause an increase in sins. But this is not what the Bible said. It said that the sinful passions were aroused by the law (Romans 7:5), not by God's grace. It is the misdirected focus on sin that puts people in a downward spiral. The more they try to avoid sin, the more they're drawn to it like a dog returning to its vomit (Proverbs 26:11).
 
-In 1 Corinthians 15:56 Paul states in no uncertain term that the power of sin is the law. This is quite an unexpected thing to most students of the Bible; because they will almost always resort to using the law to restraint the flesh, but in reality it produces the opposite effect, it arouses the sinful passion of the flesh.
+In 1 Corinthians 15:56 Paul states in no uncertain term that the power of sin is the law. This is quite an unexpected thing to most students of the Bible; because they will almost always resort to using the law to restrain the flesh, but in reality it produces the opposite effect, it arouses the sinful passion of the flesh.
 
 Let us revisit Romans 7:5 in a slightly larger context.
 
@@ -65,7 +65,7 @@ Therefore if our goal is to overcome the lust of the flesh, we actually needs Go
 
 ## Do our church's people really know God's grace?
 
-As stated earlier in this writing, it doesn't make sense to warn people of the danger of the abusing of God's grace if they don't know have a full grasp of what it means. One practical question we must ask ourselves is: Do our church's people really know God's grace? How can we tell?
+As stated earlier in this writing, it doesn't make sense to warn people of the danger of the abusing of God's grace if they don't have a full grasp of what it means. One practical question we must ask ourselves is: Do our church's people really know God's grace? How can we tell?
 
 We don't have to look further than the context of our own body of Christ. Very few churchgoers, even those who regularly attend Sunday Schools, are sure of their salvation. When asked whether they know where they'd be once this life is over, or when the Lord returns at the sound of the trumpet (I Corinthians 15:52), the answer is usually: "We can only try our best," or something else of equal or even less certainty.
 
