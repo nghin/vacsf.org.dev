@@ -3,7 +3,7 @@ layout: page-fullwidth
 subheadline: "Do people need God's grace so they may freely sin?"
 title: "Abusing God's Grace"
 meta_description: "Abusing God's grace. Is it grace, or is it the law, that arouses sin (Romans 7:5)? Lạm dụng ân điển. Tội lỗi bị kích thích bởi ân điển, hay bởi luật pháp?"
-teaser: "Work in progress ..."
+teaser: "Grace can be just a word to fill a part of a theology, or it can be something so precious that most are blind to it until when the eyes are opened to its wondrous life transforming power. A Christian whose root grows deep in the grace and knowledge of Christ (2 Peter 3:18) is still, and always has been, a rare breed, and yet here we're talking about \"not abusing God's grace.\""
 permalink: /bible-topics/meditations/abusing-grace/
 breadcrumbs: true
 header: no
@@ -32,7 +32,7 @@ There is clearly an assumption that the majority of Christians needs to be remin
 
 ## A false assumption
 
-Do people really need to know God's grace before they can start taking advantage of it? If it is true that people do take advantage of God's grace, then the world may be better of without Christianity, because they would not have known God's grace and would not have been able to abuse it, or to find a license to sin. Of course we all know that people sinned way before they knew of the concept of God's grace. Consider how much man sinned before God sent the great flood, and it was long before Christ came to freely give salvation to those who believed.
+Do people really need to know God's grace before they can start taking advantage of it? If it is true that people do take advantage of God's grace, then the world may be better of without Christianity, because then they would not have known God's grace to abuse it, or to find a license to sin. Of course we all know that people sinned way before they knew of the concept of God's grace. Consider how much man sinned before God sent the great flood, and it was long before Christ came to freely give salvation to those who believed.
 
 We've heard many testimonies and stories of changed lives, of those who led such lives controlled by sins and then changed for the better. If these testimonies are true, and if these positive stories of changed lives are reliable, then what is the rationale for such teaching? What necessitates the constant preaching against the abusing of God's grace which defies the very guarantee of God that <em>"He who began a good work in you will carry it on to completion until the day of Christ Jesus" (Philippians 1:6)</em>?
 
@@ -44,7 +44,7 @@ Before such state of faith can be established, there's no point worrying about t
 
 In the book "The Grace Awakening," Charles Swindoll asserted if you don't preach grace until you're accused of giving people a license to sin, you haven't preached anything of great value at all. The great preacher Martyn L. Jones also expressed virtually the same idea years before C. Swindoll. But both these men simply recapitulated what the apostle Paul wrote in Romans of accusation against his preaching too much of God's grace: <em>"What shall we say then? Are we to remain in sin so that grace may increase?"</em>, to which he responded <em>"Absolutely not."</em>
 
-In reality, a survey of all material ever written through the ages shows a disproportionate focus on sins, not grace. Therefore we can safely assert that the "do not abuse God's grace" type of preaching is not based on the true state of faith of believers at all.
+In reality, a survey of all material ever written through the ages shows a disproportionate focus on sins, not grace. Therefore we can safely assert that the "do not abuse God's grace" type of preaching is not based on the true assessment of the believers' faith at all.
 
 In short, the glaring contradiction lies in the fact that little time is spent on preaching God's grace, and yet much time is spent in warning against abusing it.
 
@@ -69,7 +69,7 @@ As stated earlier in this writing, it doesn't make sense to warn people of the d
 
 We don't have to look further than the context of our own body of Christ. Very few churchgoers, even those who regularly attend Sunday Schools, are sure of their salvation. When asked whether they know where they'd be once this life is over, or when the Lord returns at the sound of the trumpet (I Corinthians 15:52), the answer is usually: "We can only try our best," or something else of equal or even less certainty.
 
-If they had had a full knowledge of God's grace they would have had no such doubt of their salvation. Their answers to the important question of their eternal place in the heavenly realm would have been more certain if not absolute, because this salvation is based not on human ability but on the promise of God. Therefore it makes no sense to warn them of the negative side of the scary "grace" if they had not possessed it in the first place.
+If they had had a full knowledge of God's grace they would have had no such doubt of their salvation. Their answers to the important question of their eternal place in the heavenly realm would have been more certain if not absolute, because this salvation is based not on human ability but on the promise of God. Therefore it makes no sense to warn them of the negative side of the dangerous "grace" if they had not possessed it in the first place.
 
 ## In conclusion
 
