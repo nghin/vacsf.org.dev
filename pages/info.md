@@ -44,7 +44,7 @@ Tel. 650-892-5270, Email: contact@vacsf.org
 
 ## Thông báo đặc biệt - Special announcement
 
-<p>Trại bồi linh Bắc Cali từ 19-21 tháng 8, 2016 ở <a href="http://allianceredwoods.com/" target="_blank">Alliance Redwoods Camp</a>, giá $110 một người.<br/>
+<p>Trại bồi linh Bắc Cali từ 12-14 tháng 8, 2016 ở <a href="http://allianceredwoods.com/" target="_blank">Alliance Redwoods Camp</a>, giá $110 một người.<br/>
 Spiritual revival camp in Northern California from August 19-21, 2016 at <a href="http://allianceredwoods.com/" target="_blank">Alliance Redwoods Camp</a>, camp fee: $110 per attendee.</p>
 
 ## 2016 Calendar
@@ -147,12 +147,7 @@ align="left">27</td>
 <tr>
 <td class="title-padding-even" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
 <td class="title-padding-even" style="background-color: #cccccc;" align="left">18-22</td>
-<td class="title-padding-even" style="background-color: #cccccc;">Chương Trình Kinh Thánh Mùa Hè (thứ Hai đến thứ Sau) &mdash; Vacation Bible School (Mon-Fri)</td>
-</tr>
-<tr>
-<td class="title-padding-even" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
-<td class="title-padding-even" style="background-color: #cccccc;" align="left">31</td>
-<td class="title-padding-even" style="background-color: #cccccc;">Lễ Báp-têm &mdash; Baptism</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Chương Trình Kinh Thánh Mùa Hè (thứ Hai đến thứ Sáu) &mdash; Vacation Bible School (Mon-Fri)</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #a9a9a9;"><strong>AUG</strong></td>

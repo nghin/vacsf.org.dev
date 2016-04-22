@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-subheadline: "Do people need God's grace so they may freely sin?"
-title: "Abusing God's Grace"
+subheadline: "Người ta có cần ân điển Chúa để tự do phạm tội không?"
+title: "Lạm Dụng Ân Điển"
 meta_description: "Abusing God's grace. Is it grace, or is it the law, that arouses sin (Romans 7:5)? Lạm dụng ân điển. Tội lỗi bị kích thích bởi ân điển, hay bởi luật pháp?"
-teaser: "Grace can be just a word to fill a part of a theology, or it can be something so precious that most are blind to it until when the eyes are opened to its wondrous life transforming power. A Christian whose root grows deep in the grace and knowledge of Christ (2 Peter 3:18) is still, and always has been, a rare breed, and yet here we're talking about \"not abusing God's grace.\""
-permalink: /bible-topics/meditations/abusing-grace/
+teaser: "Ân điển có thể chỉ là một từ được dùng để nói lên một khía cạnh của thần học, hay là nó có thể là một điều quí báu mà hầu như đa số đều mù loà về nó cho đến khi mắt họ mở ra để nhìn thấy quyền năng thay đổi đời sống. Một người tín hữu đâm rễ sâu vào ân điển và sự nhận biết Đấng Christ (2 Peter 3:18) vẫn mãi là một dòng dõi hiếm có, thế mà nay chúng ta phải nói về đề tài \"chớ lạm dụng ân điển\""
+permalink: /hoc-kinh-thanh/suy-gam/lam-dung-an-dien/
 breadcrumbs: true
 header: no
 image:
@@ -17,22 +17,20 @@ categories:
 <div class="row">
 <div class="medium-8 columns" markdown="1">
 
-<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/lam-dung-an-dien/">(Bấm vào đây để đọc tiếng Việt&mdash;bài đang được chuyển dịch qua Việt ngữ ...)</a></em>
-
-## Introduction
+## Lời mở đầu
 
 <div>
 <p>
 <img alt src="{{ site.baseurl }}/images/break-the-chains.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-There have been many sermons preached and books written on various subjects; but no matter what the titles are and however many angles from which they came, the underlying teaching is a focus on sins and the warnings against falling into them. More often than not, Romans 6:1 is used as the basis for such teaching: <em>"What shall we say then? Are we to remain in sin so that grace may increase?"</em>
+Đã có biết bao bài giảng và sách vở về đủ mọi đề tài; nhưng bất kể chủ đề là gì và từ bất cứ khía cạnh nào, sự giảng dạy đều nhắm vào tội lỗi và sự cảnh cáo coi chừng sa vào chúng. Thường thì Romans 6:1 được dùng làm nền tảng cho những sự giảng dạy đó: <em>"Vậy chúng ta sẽ nói làm sao? Chúng ta phải cứ ở trong tội lỗi, hầu cho ân điển được dư dật chăng?"</em>
 </p>
 </div>
 
-There is clearly an assumption that the majority of Christians needs to be reminded that they should not abuse God's grace; this assumption is reflected in the amount of sermons and writings. This article attempts to show that such warnings are both misplaced and show perhaps a lack of the knowledge of God's grace on the part of the writers or preachers.
+Chúng ta thấy rõ ràng có một giả định rằng phần đông tín hữu cần phải được nhắc nhở rằng họ không nên lạm dụng ân điển của Chúa; gỉa định đó được phản ảnh qua số lượng bài giảng và sách vở. Bài viết này muốn cho thấy những cảnh cáo đó vừa đặt không đúng chỗ vừa cho thấy có lẽ có sự thiếu hiểu biết về ân điển Chúa trong kiến thức của soạn giả hoặc giảng sư.
 
-## A false assumption
+## Một giả định sai
 
-Do people really need to know God's grace before they can start taking advantage of it? If it is true that people do take advantage of God's grace, then the world may be better of without Christianity, because then they would not have known God's grace to abuse it, or to find a license to sin. Of course we all know that people sinned long before they knew of the concept of God's grace. Consider how much man sinned before God sent the great flood, and that was long before Christ came to freely give salvation to those who believed.
+Do people really need to know God's grace before they can start taking advantage of it? If it is true that people do take advantage of God's grace, then the world may be better of without Christianity, because then they would not have known God's grace to abuse it, or to find a license to sin. Of course we all know that people sinned long before they knew of the concept of God's grace. Consider how much man sinned before God sent the great flood, and it was long before Christ came to freely give salvation to those who believed.
 
 We've heard many testimonies and stories of changed lives, of those who led such lives controlled by sins and then changed for the better. If these testimonies are true, and if these positive stories of changed lives are reliable, then what is the rationale for such teaching? What necessitates the constant preaching against the abusing of God's grace which defies the very guarantee of God that <em>"He who began a good work in you will carry it on to completion until the day of Christ Jesus" (Philippians 1:6)</em>?
 
