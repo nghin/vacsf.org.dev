@@ -73,7 +73,7 @@ If they had had a full knowledge of God's grace they would have had no such doub
 
 ## In conclusion
 
-The preaching of "do not abuse God's grace" is like a fly in the ointment. Jesus died on the cross to showcase God's matchless grace to mankind, but it is man that attempts to put a lid on this bright light that gives hope to wretched sinners.Their message amounts to: God's grace is amazing, but it has a dark side.
+The preaching of "do not abuse God's grace" is like a fly in the ointment. Jesus died on the cross to showcase God's matchless grace to mankind, but it is man that attempts to put a lid on this bright light that gives hope to wretched sinners. Their message amounts to: God's grace is amazing, but it has a dark side.
 
 Preachers of "Do not abuse God's grace" should begin to trust in God, in the indwelling Holy Spirit who will take care of his own, who will continue His work of preparing them for the kingdom of God. They should instead make up their mind to only lead people to Christ and leave the work of transformation in the hands of the One who made living being out of inanimate clay.
 
