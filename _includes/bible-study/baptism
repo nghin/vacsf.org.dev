@@ -1,5 +1,5 @@
 <p style="font-style: italic;"><a style="color: #ff0000;" href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/">(Bấm vào đây để đọc tiếng Việt)</a></p>
-<ul style="padding-top: 10px;">
+<ul class="side-nav" style="padding-top: 10px;">
       <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/history/">History</a> - The History of Baptism</li>
       <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/bible-topics/meditations/baptism/purposes/">Purpose</a> - Baptizing for Different Purposes</li>
 <ul style="margin-bottom: 0px;">

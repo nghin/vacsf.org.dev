@@ -1,4 +1,4 @@
-<ul style="padding-top: 10px;">
+<ul class="side-nav" style="padding-top: 10px;">
       <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/lich-su/">Lịch Sử</a> - Lịch Sử Phép Báp-têm</li>
       <li style="padding: 5px; border-top: 1px solid #cccccc;"><a href="{{ site.projectname }}/hoc-kinh-thanh/suy-gam/bap-tem/muc-dich/">Mục Đích</a> - Phép Báp-têm cho những mục đích khác nhau</li>
 <ul style="margin-bottom: 0px;">
