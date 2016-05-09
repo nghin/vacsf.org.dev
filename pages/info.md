@@ -131,7 +131,7 @@ align="left">27</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
-<td class="title-padding-even" style="background-color: #cccccc;" align="left">28-30</td>
+<td class="title-padding-even" style="background-color: #cccccc;" align="left">27-30</td>
 <td class="title-padding-even" style="background-color: #cccccc;">Trại Thiếu Niên C&MA (MS tham dự trại) &mdash; Vietnamese Alliance Youth Camp (Pastor will be at camp)</td>
 </tr>
 <tr>

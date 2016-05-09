@@ -3,7 +3,7 @@ layout: page-fullwidth
 subheadline: "Học Kinh Thánh"
 title: "Kết Luận Về Phép Báp-têm Bằng Nước"
 meta_teaser: "Baptism History Purposes Salvation"
-teaser: "Để một Cơ-đốc Nhân sống một đời sống tâm linh lành mạnh, người đó phải được vững nền trên những chân lý quan trọng của Thánh Kinh. Buồn thay, nhiều người trong chúng ta chỉ lập đi lập lại điều họ đã nghe được từ những người có nhiều ảnh hưởng trên họ năm này qua năm kia thay vì tự mình đọc lấy để bíết lời Chúa cho chính mình -theo sát từ tiết hay văn mạch- rồi để Đức Thánh Linh hướng dẫn và bày tỏ ý nghĩa chân thực. Phép báp-têm phải được suy gẫm cẩn trọng và sâu nhiệm hơn những truyền thống và sự giảng dạy trong hội thánh."
+teaser: "Để một Cơ-đốc Nhân sống một đời sống tâm linh lành mạnh, người đó phải được vững nền trên những chân lý quan trọng của Thánh Kinh. Buồn thay, nhiều người trong chúng ta chỉ lập đi lập lại điều họ đã nghe được từ những người có nhiều ảnh hưởng trên họ năm này qua năm kia thay vì tự mình đọc lấy để biết lời Chúa cho chính mình -theo sát từ tiết hay văn mạch- rồi để Đức Thánh Linh hướng dẫn và bày tỏ ý nghĩa chân thực. Phép báp-têm phải được suy gẫm cẩn trọng và sâu nhiệm hơn những truyền thống và sự giảng dạy trong hội thánh."
 permalink: /hoc-kinh-thanh/suy-gam/bap-tem/ket-luan/
 breadcrumb: true
 header: no
@@ -20,7 +20,7 @@ Báp-têm duy nhất Chúa đòi hỏi là phép bởi Đức Chúa Trời -Đ�
 
 > <sup>1</sup> Vậy, tôi là kẻ tù trong Chúa, khuyên anh em phải ăn ở một cách xứng đáng với chức phận mà Chúa đã gọi anh em, <sup>2</sup> phải khiêm nhường đến điều, mềm mại đến điều, phải nhịn nhục, lấy lòng thương yêu mà chìu nhau, <sup>3</sup> dùng dây hòa bình mà giữ gìn sự hiệp một của Thánh Linh.  <sup>4</sup> Chỉ có một thân thể, một Thánh Linh, như anh em bởi chức phận mình đã được gọi đến một sự trông cậy mà thôi; <sup>5</sup> chỉ có một Chúa, một đức tin, một phép báp tem; <sup>6</sup> chỉ có một Ðức Chúa Trời và một Cha của mọi người, Ngài là trên cả mọi người, giữa mọi người và ở trong mọi người. (Ephesians 4:1-6)
 
-Phép báp-têm dó là khi chúng ta được sinh ra bới Thánh Linh -tái sinh.
+Phép báp-têm đó là khi chúng ta được sinh ra bởi Thánh Linh -tái sinh.
 
 > 3 Ðức Chúa Jêsus cất tiếng đáp rằng: <u>Quả thật, quả thật, ta nói cùng ngươi, nếu một người chẳng sanh lại, thì không thể thấy được nước Ðức Chúa Trời</u>. 4 Ni-cô-đem thưa rằng: Người đã già thì sanh lại làm sao được? Có thể nào trở vào lòng mẹ và sanh lần thứ hai sao? 5 Ðức Chúa Jêsus đáp rằng: <u>Quả thật, quả thật, ta nói cùng ngươi, nếu một người chẳng nhờ nước và Thánh Linh mà sanh, thì không được vào nước Ðức Chúa Trời. 6 Hễ chi sanh bởi xác thịt là xác thịt; hễ chi sanh bởi Thánh Linh là thần.</u> (John 3:3-6)
 

@@ -29,7 +29,8 @@ Báp-têm của Chúa Giê-su thật rất khác với các báp-têm khác; vì
 "11 Về phần ta, ta lấy nước mà làm phép báp-tem cho các ngươi ăn năn; song Ðấng đến sau ta có quyền phép hơn ta, ta không đáng xách giày Ngài. <u>Ấy là Ðấng sẽ làm phép báp-tem cho các ngươi bằng Ðức Thánh Linh và bằng lửa.</u> 12 Tay Ngài cầm nia mà dê thật sạch sân lúa mình và Ngài sẽ chứa lúa vào kho, còn rơm rạ thì đốt trong lửa chẳng hề tắt." (Matthew 3:11-12)
 
 Câu hỏi thường được nêu lên là: "Chẳng phải Chúa Giê-su đã làm báp-têm bằng nước sao?" Hãy xem Kinh Thánh nói gì về điều này trong sách tin lành Giăng.
-> <sup>1</sup> Khi Chúa đã hay rằng người Pha-ri-si có nghe đồn Ngài gọi và làm phép báp tem được nhiều môn đồ hơn Giăng, <sup>2</sup> <u>(kỳ thiệt không phải chính Ðức Chúa Jêsus làm phép báp tem, nhưng là môn đồ Ngài)</u> (John 4:1-2)
+
+<p class="blockquote"><sup>1</sup> Khi Chúa đã hay rằng người Pha-ri-si có nghe đồn Ngài gọi và làm phép báp tem được nhiều môn đồ hơn Giăng, <sup>2</sup> <u>(kỳ thiệt không phải chính Ðức Chúa Jêsus làm phép báp tem, nhưng là môn đồ Ngài)</u> (John 4:1-2)</p>
 
 <a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/bap-tem/muc-dich/su-do/">Bài Kế: Phép Báp-têm Của Các Sứ Đồ</a>
 

@@ -22,7 +22,7 @@ Không giống như Phao-lô, Phi-e-rơ và các sứ đồ khác được chỉ
 
 ### Một Nguồn Mạch Mới Cho Sự Tha Thứ
 
-Các sứ đồ đang gồng gánh một sứ điệp rằng người Do-thái phải chịu một lần rửa (báp-tem) cuối cùng bằng nước. Câu chuyên người đàn bà bên bờ giếng cho chúng ta biết có một thứ nước mà người uống sẽ không bao giờ khát nữa. Tương tự như thế, phép báp-têm mà các sứ đồ đang làm bày tỏ một sự rửa mà người được rửa không bao giờ phải làm lại nữa.
+Các sứ đồ đang gồng gánh một sứ điệp rằng người Do-thái phải chịu một lần rửa (báp-tem) cuối cùng bằng nước. Câu chuyện người đàn bà bên bờ giếng cho chúng ta biết có một thứ nước mà người uống sẽ không bao giờ khát nữa. Tương tự như thế, phép báp-têm mà các sứ đồ đang làm bày tỏ một sự rửa mà người được rửa không bao giờ phải làm lại nữa.
 
 > <sup>36</sup> Vậy, cả nhà Y-sơ-ra-ên khá biết chắc rằng Ðức Chúa Trời đã tôn Jêsus nầy, mà các ngươi đã đóng đinh trên thập tự giá, làm Chúa và Ðấng Christ. <sup>37</sup> Chúng nghe bấy nhiêu lời, trong lòng cảm động, bèn hỏi Phi -e-rơ và các sứ đồ khác rằng: Hỡi anh em, chúng ta phải làm chi? <sup>38</sup> Phi -e-rơ trả lời rằng: <u>Hãy hối cải, ai nấy phải nhơn danh Ðức Chúa Jêsus chịu phép báp-tem, để được tha tội mình, rồi sẽ được lãnh sự ban cho Ðức Thánh Linh.</u> (Acts 2:36-38)
 

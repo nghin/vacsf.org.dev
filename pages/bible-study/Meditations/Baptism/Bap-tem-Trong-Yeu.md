@@ -26,7 +26,7 @@ Kinh Thánh chép rằng có một thân thể, một Thánh Linh, một niềm 
 
 Phải! Nhưng đó không phải là về sự rảy hoặc dầm trong nước. Đó là nói về sự sanh về phương diện thể chất (xác thịt sanh bởi xác thịt) hoặc sanh trong phương diện tâm linh (hễ chi sinh bởi Thánh Linh là thần -sự tái sinh)
 
-> <sup>3</sup> Ðức Chúa Jêsus cất tiếng đáp rằng: <u>Quả thật, quả thật, ta nói cùng ngươi, nếu một người chẳng sanh lại, thì không thể thấy được nước Ðức Chúa Trời.</u> <sup>4</sup> Ni-cô-đem thưa rằng: Người đã gà thì sanh lại làm sao được? Có thể nào trở vào lòng mẹ và sanh lần thứ hai sao? <sup>5</sup> Ðức Chúa Jêsus đáp rằng: <u>Quả thật, quả thật, ta nói cùng ngươi, nếu một người chẳng nhờ nước và Thánh Linh mà sanh, thì không được vào nước Ðức Chúa Trời. <sup>6</sup> Hễ chi sanh bởi xác thịt là xác thịt; hễ chi sanh bởi Thánh Linh là thần.</u> (John 3:3-6)
+> <sup>3</sup> Ðức Chúa Jêsus cất tiếng đáp rằng: <u>Quả thật, quả thật, ta nói cùng ngươi, nếu một người chẳng sanh lại, thì không thể thấy được nước Ðức Chúa Trời.</u> <sup>4</sup> Ni-cô-đem thưa rằng: Người đã già thì sanh lại làm sao được? Có thể nào trở vào lòng mẹ và sanh lần thứ hai sao? <sup>5</sup> Ðức Chúa Jêsus đáp rằng: <u>Quả thật, quả thật, ta nói cùng ngươi, nếu một người chẳng nhờ nước và Thánh Linh mà sanh, thì không được vào nước Ðức Chúa Trời. <sup>6</sup> Hễ chi sanh bởi xác thịt là xác thịt; hễ chi sanh bởi Thánh Linh là thần.</u> (John 3:3-6)
 
 ### Thế Còn Những Người Được Cứu Trước Khi Nhận Phép Báp-têm?
 
@@ -36,7 +36,7 @@ Có nhiều người ngoại được nhận Thánh Linh và được nhìn nh�
 
 ### Phép Báp-têm Bày Tỏ Danh Tính Mới Của Chúng Ta
 
-Điều gì xảy ra cho tấm vải trắng dầm trong thuốc nhuộm tím? Nó được rút lên khỏi thuốc nhuộm với một danh tính mới: Vải Tím! Tầm vải trắng cũ không còn nữa.
+Điều gì xảy ra cho tấm vải trắng dầm trong thuốc nhuộm tím? Nó được rút lên khỏi thuốc nhuộm với một danh tính mới: Vải Tím! Tấm vải trắng cũ không còn nữa.
 
 > <u>Vậy, nếu ai ở trong Ðấng Christ, thì nấy là người dựng nên mới; những sự cũ đã qua đi, nầy mọi sự đều trở nên mới.</u> (2 Corinthians 5:17)
 <br /><br />
@@ -48,7 +48,7 @@ Chúng ta được báp-têm vào trong một thân thể. Không còn phân bi�
 
 ### Thế Còn Đoạn Kinh Thánh Nói Chúng Ta Được Cứu Bởi Nước?
 
-Có một đoạn trong Phi-e-rơ thứ nhất về báp-têm băng nước. Nhưng đoạn này nói rằng báp-têm bằng nước chỉ là để rửa sạch lương tâm khỏi mặc cảm tội lỗi. Nó cho chúng ta cơ hội đánh dấu một thời điểm mà chúng ta nhận một danh tính mới và rồi an nghỉ trong sự cứu rỗi -không còn nghi vấn nữa. Đó là một biến cố để biểu tượng cho một phép báp-têm thật đem đến sự cứu rỗi. Đựoc báp-têm bằng Thánh Linh chính là báp-têm thật!
+Có một đoạn trong Phi-e-rơ thứ nhất về báp-têm bằng nước. Nhưng đoạn này nói rằng báp-têm bằng nước chỉ là để rửa sạch lương tâm khỏi mặc cảm tội lỗi. Nó cho chúng ta cơ hội đánh dấu một thời điểm mà chúng ta nhận một danh tính mới và rồi an nghỉ trong sự cứu rỗi -không còn nghi vấn nữa. Đó là một biến cố để biểu tượng cho một phép báp-têm thật đem đến sự cứu rỗi. Được báp-têm bằng Thánh Linh chính là báp-têm thật!
 
 > <u><sup>18</sup> Vả, Ðấng Christ cũng vì tội lỗi chịu chết một lần, là Ðấng công bình thay cho kẻ không công bình, để dẫn chúng ta đến cùng Ðức Chúa Trời</u>; về phần xác thịt thì Ngài đã chịu chết, nhưng về phần linh hồn thì được sống. <sup>19</sup> Ấy bởi đồng một linh hồn đó, Ngài đi giảng cho các linh hồn bị tù, <sup>20</sup> tức là kẻ bội nghịch thuở trước, về thời kỳ Nô-ê, khi Ðức Chúa Trời nhịn nhục chờ đợi, chiếc tàu đóng nên, trong đó có ít người được cứu bởi nước, là chỉ có tám người. <sup>21</sup> Phép báp-tem bây giờ bèn là ảnh tượng của sự ấy để cứu anh em, <u>phép ấy chẳng phải sự làm sạch ô uế của thân thể, nhưng một sự liên lạc lương tâm tốt với Ðức Chúa Trời, bởi sự sống lại của Ðức Chúa Jêsus Christ</u>, <sup>22</sup> là Ðấng đã được lên trời, nay ngự bên hữu Ðức Chúa Trời, các thiên sứ, các vương hầu, các quyền thế thảy đều phục Ngài. (1 Peter 3:18-22)
 
