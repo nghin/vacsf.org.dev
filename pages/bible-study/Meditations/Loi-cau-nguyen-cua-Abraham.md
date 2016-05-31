@@ -57,7 +57,7 @@ Rồi Áp-ra-ham tiếp tục dò xét tấm lòng của Chúa về số ngườ
 
 Tại sao Áp-ra-ham đã không cầu nguyện đặc biệt cho Lót? Dĩ nhiên có nhiều điều quan trọng trong đời sống ông mà Lót là một phần trong đó (Genesis 13:8-9), nhưng có một điều gì đó quan trọng hơn nhiều: bản tính của Đức Chúa Trời. Sau khi mỗi câu hỏi được nêu lên với Chúa với con số người công bình từ từ giảm xuống, Áp-ra-ham cảm nhận ông biết Chúa nhiều hơn. Đối với ông, mọi điều khác, kể cả Lót và thành Sô-đôm, và ngay cả những nghi vấn trong lòng ông về lời hứa của Đức Chúa Trời về hậu tự của ông, và mọi điều khác trong trần thế, phai mờ khi so sánh với sự nhận biết về bản tính của Đức Chúa Trời.
 
-Áp-ra-ham mang một ấn tượng về Đức Chúa Trời của vũ trụ: "Không lẽ nào Chúa làm điều như vậy, diệt người công bình luôn với kẻ độc ác." Áp-ra-ham không cần phải thương lượng với Chúa thêm nữa. Vì bây giờ ông biết, dù chỉ có một người công bình trong thành, Chúa cũng không huỷ diệt chỉ vì một người đó. Đó là Đức Chúa Trời mà Áp-ra-ham muốn biết, và tin cậy. Ông tin Chúa vế số mệnh của Sô-đôm. Từ đây trở đi, dù có điều gì xảy ra chăng nữa ông biết mọi sự sẽ tốt đẹp. Ông hoàn toàn an tâm về Chúa.
+Áp-ra-ham mang một ấn tượng về Đức Chúa Trời của vũ trụ: "Không lẽ nào Chúa làm điều như vậy, diệt người công bình luôn với kẻ độc ác." Áp-ra-ham không cần phải thương lượng với Chúa thêm nữa. Vì bây giờ ông biết, dù chỉ có một người công bình trong thành, Chúa cũng không huỷ diệt chỉ vì một người đó. Đó là Đức Chúa Trời mà Áp-ra-ham muốn biết, và tin cậy. Ông tin Chúa về số mệnh của Sô-đôm. Từ đây trở đi, dù có điều gì xảy ra chăng nữa ông biết mọi sự sẽ tốt đẹp. Ông hoàn toàn an tâm về Chúa.
 
 ## Trước hết tìm kiếm nước Đức Chúa Trời.
 
@@ -89,7 +89,7 @@ Nếu Chúa lo tưởng đến từng con chim sẻ, và ngay cả chính từng
 
 Chúa không lơ là, và Ngài cũng chẳng mệt mỏi hay buồn ngủ. Trong trường hợp của Áp-ra-ham liên hệ đến thành Sô-đôm và cháu ông là Lót, đó là chính Đức Chúa Trời đến báo tin cho ông. Lời cầu nguyện của Áp-ra-ham chỉ là một sự đáp lại sự mong muốn của Đức Chúa Trời muốn chia xẻ với ông điều mà trí ông không hề nghĩ đến: <em>"Lẽ nào ta giấu Áp-ra-ham điều chi ta sẽ làm sao?"</em>
 
-Đó chính là Chúa đã đem đến cho Môi-se chương trình của Ngài để giải cứu dân tộc Ngài ra khỏi xứ Ai-cập trong khi ý tưởng về dân tộc mà ông đã từng biết đã qua phai mờ trong tâm khảm của ông. Môi-se bây giờ đã tám mươi và đã quá quen thuộc với đời sống tĩnh lặng trong sa mạc. Không, ông đã không cầu nguyện cho dân tộc ông vẫn còn nằm trong xiềng xích nô lệ, mà cũng chẳng có ai chung quanh để đồng chia xẻ với ông khải tượng giải cứu họ ra khỏi xứ Ai-cập.
+Đó chính là Chúa đã đem đến cho Môi-se chương trình của Ngài để giải cứu dân tộc Ngài ra khỏi xứ Ai-cập trong khi ý tưởng về dân tộc mà ông đã từng biết đã quá phai mờ trong tâm khảm của ông. Môi-se bây giờ đã tám mươi và đã quá quen thuộc với đời sống tĩnh lặng trong sa mạc. Không, ông đã không cầu nguyện cho dân tộc ông vẫn còn nằm trong xiềng xích nô lệ, mà cũng chẳng có ai chung quanh để đồng chia xẻ với ông khải tượng giải cứu họ ra khỏi xứ Ai-cập.
 
 Thế còn Giô-na, phải chăng chính ông yêu thương dân thành Ni-ni-ve, hay là chính Chúa? Phải chăng chính Giô-na đã có khải tượng về sự rao truyền tin lành cho họ hay là Chúa đã tỏ bày tấm lòng của Ngài với ông: "Vì Đức Chúa Trời yêu thương thế gian?"
 
