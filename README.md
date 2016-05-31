@@ -26,3 +26,4 @@ http://www.fileformat.info/info/unicode/char/search.htm?q=%E1%BA%A3&preview=enti
 Required for jekyll 3.0
 sudo gem install jekyll-paginate
 gem install jekyll-gist
+gem install jekyll-seo-tag
