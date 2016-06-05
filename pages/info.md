@@ -147,7 +147,7 @@ align="left">27</td>
 <tr>
 <td class="title-padding-even" style="background-color: #cccccc;"><strong>&nbsp;</strong></td>
 <td class="title-padding-even" style="background-color: #cccccc;" align="left">18-22</td>
-<td class="title-padding-even" style="background-color: #cccccc;">Chương Trình Kinh Thánh Mùa Hè (thứ Hai đến thứ Sáu) &mdash; Vacation Bible School (Mon-Fri)</td>
+<td class="title-padding-even" style="background-color: #cccccc;">Chương Trình Kinh Thánh Mùa Hè (thứ Hai đến thứ Sáu) &mdash; Vacation Bible School (Mon-Fri &mdash; 7-9:30 pm)</td>
 </tr>
 <tr>
 <td class="title-padding-even" style="background-color: #a9a9a9;"><strong>AUG</strong></td>
