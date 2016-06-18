@@ -3,7 +3,7 @@ layout: page-fullwidth
 subheadline: "Bạn có biết Chúa muốn mình làm gì cho Ngài?"
 title: "Hầu Việc Chúa"
 meta_description: "You want to serve God. Do you know exactly what to do? What does God say about serving Him? Hầu Việc Chúa."
-teaser: "Thousands of books have been written on the topic of serving God. Those who seem to be doing something in some ministries believe that they're serving God. Those who write books on serving God believe that they served God. What about the rest of those who are at the receiving ends of the various teachings, how do they know what to do?"
+teaser: "Rất nhiều bài vở đã được viết về chủ đề \"Hầu Việc Chúa.\" Những người đang làm một việc gì đó liên hệ đến đức tin thì nghĩ rằng họ đang hầu việc Chúa. Người viết sách về sự hầu việc Chúa nghĩ rằng họ đang làm công việc đó. Thế còn những người đang nhận lãnh những sự chỉ dạy đó, họ biết phải làm gì để hầu việc Ngài?"
 permalink: /hoc-kinh-thanh/suy-gam/hau-viec-chua/
 breadcrumbs: true
 header: no
