@@ -19,7 +19,7 @@ categories:
 
 <!-- ##################### FIRST PARAGRAPH ################### -->
 
-<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/hau-viec-chua/">(Bấm vào đây để đọc tiếng Việt&mdash;bài đang được chuyển dịch qua Việt ngữ ...)</a></em>
+<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/hau-viec-chua/">(Bấm vào đây để đọc tiếng Việt)</a></em>
 
 ## Introduction
 
@@ -27,12 +27,12 @@ categories:
 <p>
 <img alt src="{{ site.baseurl }}/images/serving-God.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 So how do you serve God? Just the word "serve" itself implies something to do with spiritual things, or something in service of others, something that demands selfless devotion, that requires a certain level of personal sacrifice.
+When we talk about someone serving God, we imply that their act of service is something self initiated. It is initiated by self because it requires some personal sacrifice. Most biographies are about people who engaged in these noble acts serving God at great personal cost. The implication also is these folks deserve some types of rewards for their sacrifices.
 </p>
 </div>
 
 <!-- ##################### end FIRST PARAGRAPH ################### -->
 
-When we talk about someone serving God, we imply that their act of service is something self initiated. It is initiated by self because it requires some personal sacrifice. Most biographies are about people who engaged in these noble acts serving God at great personal cost. The implication also is these folks deserve some types of rewards for their sacrifices.
 
 But is this concept of serving God consistence with what the Bible writes about the work done toward the Kingdom of God?
 
@@ -97,6 +97,12 @@ Therefore the only way for a service to count toward God's kingdom is it must co
 > <sup>8</sup>For by grace you are saved through faith, and this is not from yourselves, it is the gift of God;  <sup>9</sup>it is not from works, so that <u>no one can boast</u>.  <sup>10</sup>For we are his workmanship, having been created in Christ Jesus for <u>good works that God prepared beforehand</u> so we may do them (Ephesians 2:8-10).
 
 Romans 11:6 says that if any aspect of our relationship with God is by works then grace is no longer grace. Therefore boasting has no place in a grace-based relationship. No one works more than others because it is God who prepared the task for each person before hand. The "slave to righteousness (Romans 6:18)" concept though appears negative but it is the marvelous thing from the mind of God as part of the whole grace package. People are set free from the nagging question of whether they have done all they could to serve God. They rest in the all sufficiency of the Cross of Christ and trust that God already has a plan for each one to serve Him. In this sense, there is no need for "Serving God" as a topic for any book or sermon, except for one like this article which attempts to show that such topic is not needed at all.
+
+External motivation, through liturature of exhortation, urging the reader or listener concerning serving God, may cause someone to leave their current station in life thinking that it is not consider an act of service to God. Furthermore if God has already prepared a work in advance for someone, will He not reveal to them so they have to try to figure out His mind like superstitious people? The way God revealed His plan to Moses, Jonah, and Paul is the same way He will also reveal it to us. The work of God is the task that someone is currently engaged in, their position in society, in their family, in a body of Christ. There is no need for anyone to tell them otherwise. If there is an encouragement or exhortation, it is for those who may be facing challenges in whatever task they're currently undertaking.
+
+> He who did not spare his own Son, but gave him up for us all--how will he not also, along with him, graciously give us <u>all things</u>? (Romans 8:32)
+
+All things. Including serving God.
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
