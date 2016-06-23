@@ -12,6 +12,7 @@ header: no
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 
 <ul class="side-nav">
+      <li><a href="{{ site.baseurl }}/bible-topics/meditations/remain-in-sin/">Remaining In Sin</a><p style="font-weight: normal;">How to fulfill Paul's exhortation to escape sin</li>
       <li><a href="{{ site.baseurl }}/bible-topics/meditations/loving-god/">Loving God</a><p style="font-weight: normal;">What do people really mean when they say they love God?</li>
       <li><a href="{{ site.baseurl }}/bible-topics/meditations/serving-god/">Serving God</a><p style="font-weight: normal;">What does the Bible say about serving God?</li>
       <li><a href="{{ site.baseurl }}/bible-topics/meditations/abraham-prayer/">Abraham's Prayer</a><p style="font-weight: normal;">Seek first the kingdom of God and His righteousness (Matthew<span style="color: rgba(0,0,0,0);">_</span>6:33)</li>

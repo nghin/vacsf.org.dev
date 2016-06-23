@@ -8,7 +8,7 @@ permalink: /bible-topics/meditations/remain-in-sin/
 breadcrumbs: true
 header: no
 image:
-    thumb: "/thumbs/placeholder.jpg"
+    thumb: "/thumbs/remain-in-sin.jpg"
 categories:
     - bible-study
 ---
@@ -25,7 +25,7 @@ categories:
 
 <div>
 <p>
-<img alt src="{{ site.baseurl }}/images/placeholder.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/remain-in-sin.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 This article is a twin sibbling of the "<a href="{{ site.url }}/bible-topics/meditations/put-to-death-the-deeds-of-the-body/">Mortify the deeds of the flesh</a>" article, it sets up the proper foundation for understanding the concept of sin presented here. Of all the key concepts that Martin Luther demanded that readers of Scriptures should grasp, "sin" is perhaps the most important.
 </p>
 </div>
