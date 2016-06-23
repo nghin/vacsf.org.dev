@@ -8,7 +8,7 @@ permalink: /bible-topics/meditations/loving-god/
 breadcrumbs: true
 header: no
 image:
-    thumb: "/thumbs/placeholder.jpg"
+    thumb: "/thumbs/loving-God.jpg"
 categories:
     - bible-study
 ---
@@ -25,7 +25,7 @@ categories:
 
 <div>
 <p>
-<img alt src="{{ site.baseurl }}/images/placeholder.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/loving-God.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 The love command that Jesus uttered in Luke 10:27 has become a golden rule for virtually all variations of Bible based religions.  All other teachings from the Bible take a back seat to yield to this venerable command especially that it came from the lips of the Savior. 
 </p>
 </div>
@@ -80,9 +80,7 @@ It's God who loves the world, and not the other way around.
 
 ## Conclusion
 
-Man inherently cannot love God. They think they can but in fact they love themselves. In saying they love God they elevate themselves to a higher level than they really are. They <strong>φιλέω</strong>, or philéō, God but mistakenly think that they can <strong>φιλέω</strong>, or philéō, Him.
-
-The word <strong>φιλέω</strong>, or philéō, is used 147 times in 109 verses in the Bible, including the love commandment,  while the word <strong>φιλέω</strong>, or philéō, is used 25 times in 21 verses.
+Man inherently cannot love God. They think they can but in fact they love themselves. In saying they love God they elevate themselves to a higher level than they really are. They <strong>φιλέω</strong>, or philéō, God but mistakenly think that they can <strong>ἀγαπάω</strong>, or agapáō, Him. To fulfill the love commandment is to agapáō God, which is humanly impossible.
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
@@ -95,5 +93,5 @@ The word <strong>φιλέω</strong>, or philéō, is used 147 times in 109 ver
 
 <div class="small-12" style="padding: 0px; border-bottom: none;">
     {% include next-previous-post-in-category %}
-Let</div>
+</div>
 
