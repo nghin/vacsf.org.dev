@@ -8,7 +8,7 @@ The best way to deploy Jekyll powered website on github.
                          urlimg: 'http://0.0.0.0:4000/images/'
 2. Development build:
    just build: jekyll build --config _config.yml,_config_dev.yml
-   build and serve: jekyll serve --host 127.0.0.1 --incremental --config _config.yml,_config_dev.yml &
+   build and serve: jekyll serve --host 127.0.0.1 --drafts --incremental --config _config.yml,_config_dev.yml &
    or on nitrous:
    just build: jekyll build --config _config.yml,_config_nitrous.yml
    or build and serve: jekyll serve --host 0.0.0.0 --incremental --config _config.yml,_config_nitrous.yml &
@@ -19,6 +19,14 @@ The best way to deploy Jekyll powered website on github.
    or on nitrous:
    rsync -avzh /home/nitrous/code/vacsf.org.dev/_site/* /home/nitrous/code/vacsf.org/
 5. Push vacsf.org to github with .nojekyll
+6. Jekyll-Rocket-Vagrant
+   (Windows: install VirtualBox)
+   a. Install Vagrant
+   b. Clone this repository to your local machine. (Either with the GitHub app or via git clone https://github.com/trek10inc/jekyll-rocket )
+   c. %> vagrant up
+   d. %> vagrant ssh
+   e. %> jekyll serve --watch --force_polling -H 0.0.0.0  --drafts --incremental --config _config.yml,_config_dev.yml &
+   f. build command is similar to Development build above.
 
 Great resource for getting unicode index of special Vietnamese characters
 http://www.fileformat.info/info/unicode/char/search.htm?q=%E1%BA%A3&preview=entity
