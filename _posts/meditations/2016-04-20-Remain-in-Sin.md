@@ -59,7 +59,7 @@ It's a perpetual cycle of sin and relief. They could see no other way to relate 
 
 Because the law is "completely unable" to make the believers perfect, sin is everpresent between them and God; as a matter of fact, the sacrifices instead of fully erasing sin, they serve as "reminders" of it. It's obvious in Paul's writing that the ultimate goal of the believers is to have "no further consciousness of sin." But nothing has enabled them to achieve this thus far. As long as there is the consciousness of sin in their minds, they cannot draw near to God.
 
-Modern Christians mistakenly use 1 John 1:9 as means to eradicate sins, as if their confessions can be used to replace the Old Covenant sacrifices to be repeated over and over again. The confession in 1 John 1:8-10 is a confession of faith, of their sinful condition and acknowledging Christ as Savior; it has nothing to do with sin and guilt offering under the Old Covenant.
+Modern Christians mistakenly use 1 John 1:9 as means to eradicate sins, as if their confessions can be used to replace the Old Covenant sacrifices to be repeated over and over again. But even those sacrifices could neither get rid of their sins nor their guilt; the only thing that can accomplish such thing is the blood of Christ. The confession in 1 John 1:8-10 is a confession of faith, of their sinful condition and acknowledging Christ as Savior; it has nothing to do with sin and guilt offering under the Old Covenant.
 
 Therefore under the Old Covenant system of sacrifices, or modern versions of penances, man "remain in sin" because the "consciousness of sin" remain in their minds and hearts.
 
