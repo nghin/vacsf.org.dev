@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-subheadline: "The deeds of the body&mdash;what are they in the applicable context?"
-title: "Mortify the Deeds of the Flesh&mdash;<cite>Romans 8:13</cite>"
+subheadline: "Flesh"
+title: "Mortify the Deeds of the Flesh"
 meta_description: "Mortify the deeds of the flesh. Does this mean never sinning anymore? Why try to put to death what is already dead and buried with Christ (Romans 6:4)? Làm chết các việc của chi thể. Nghĩa là không còn phạm tội nữa? Tại sao còn cố làm cho chết nếu đã đồng chết và chôn cùng Đấng Christ?"
 teaser: "At first glance, almost without being taught by anyone, most come to the conclusion that to put to death the deeds of the body means to literally pin down and conquer all weaknesses of the flesh. But does the context surrounding this verse warrant such interpretation? The Bible is replete with examples of folks using their flesh not as instruments for sin, but as means to draw near to God, which is the real focus of Paul's writing. I hope that this article helps those who struggle with the traditional view of the deeds of the flesh find relief in the contextual view proposed in this article, and walk with lighter steps toward the day they meet God with full confidence."
 permalink: /bible-topics/meditations/put-to-death-the-deeds-of-the-body/

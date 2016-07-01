@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Prayer of faith"
+subheadline: "Prayer"
 title: "Abraham's Prayer"
 meta_description: "How to pray and how not to pray. The prayer of of a true prayer warrior"
 teaser: "And when you pray, do not keep on babbling like pagans, for they think they will be heard because of their many words (<cite>Matthew 6:7</cite>). Do not be quick with your mouth, do not be hasty in your heart to utter anything before God. God is in heaven and you are on earth, so let your words be few (<cite>Ecclesiastes 5:2</cite>). Then the LORD answered Job out of the whirlwind and said, \"Who is this that darkens counsel by words without knowledge?\" (<cite>Job 38:1-2</cite>)"

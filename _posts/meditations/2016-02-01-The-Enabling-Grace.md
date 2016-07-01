@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-subheadline: "Why are you afraid?"
-title: "Enabling Grace&mdash;A rock climbing illustration"
+subheadline: "Fear"
+title: "Enabling Grace"
 meta_description: "Grace gives you a license to sin, or enables you to serve God? Ân điển khiến chúng ta tự do phạm tội, hay ban quyền phép để chúng ta làm việc lành?"
 teaser: "An amazing real life illustration of how God's grace enables us to do what we couldn't due to crippling fears. No Christians are exempted from such fears as we attempt to cross the gap between heaven and earth, a much greater challenge than the illustration this article attempts to show. What we learn from the rock climbing event as told in this story may be life transforming."
 permalink: /bible-topics/meditations/the-enabling-grace/

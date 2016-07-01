@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Is your view of sin like the rest of the world?"
+subheadline: "Sin"
 title: "Remaining in Sin"
 meta_description: "Remain in sin. Continue in sin. Be transformed by the renewing of your mind."
 teaser: "<em>\"<sup>1</sup>What shall we say then? Are we to remain in sin so that grace may increase? <sup>2</sup>Absolutely not! How can we who died to sin still live in it? (Romans<span style=\"color: rgba(0,0,0,0);\">_</span>6:1&mdash;NET)\"</em>. Martin Luther asserted that: <span style=\"color: #666666;\"> \"To begin with, we have to become familiar with the vocabulary of the letter and know what St. Paul means by the words law, sin, grace, faith, justice, flesh, spirit, etc. Otherwise there is no use in reading it. ... You must not understand the word law here in human fashion, i.e., a regulation about what sort of works must be done or must not be done.\"</span> The word \"sin\" in the context of Romans has been almost universally misinterpreted."

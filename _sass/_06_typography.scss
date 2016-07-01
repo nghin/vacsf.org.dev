@@ -91,7 +91,7 @@ h1 {
 }
 h2 {
     font-size: $font-size-h2;
-    margin: 1.0em 0 0 0;
+    /* margin: 1.0em 0 0 0; */
 }
     .blog-index h2 {
         margin-top: 0;
@@ -281,7 +281,7 @@ mark {
 
 .subheadline {
     font-size: rem-calc(16);
-    margin: 0;
+    margin: 2.0em 0 0 0;
     text-transform: uppercase;
 }
 .teaser {

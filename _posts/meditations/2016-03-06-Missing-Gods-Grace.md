@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Who misses the grace of God?"
+subheadline: "Grace"
 title: "Missing God's Grace"
 meta_description: "Missing God's Grace. Falling From Grace. Trật Phần Ân Điển. Is your Christianity like walking a tightrope? Do you have peace with God?"
 teaser: "Have you always lived the Christian life like walking a tightrope? One misstep and down you go. Though you might be blessed with a faith to believe that Jesus will not let you fall forever into your death, it is the constant fear of falling that makes for a very lethargic and powerless journey into eternity. Knowing the real cause of the falling from God's grace will give you Jesus' promised peace that passes understanding."

@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-subheadline: "Can man really love God?"
-title: "Loving God"
+subheadline: "Love"
+title: "Can Man Love God?"
 meta_description: "Can fallen man really love God? Does God accept his love?"
 teaser: "Consider these two verses: <em>\"Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind\" (Luke<span style=\"color: rgba(0,0,0,0);\">_</span>10:27)</em>, and <em>\"This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins (1 John<span style=\"color: rgba(0,0,0,0)\">_</span>4:10).\"</em> How do you reconcile these two instances of love? One that commands you to love God, and the other that says no, it's not your love?"
 permalink: /bible-topics/meditations/loving-god/
@@ -19,7 +19,7 @@ categories:
 
 <!-- ##################### PLACEHOLDER ################### -->
 
-<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/yeu-Chua/">(Bấm vào đây để đọc tiếng Việt&mdash;bài đang được chuyển dịch qua Việt ngữ ...)</a></em>
+<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/yeu-Chua/">(Bấm vào đây để đọc tiếng Việt)</a></em>
 
 ## The Love Command
 

@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Do you know what God wants you to do?"
+subheadline: "Work"
 title: "Serving God"
 meta_description: "You want to serve God. Do you know exactly what to do? What does God say about serving Him?"
 teaser: "Thousands of books have been written on the topic of serving God. Those who seem to be doing something in some ministries believe that they're serving God. Those who write books on serving God believe that they served God. What about the rest of those who are at the receiving ends of the various teachings, how do they know what to do?"

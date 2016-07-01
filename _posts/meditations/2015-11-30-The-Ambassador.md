@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-subheadline: "What gospel are you proclaiming?"
-title: "Nghi's Parable of the Ambassador"
+subheadline: "Gospel"
+title: "The Ambassador"
 meta_description: "Parable of the Ambassador. Message of reconciliation. Ngụ Ngôn Quan Khâm Sai. Sứ điệp giảng hoà."
 teaser: "A warning to Christ's Ambassadors: Don't change your Lord's message of reconciliation. The ambassador in this story, like many in this present day, did just that: he changed the message. In doing so, he turned the gospel into religion."
 permalink: /bible-topics/meditations/ambassador/

@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-subheadline: "Can man really love God?"
-title: "Loving God"
+subheadline: "Sự Yêu Thương"
+title: "Yêu Chúa?"
 meta_description: "Can fallen man really love God? Does God accept his love?"
-teaser: "Consider these two verses: <em>\"Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind\" (Luke<span style=\"color: rgba(0,0,0,0);\">_</span>10:27)</em>, and <em>\"This is love: not that we loved God, but that he loved us and sent his Son as an atoning sacrifice for our sins (1 John<span style=\"color: rgba(0,0,0,0)\">_</span>4:10).\"</em> How do you reconcile these two instances of love? One that commands you to love God, and the other that says no, it's not your love?"
-permalink: /bible-topics/meditations/loving-god/
+teaser: "Chúng ta hãy suy gẫm về hai câu Kinh Thánh sau: <em>\"Ngươi phải hết lòng, hết linh hồn, hết sức, hết trí mà kính mến Chúa là Ðức Chúa Trời ngươi (Luke<span style=\"color: rgba(0,0,0,0);\">_</span>10:27)\"</em>, và <em>\"Nầy sự yêu thương ở tại đây: ấy chẳng phải chúng ta đã yêu Ðức Chúa Trời, nhưng Ngài đã yêu chúng ta, và sai Con Ngài làm của lễ chuộc tội chúng ta. (1 John<span style=\"color: rgba(0,0,0,0)\">_</span>4:10).\"</em> Làm sao chúng ta có thể hoà giải được hai chân lý này về sự yêu thương? Một mệnh lệnh chúng ta phải yêu Chúa cách hết lòng, còn một định nghĩa khác nói rằng tình yêu không phải là của loài người cho Chúa, nhưng là của Chúa yêu loài người."
+permalink: /hoc-kinh-thanh/suy-gam/yeu-Chua/
 breadcrumbs: true
 header: no
 image:
@@ -19,27 +19,29 @@ categories:
 
 <!-- ##################### PLACEHOLDER ################### -->
 
-<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/yeu-Chua/">(Bấm vào đây để đọc tiếng Việt&mdash;bài đang được chuyển dịch qua Việt ngữ ...)</a></em>
-
-## The Love Command
+## Mệnh Lệnh Yêu Thương
 
 <div>
 <p>
 <img alt src="{{ site.baseurl }}/images/loving-God.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-The love command that Jesus uttered in Luke 10:27 has become a golden rule for virtually all variations of Bible based religions.  All other teachings from the Bible take a back seat to yield to this venerable command especially that it came from the lips of the Savior. 
+Mệnh lệnh yêu thương mà Chúa Giê-su đã phán trong Luke 10:27 đã trở nên một khuôn vàng thước ngọc cho hầu hết các giáo phái đặt nền tảng trên Thánh Kinh. Tất cả các sự dạy dỗ khác trong Kinh Thánh đều phải lùi lại để nhường chỗ cho mệnh lệnh cao cả này nhất là khi nó đến từ miệng của Đấng Cứu Thế. 
 </p>
 </div>
 <!--##################### PLACEHOLDER ###################-->
 
-> <sup>25</sup>On one occasion an expert in the law stood up to test Jesus. “Teacher,” he asked, “what must I do to inherit eternal life?” <sup>26</sup><span style="color: #d30015;">“What is written in the Law?</span>” he replied. “<span style="color: #d30015;">How do you read it?</span>” <sup>27</sup>He answered, “ ‘Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind’; and, ‘Love your neighbor as yourself.’ ” <sup>28</sup>“<span style="color: #d30015;">You have answered correctly</span>,” Jesus replied. “<span style="color: #d30015;">Do this and you will live</span>” (Luke 10:25-28).
+> <sup>25</sup>Bấy giờ, một thầy dạy luật đứng dậy hỏi đặng thử Ðức Chúa Jêsus rằng: Thưa thầy, tôi phải làm gì để được hưởng sự sống đời đời?  <sup>26</sup>Ngài phán rằng: Trong luật pháp có chép điều gì? Ngươi đọc gì trong đó?  <sup>27</sup>Thưa rằng: Ngươi phải hết lòng, hết linh hồn, hết sức, hết trí mà kính mến Chúa là Ðức Chúa Trời ngươi; và yêu người lân cận như mình.  <sup>28</sup>Ðức Chúa Jêsus phán rằng: Ngươi đáp phải lắm; hãy làm điều đó, thì được sống (Luke 10:25-28).
 
-Jesus reminded his listeners of this command as it was recorded in Deuteronomy 6:5. Now He used it, He used the answer of the expert of the law, or perhaps what the man heard from Jesus in Matthew 22:37 to form his answer, to summarize the Ten Commandments which became even more powerful and encompassing than the original version as Moses received from mount Sinai. It penetrates deep into the heart and reveals sins no other commands can.
+Chúa Giê-su nhắc nhở người nghe về mệnh lệnh này đã được ghi trong sách Phục Truyền Luật Lệ Ký 6:5. Bây giờ Ngài dùng nó, Ngài dùng chính câu trả lời của một sành sõi luật pháp Môi-se, hay có lẽ đây là lời mà chính người đó đã nghe Chúa phán trong Matthew 22:37, để tóm lại ý nghĩa của Mười Điều Răn, mà còn làm cho ý nghĩa của nó mạnh mẽ hơn và gói ghém trọn vẹn hơn bản văn nguyên thuỷ khi Môi-se nhận từ trên đỉnh núi Si-nai. Lời đó đâm thấu vào lòng người và phơi bày tội lỗi hơn bất cứ mệnh lệnh nào khác.
 
-## Chance for success
+## Làm trọn được điều răn?
 
-Let's go back to the Ten Commandments to reflect on how mankind has measured up to this Old Covenant's golden standard. The Ten Commandments are just a more concrete version of the law that was written in the conscience of our first parents in the Garden of Eden. Mankind with or without the Ten Commandments had failed to keep even a single point of the law, and this is not to even mention what is written in James 2:10: <em>"For the one who obeys the whole law but fails in one point has become guilty of all of it."</em> Is there a living being that has never failed in at least one point of the law?
+Chúng ta hãy trở về với Mười Điều Răn để suy gẫm xem nhân loại đã đạt được đến mức nào để thoả mãn được tiêu chuẩn tối cao này dưới Cựu Ước. Mười Điều Răn chỉ là sự thể hiện rõ ràng hơn của luật pháp đã được ghi vào tâm khảm của tổ tiên chúng ta trong vườn Địa Đàng. Loài người dù có Mười Điều Răn hay có những luật từ lương tâm (Romans 2:14), chẳng một ai giữ được dù chỉ một điều thôi, đó là chưa nói tới đoạn Kinh Thánh trong James 2:10 viết như sau: <em>"Vì người nào giữ trọn luật pháp, mà phạm một điều răn, thì cũng đáng tội như đã phạm hết thảy."</em> Có ai trong nhân loại không hề phạm tội dù chỉ một điều?
 
-What about the new golden rule, the love command? Jesus is supposed to make it harder for the religious people of His time to prove their own righteousness through the golden rule. He wants His hearer to stop raising their fists saying <em>"We are willing to do all the words that the LORD has said (Exodus 24:3)"</em> but instead be on their knees acknowledge their failure and place their trust in Him. If they could not keep the Ten Commandments, what chance do they have of keeping the love command?
+Thế còn khuôn vàng thước ngọc, mệnh lệnh yêu thương? Mục đích của Chúa Giê-su là Ngài dùng tiêu chuẩn tối cao đó để những người thời đó nhận thức rằng họ không thể nào đạt được sự công bình qua những việc đạo đức của mình. Ngài muốn họ đừng giơ tay tuyên bố điều mà họ không làm được:
+
+<p class="blockquote">Môi-se bèn đến thuật lại cho dân sự mọi lời phán của Ðức Giê-hô-va và các luật lệ, thì chúng đồng thinh đáp rằng: <strong>Chúng tôi sẽ làm mọi lời Ðức Giê-hô-va phán dạy</strong> (Exodus 24:1).</p>
+
+Nhưng thay vì thế họ nên quỳ gối nhìn nhận sự bất lực của mình mà đặt niềm tin nơi Ngài. Nếu họ không giữ được Mười Điều Răn, thì làm sao họ giữ được mệnh lệnh yêu thương?
 
 Jesus used the love command to point out sin in the hearts of those who did not physically commit adultery, or murder anyone. The old commandment says: <em>"Thou shalt not commit murder,"</em> the new commandment says: <em>"You must not commit murder in your heart."</em> The old commandment says: <em>"Thou shalt not commit adultery,"</em> the new commandment says "You must not commit adultery in your heart." 
 

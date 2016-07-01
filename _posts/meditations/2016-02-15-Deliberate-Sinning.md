@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Real meaning in Old and New Covenant Contexts"
+subheadline: "Sin"
 title: "Deliberate Sinning"
 meta_description: "Deliberate sinning. Is it about sins in general, or a specific sin that that has eternal implication? Cố ý phạm tội. Tội lỗi nói chung, hay một tội duy nhất quan hệ đến sự sống đời đời?"
 teaser: "What sin is written about in Hebrews 10:26-27? The common transgressions that good Christians should avoid at all cost? Or something specific that warrants such stern warning? This writing proposes that the deliberate sinning addressed in this passage is not about sins in general, but about a specific sin that calls for God's judgement, and a fury of fire, the sin that makes one an enemy of God."

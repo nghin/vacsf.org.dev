@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Do people need God's grace so they may freely sin?"
+subheadline: "Grace"
 title: "Abusing God's Grace"
 meta_description: "Abusing God's grace. Is it grace, or is it the law, that arouses sin (Romans 7:5)? Lạm dụng ân điển. Tội lỗi bị kích thích bởi ân điển, hay bởi luật pháp?"
 teaser: "Grace can be just a word to fill a part of a theology, or it can be something so precious that most are blind to it until when the eyes are opened to its wondrous life transforming power. A Christian whose root grows deep in the grace and knowledge of Christ (2 Peter 3:18) is still, and always has been, a rare breed, and yet here we're talking about \"not abusing God's grace.\""
