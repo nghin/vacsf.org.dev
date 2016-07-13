@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-subheadline: "Is your view of sin like the rest of the world?"
-title: "Remaining in Sin"
+subheadline: "Xác Thịt"
+title: "Ở Trong Tội Lỗi"
 meta_description: "Remain in sin. Continue in sin. Be transformed by the renewing of your mind."
-teaser: "<em>\"<sup>1</sup>What shall we say then? Are we to remain in sin so that grace may increase? <sup>2</sup>Absolutely not! How can we who died to sin still live in it? (Romans<span style=\"color: rgba(0,0,0,0);\">_</span>6:1&mdash;NET)\"</em>. Martin Luther asserted that: <span style=\"color: #666666;\"> \"To begin with, we have to become familiar with the vocabulary of the letter and know what St. Paul means by the words law, sin, grace, faith, justice, flesh, spirit, etc. Otherwise there is no use in reading it. ... You must not understand the word law here in human fashion, i.e., a regulation about what sort of works must be done or must not be done.\"</span> The word \"sin\" in the context of Romans has been almost universally misinterpreted."
-permalink: /bible-topics/meditations/remain-in-sin/
+teaser: "<em><sup>1</sup>Vậy chúng ta sẽ nói làm sao? Chúng ta phải cứ ở trong tội lỗi, hầu cho ân điển được dư dật chăng?  <sup>2</sup>Chẳng hề như vậy! Chúng ta đã chết về tội lỗi, lẽ nào còn sống trong tội lỗi nữa? (Romans<span style=\"color: rgba(0,0,0,0);\">_</span>6:1&mdash;NET)\"</em>. Martin Luther khẳng định rằng: <span style=\"color: #666666;\"> \"Trước hết, chúng ta phải quen thuộc với cách dùng chữ trong thơ Rô-ma và biết ý của Phao-lô khi ông dùng những chữ như luật pháp, tội lỗi, ân điển, đức tin, công bình, xác thịt, thần linh, v.v. Vì nếu không thì có đọc cũng vô ích. ... Bạn không thể hiểu chữ luật pháp theo cách thường của loài người, chẳng hạn như lề luật về những điều cần làm hoặc những điều bị ngăn cấm.\"</span> Chữ \"tội lỗi\" trong bối cảnh của Rô-ma là chữ bị hiểu lầm nhiều nhất."
+permalink: /hoc-kinh-thanh/suy-gam/o-trong-toi-loi/
 breadcrumbs: true
 header: no
 image:
@@ -16,81 +16,76 @@ categories:
 
 <div class="row">
 <div class="medium-8 columns" markdown="1">
-
 <!-- ##################### PLACEHOLDER ################### -->
 
-<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/o-trong-toi-loi/">(Bấm vào đây để đọc tiếng Việt&mdash;bài đang được chuyển dịch qua Việt ngữ ...)</a></em>
-
-## Introduction
+## Lời mở đầu
 
 <div>
 <p>
 <img alt src="{{ site.baseurl }}/images/remain-in-sin.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-This article is a twin sibbling of the "<a href="{{ site.url }}/bible-topics/meditations/put-to-death-the-deeds-of-the-body/">Mortify the deeds of the flesh</a>" article, it sets up the proper foundation for understanding the concept of sin presented here. Of all the key concepts that Martin Luther demanded that readers of Scriptures should grasp, "sin" is perhaps the most important.
+Bài viết này đi song song với bài <em><strong>"<a href="{{ site.url }}/hoc-kinh-thanh/suy-gam/lam-cho-chet-cac-viec-cua-chi-the/">Làm Chết Các Việc Của Chi Thể</a>"</strong></em>, bài đó thiết lập một nền tảng đúng đắn để chúng ta có thể hiểu ý nghĩa thực sự của tội lỗi sẽ được trình bày trong bài viết này. Trong các điểm chính mà Martin Luther đòi hỏi người đọc Kinh Thánh phải nắm vững, có lẽ "tội lỗi" là điều quan trọng nhất.
 </p>
 </div>
 <!-- ##################### PLACEHOLDER ###################-->
 
-> <sup>1</sup>What shall we say then? Are we to remain in sin so that grace may increase? <sup>2</sup>Absolutely not! How can we who died to sin still live in it? (Romans 6:1&mdash;NET)
+> <sup>1</sup>Vậy chúng ta sẽ nói làm sao? Chúng ta phải cứ ở trong tội lỗi, hầu cho ân điển được dư dật chăng?  <sup>2</sup>Chẳng hề như vậy! Chúng ta đã chết về tội lỗi, lẽ nào còn sống trong tội lỗi nữa? (Romans 6:1&mdash;NET)
 
-One day a friend shared something his young son asked upon reading a passage from a study bible. The study bible has a note that explains the meaning of "repentance." It explains that repentance is a turning a way from sin and turn back to God. He saw a quiet concern in his son's face. The boy knew the impossibility of achieving this repentance in all its full meaning. He's more honest than many adults who might have read it without giving it much further thought for many reasons; maybe it's nothing to worry about, maybe they think they have successfully turned away from sins, they sense no reason for distress even if this definition of repentance might turn out to be true.
+Có một hôm một người bạn nói với tôi về câu hỏi của đứa con trai tuổi độ mười hai, cậu bé nêu lên một thắc mắc sau khi đọc một đoạn Kinh Thánh trong một bản dịch Kinh Thánh có phụ chú. Bản Kinh Thánh này có một phần ghi chú về ý nghĩa của chữ "ăn năn." Đoạn phụ chú đó giải thích rằng "ăn năn nghĩa là từ bỏ tội lỗi và trở về với Chúa." Người bạn tôi thấy một nỗi lo lắng trên khuôn mặt con mình. Cậu bé biết nếu đó thực sự là ý nghĩa của sự ăn năn thì quả thực là một điều không thể thực hiện được. Nó còn thành thật hơn nhiều kẻ trưởng thành có thể đã được đọc hoặc nghe định nghĩa đó mà chẳng suy nghĩ gì sâu xa hơn vì nhiều lý do khác nhau; có lẽ họ thấy chẳng có gì phải lo, có lẽ họ nghĩ họ đã thành công trong sự lìa bỏ tội lỗi, họ không cảm thấy sự cấp bách dù trong lòng họ có tin vào định nghĩa của sự ăn năn đó.
 
-The boy's understanding of "sin" is representative of virtually every practicing Christian including one hundred percent of Bible commentaries I've surveyed on this topic. These commentators, who very likely reflect the Church's understanding of the concept of sin, assume that the "sin" in Romans 6:1 is limited to a pattern of sin of certain degree of severity such as those spelled out in the Ten Commandments or others; therefore in this sense they can freely count themselves as not among the guilty.
+Ý niệm của cậu bé về "tội lỗi" là điển hình của hầu hết các tín hữu và toàn bộ một trăm phần trăm những sách giải kinh mà tôi đã tham khảo khi viết bài này. Những nhà giải kinh này, có lẽ họ phản ảnh sự hiểu biết của hội thánh về tội lỗi, giả định rằng "tội lỗi" trong Romans 6:1 chỉ giới hạn trong những sự vi phạm ở một mức độ trầm trọng nào đó như những điều được ghi xuống trong Mười Điều Răn hoặc các luật khác; vì thế trong khía cạnh đó họ có thể tự do kể như mình không thuộc về hàng ngũ của những kẻ ở trong tội lỗi.
 
-These men, the commentators, missed the very basic point of theology that even if they never commit any transgressions known to man, they are "in sin."
+Những người này, những nhà giải kinh, đã không hiểu điểm rất căn bản của thần học rằng cho dù họ có không bao giờ phạm đến một tội mà người ta thường phạm trong thế gian, họ cũng vẫn bị "ở trong tội lỗi."
 
-## Mankind is always in sin
+## Nhân loại luôn ở trong tội lỗi
 
-> Yet death reigned from Adam until Moses even over those who did not sin in the same way that Adam (who is a type of the coming one) transgressed (Romans 5:14).
+> Nhưng từ A-đam cho đến Môi-se, sự chết đã cai trị cả đến những kẻ chẳng phạm tội giống như tội của A-đam, là người làm hình bóng của Ðấng phải đến. (Romans 5:14).
 
-In Romans 5:14, the apostle Paul established the sinful condition of man: they cannot escape being in sin no matter how hard they try. The sinful condition is not from the sins that they committed or must repent from, it's the body of death that is inseparable from them until Christ comes again.
+Trong Romans 5:14, sứ đồ Phao-lô đã thiết lập nền tảng của tình trạng tội lỗi của nhân loại: họ không thể nào thoát khỏi sự ở trong tội lỗi dù có cố gắng thế nào đi chăng nữa. Tình trạng tội lỗi không đến từ những điều họ làm hoặc hoặc phải lìa bỏ, nhưng đến từ "thân thể hay chết" (Romans 7:24) dính chặt vào con người của họ cho đến ngày của Đấng Christ.
 
-If it is in fact man is perpetually in sin and it is impossible for them to get out of of such state, then why did Paul write in Romans 6:1 that they should not remain in sin? Do you see the contradiction? On the one hand they cannot escape sin, and on the other hand they must not remain in sin?
+Nếu quả thực nhân loại luôn ở trong tội lỗi và họ không thể nào thoát ra khỏi tình trạng đó, thì tại sao Phao-lô lại viết trong Romans 6:1 rằng họ đừng ở trong tội lỗi nữa? Các bạn có thấy sự mâu thuẫn đó không? Một đàng họ không thể nào thoát khỏi tội lỗi, còn một đàng khác họ không được ở trong tội lỗi nữa?
 
-Yes, such contradiction does indeed exist if one holds the view of sin like the boy as told earlier, or those of the well known Bible commentators. But for so long, Christians accept and live with such contradiction. The boy in our story knew better. He could feel there was something wrong in the study bible note that appeared to be as authoritative as the word of God itself. He saw the contradiction and it put him in distress. As a boy, he saw sin for what it was, no embellishment, no denial, no attempt to cover up with pious platitude. But most of us Christians are like the Pharisees, we see the specks in others but not the logs in our own eyes.
+Thực vậy, sự mâu thuẫn đó thực sự hiện hữu nếu chúng ta mang sự hiểu biết về tội lỗi và ăn năn giống như cậu bé ở trên, hoặc như những nhà giải kinh nổi tiếng nhiều người biết đến. Nhưng đã từ lâu lắm rồi, người tín hữu chấp nhận và sống trong sự mâu thuẫn đó. Cậu bé trong câu chuyện ở trên biết rõ điều này hơn rất nhiều người già giặn hơn cậu. Cậu cảm thấy có một vấn đề trong phần phụ chú của cuốn Thánh Kinh đó, phần phụ chú mà người ta thường nghĩ chính là lời Chúa. Cậu bé thấy sự mâu thuẫn khiến cậu lo lắng. Là một đứa trẻ, cậu nhìn tội lỗi theo chính bản chất của nó, không thêu dệt, không tự dối mình, không phủ lấp với bề ngoài có vẻ thiêng liêng. Nhưng đa số chúng ta giống như người Pha-ri-si, chỉ thấy dằm trong mắt người khác mà không thấy đà trong mắt mình.
 
-## The sacrifices
+## Những của tế lễ
 
-Mankind, the religious people, have always related to God through sin. To deal with sins they offered sacrifices, perform religious rituals, acts of penances, or whatever their religious beliefs dictate. The Jews of the Old Covenant had their own prescribed way to get relief for sins. The Christians of the New Covenant also came up with ways to deal with sins.
+Nhân loại, những người có tín ngưỡng, luôn luôn liên hệ với Thượng Đế qua tội lỗi. Để giải quyết vấn đề tội lỗi, họ dâng những của lễ, cử hành những nghi lễ, bày tỏ những hành động ăn năn, hoặc bất cứ điều gì tín lý của họ đòi hỏi. Người Do Thái dưới Cựu Ước có phương cách riêng của họ để làm vơi đi gánh nặng của tội lỗi. Người tín hữu trong Tân Ước cũng dùng những phương cách riêng để giải quyết vấn đề tội lỗi.
 
-It's a perpetual cycle of sin and relief. They could see no other way to relate to God. It is sin that stands between them and their gods. Yet they could not get rid of it completely. Paul wrote these verses in Hebrews that beautifully express the dilemma of those who relate to God through their sin:
+Đó là một chuỗi liên tục của tội lỗi và sự an nghỉ tạm. Họ không thấy một cách nào khác để liên hệ với Chúa. Tội lỗi luôn luôn ngăn cách họ với các thần của họ. Nhưng họ không thể nào loại bỏ được sự ngăn cách đó cách trọn vẹn. Phao-lô viết những lời này trong sách Hê-bơ-rơ bày tỏ một cách sâu sắc nan đề của những kẻ liên hệ với Chúa qua tội lỗi:
 
-<p class="blockquote"> <sup>1</sup>For the law possesses a shadow of the good things to come but not the reality itself, and is therefore <strong><span style="color: #d30015;">completely unable</span></strong>, by the same sacrifices offered continually, year after year, to <strong><span style="color: #d30015;">perfect those who come to worship</span></strong>.  <sup>2</sup>For otherwise would they not have ceased to be offered, since the worshipers would have been purified once for all and so have <strong><span style="color: #d30015;">no further consciousness of sin</span></strong>?  <sup>3</sup>But in those sacrifices there is a reminder of sins year after year (Hebrews 10:1-3).</p>
+<p class="blockquote"><sup>1</sup>Vả, luật pháp chỉ là bóng của sự tốt lành ngày sau, không có hình thật của các vật, nên <strong><span style="color: #d30015;">không bao giờ</span></strong> cậy tế lễ mỗi năm hằng dâng như vậy, mà <strong><span style="color: #d30015;">khiến kẻ đến gần Ðức Chúa Trời trở nên trọn lành được</span></strong>.  <sup>2</sup>Nếu được, thì những kẻ thờ phượng đã một lần được sạch rồi, <strong><span style="color: #d30015;">lương tâm họ không còn biết tội nữa</span></strong>, nhơn đó, há chẳng thôi dâng tế lễ hay sao?  <sup>3</sup>Trái lại, những tế lễ đó chẳng qua là mỗi năm nhắc cho nhớ lại tội lỗi. (Hebrews 10:1-3).</p>
 
-Because the law is "completely unable" to make the believers perfect, sin is everpresent between them and God; as a matter of fact, the sacrifices instead of fully erasing sin, they serve as "reminders" of it. It's obvious in Paul's writing that the ultimate goal of the believers is to have "no further consciousness of sin." But nothing has enabled them to achieve this thus far. As long as there is the consciousness of sin in their minds, they cannot draw near to God.
+Vì luật pháp "không bao giờ," hoặc "hoàn toàn không thể" nếu dựa trên một trong những bản dịch Anh ngữ, làm cho người tín hữu được trọn vẹn, do đó tội lỗi luôn luôn là khoảng ngăn cách giữa họ và Đức Chúa Trời; thực ra các của lễ, thay vì hoàn toàn tẩy sạch tội lỗi họ, lại "nhắc nhở" họ về vấn đề tội lỗi càng hơn. Chúng ta thấy rõ trong bài viết của Phao-lô rằng mục đích tối hậu của người tín hữu là "lương tâm họ không còn biết tội lỗi nữa." Nhưng cho đến nay không điều gì có thể giúp họ đạt được mục đích đó. Khi nào tâm trí họ còn mang mặc cảm tội lỗi thì họ không thể nào đến gần Đức Chúa Trời.
 
-Modern Christians mistakenly use 1 John 1:9 as means to eradicate sins, as if their confessions can be used to replace the Old Covenant sacrifices to be repeated over and over again. The confession in 1 John 1:8-10 is a confession of faith, of their sinful condition and acknowledging Christ as Savior; it has nothing to do with sin and guilt offering under the Old Covenant.
+Những tín hữu thời nay thường lầm lẫn khi dùng 1 John 1:9 như phương tiện để tẩy sạch tội lỗi, như thể lời xưng nhận của họ có hiệu quả thay thể những của lễ của Cựu Ước được lập đi lập lại thường xuyên. Nhưng đoạn Kinh Thánh trên cho biết những của lễ đó không tẩy sạch lương tâm họ khỏi tội lỗi; ngoại trừ  điều duy nhất có thể đạt được mục đích là dòng huyết của Đấng Christ. Sự xưng nhận trong 1 John 1:9 là sự xưng nhận đức tin, về tình trạng tội lỗi của họ và nhìn nhận Chúa Giê-su là Cứu Chúa; chúng chẳng cùng một mục đích với những của lễ chuộc tội của thời Cựu Ước.
 
-Therefore under the Old Covenant system of sacrifices, or modern versions of penances, man "remain in sin" because the "consciousness of sin" remain in their minds and hearts.
+Do đó dưới hệ thống dâng của lễ của thời Cựu Ước, cũng như cung cách ăn năn sám hối của thời nay, nhân loại vẫn "ở trong tội lỗi" vì "mặc cảm tội lỗi" vẫn còn trong tâm trí họ.
 
-## The cross
+## Thập tự giá
 
-Subsequently in Romans 6:6-7, Paul explained how can be set free from sin's dominion.
+Tiếp theo đó trong Romans 6:6-7, Phao-lô giải thích bằng cách nào chúng ta có thể được thoát khỏi sự thống trị của tội lỗi.
 
-> <sup>6</sup>We know that our <u>old man was crucified with him</u> so that the body of sin would <u>no longer dominate us</u>, so that we would <u>no longer be enslaved to sin</u>. <sup>7</sup>(For someone who has died has been freed from sin) (Romans 6:6-7).
+> <sup>6</sup>vì biết rõ rằng người cũ của chúng ta đã bị đóng đinh trên thập tự giá với Ngài, hầu cho thân thể của tội lỗi bị tiêu diệt đi, và chúng ta không phục dưới tội lỗi nữa.  <sup>7</sup>Vì ai đã chết thì được thoát khỏi tội lỗi (Romans 6:6-7).
 
-According to these verses, how were we freed from sin? Through "turning away from sin" like the note on repentance of the study bible? Through the natural view of sin in the eyes of a child? And the various Bible commentators? None of the above. Romans 6:6 says that it is through our old man being crucified with Christ.
+Theo những câu Kinh Thánh này, làm sao chúng ta thoát được sự thống trị của tội lỗi? Bằng cách "ngoảnh xa khỏi tội lỗi" như định nghĩa về ăn năn trong quyển Kinh Thánh Study Bible? Qua cái nhìn dựa trên xác thịt như của trẻ thơ? Và muôn vàn nhãn quan của các nhà giải kinh? Tất cả đều sai. Vì Romans 6:6 cho biết rằng chúng ta thoát được là nhờ con người cũ đã chịu đóng đinh cùng Đấng Christ.
 
-A slave cannot overcome his master, but must be set free. It's the same way with our slavery to sin, we cannot wiggle ourselves out of it, no matter how much determination or will power or obedience as the obedience of a slave is to the master.
+Một kẻ nô lệ không thể nào thắng hơn được chủ, nhưng phải được giải thoát. Sự nô lệ dưới tội lỗi cũng vậy, chúng ta không thể nào dẫy dụa mong tìm đường thoát, dù có kiên cường hay ý chí đến đâu chăng nữa.
 
-Therefore though we did not physically get crucified, we inherit Christ's crucifixion on the virtue of our faith in Him. It's the same way we receive this gift of being set free from sin, or our no longer "remain in sin", all thanks to what Christ had accomplished on the cross.
+Do đó mặc dầu chúng ta không thực sự chịu đóng đinh trong thể xác, chúng ta được thừa hưởng sự đóng đinh của Chúa Giê-su chỉ nhờ đặt đức tin nơi Ngài. Đó cũng là cách chúng ta nhận được sự giải thoát khỏi tội lỗi, hoặc là sự "không còn ở trong tội lỗi," tất cả chỉ vì điều Chúa Giê-su đã hoàn tất trên thập tự giá.
 
-As long as we still live in our body of flesh, we'll never be completely free from sin, but our position in Christ has changed, our relationship with God has changed. It has changed from being condemned sinners to being children of God. Though the capacity for sinning is still there with us, we no longer relate to God through sin, but through the cross.
+Ngày nào chúng ta còn sống trong thân xác này, chúng ta sẽ không bao giờ hoàn toàn thoát khỏi tội lỗi, nhưng địa vị chúng ta trong Đấng Christ đã thay đổi, mối liên hệ chúng ta với Đức Chúa Trời đã thay đổi. Thay đổi từ địa vị tội nhân bị nguyền rủa sang sự được làm con cái Đức Chúa Trời. Mặc dầu khả năng phạm tội vẫn còn đó, chúng ta không còn liên hệ với Đức Chúa Trời qua tội lỗi nữa, nhưng qua thập tự giá.
 
-God gives us permission to lead a guilt-free life in our relationship with Him, in our salvation and eternal life.
+Chúa cho chúng ta được phép sống một đời sống không mang mặc cảm tội lỗi nữa trong mối liên hệ với Ngài, trong sự cứu rỗi và sự sống đời đời.
 
 <p class="blockquote">
-There is therefore now no condemnation for those who are in Christ Jesus.  2 For the law of the life-giving Spirit in Christ Jesus has set you free from the law of sin and death (Romans 8:1-2).<br />
+<sup>1</sup>Therefore, there is now no condemnation for those who are in Christ Jesus, <sup>2</sup>because through Christ Jesus the law of the Spirit who gives life has set you[a] free from the law of sin and death (Romans 8:1-2).<br />
 As far as the east is from the west, so far has he removed our transgressions from us (Psalms 103:12).
 </p>
 
-## Conclusion
+## Kết luận
 
-"How shall we who died to sin still live in it?" asked the apostle Paul. Now do we know what he really meant? He didn't mean at all to ask why you still fall into this sin or that sin, but he meant why are you still walking scared like sin still has the power to put you under condemnation, why you still try to pay the ransom though it has already been paid for? Just like soldiers who came back from a long drawn out war still live with terrible memories. They came back to the free world but in their minds they're still captives. So it is with many Christians who still came back to the place where they offered sacrifices for their sins.
+Đó là lý do sứ đồ Phao-lô viết những đoạn Kinh Thánh kỳ diệu này trong sách Rô-ma. Để nhắc nhở họ rằng họ đã được thoát khỏi tội lỗi, và không còn phải ở trong tâm trạng, hoặc trong nhãn quan, của kẻ tội nhân bị nguyền rủa nữa. Vậy chúng ta có hiểu ý của Phao-lô chưa? Ông không có ý chút nào để hỏi tại sao chúng ta vẫn còn phạm tội này tội kia, nhưng ông hỏi tại sao chúng ta vẫn còn bước đi trong sự sợ hãi như thể tội lỗi vẫn còn quyền lực đặt chúng ta dưới sự rủa xả, tại sao chúng ta vẫn còn tìm cách dâng của lễ chuộc tội khi mọi món nợ đã được trả? Cũng như những người chiến sĩ trở về sau một cuộc chiến tranh dài dằng dẵng mang theo những ký ức kinh hoàng. Họ trở về thế giới tự do nhưng sâu trong tâm khảm họ vẫn là kẻ sống trong tù ngục chiến tranh. Nhiều tín hữu cũng như thế, họ cứ quay trở về chỗ dâng những của tế lễ chuộc tội cho mình.
 
-This is why the apostle Paul wrote these great verses in Romans. To remind them that they had been set free from sin, and they don't have to remain in the mindset, or the outlook, of being condemned sinners anymore. Now do we know what he really meant? He didn't mean at all to ask why you still fall into this sin or that sin, but he meant why are you still walking scared like sin still has the power to put you under condemnation, why you still try to pay the ransom though it has already been paid for? Just like soldiers who came back from a long drawn out war still live with terrible memories. They came back to the free world but in their minds they're still captives. So it is with many Christians who still came back to the place where they offered sacrifices for their sins.
-
-You don't have to remain in sin. Christ has set you free.
+Bạn không còn phải ở trong tội lỗi nữa. Chúa đã cho bạn được tự do rồi.
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
@@ -103,5 +98,5 @@ You don't have to remain in sin. Christ has set you free.
 
 <div class="small-12" style="padding: 0px; border-bottom: none;">
     {% include next-previous-post-in-category %}
-Let</div>
+</div>
 

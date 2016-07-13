@@ -19,7 +19,7 @@ categories:
 
 <!-- ##################### PLACEHOLDER ################### -->
 
-<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/o-trong-toi-loi/">(Bấm vào đây để đọc tiếng Việt&mdash;bài đang được chuyển dịch qua Việt ngữ ...)</a></em>
+<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/o-trong-toi-loi/">(Bấm vào đây để đọc tiếng Việt)</a></em>
 
 ## Introduction
 
@@ -43,7 +43,7 @@ These men, the commentators, missed the very basic point of theology that even i
 
 > Yet death reigned from Adam until Moses even over those who did not sin in the same way that Adam (who is a type of the coming one) transgressed (Romans 5:14).
 
-In Romans 5:14, the apostle Paul established the sinful condition of man: they cannot escape being in sin no matter how hard they try. The sinful condition is not from the sins that they committed or must repent from, it's the body of death that is inseparable from them until Christ comes again.
+In Romans 5:14, the apostle Paul established the sinful condition of man: they cannot escape being in sin no matter how hard they try. The sinful condition is not from the sins that they committed or must repent from, it's the body of death (Romans 7:24) that is inseparable from them until Christ comes again.
 
 If it is in fact man is perpetually in sin and it is impossible for them to get out of of such state, then why did Paul write in Romans 6:1 that they should not remain in sin? Do you see the contradiction? On the one hand they cannot escape sin, and on the other hand they must not remain in sin?
 
@@ -65,13 +65,13 @@ Therefore under the Old Covenant system of sacrifices, or modern versions of pen
 
 ## The cross
 
-Subsequently in Romans 6:6-7, Paul explained how can be set free from sin's dominion.
+Subsequently in Romans 6:6-7, Paul explained how we can be set free from sin's dominion.
 
 > <sup>6</sup>We know that our <u>old man was crucified with him</u> so that the body of sin would <u>no longer dominate us</u>, so that we would <u>no longer be enslaved to sin</u>. <sup>7</sup>(For someone who has died has been freed from sin) (Romans 6:6-7).
 
 According to these verses, how were we freed from sin? Through "turning away from sin" like the note on repentance of the study bible? Through the natural view of sin in the eyes of a child? And the various Bible commentators? None of the above. Romans 6:6 says that it is through our old man being crucified with Christ.
 
-A slave cannot overcome his master, but must be set free. It's the same way with our slavery to sin, we cannot wiggle ourselves out of it, no matter how much determination or will power or obedience as the obedience of a slave is to the master.
+A slave cannot overcome his master, but must be set free. It's the same way with our slavery to sin, we cannot wiggle ourselves out of it, no matter how much determination or will power one may possess.
 
 Therefore though we did not physically get crucified, we inherit Christ's crucifixion on the virtue of our faith in Him. It's the same way we receive this gift of being set free from sin, or our no longer "remain in sin", all thanks to what Christ had accomplished on the cross.
 
@@ -85,8 +85,6 @@ As far as the east is from the west, so far has he removed our transgressions fr
 </p>
 
 ## Conclusion
-
-"How shall we who died to sin still live in it?" asked the apostle Paul. Now do we know what he really meant? He didn't mean at all to ask why you still fall into this sin or that sin, but he meant why are you still walking scared like sin still has the power to put you under condemnation, why you still try to pay the ransom though it has already been paid for? Just like soldiers who came back from a long drawn out war still live with terrible memories. They came back to the free world but in their minds they're still captives. So it is with many Christians who still came back to the place where they offered sacrifices for their sins.
 
 This is why the apostle Paul wrote these great verses in Romans. To remind them that they had been set free from sin, and they don't have to remain in the mindset, or the outlook, of being condemned sinners anymore. Now do we know what he really meant? He didn't mean at all to ask why you still fall into this sin or that sin, but he meant why are you still walking scared like sin still has the power to put you under condemnation, why you still try to pay the ransom though it has already been paid for? Just like soldiers who came back from a long drawn out war still live with terrible memories. They came back to the free world but in their minds they're still captives. So it is with many Christians who still came back to the place where they offered sacrifices for their sins.
 
@@ -103,5 +101,5 @@ You don't have to remain in sin. Christ has set you free.
 
 <div class="small-12" style="padding: 0px; border-bottom: none;">
     {% include next-previous-post-in-category %}
-Let</div>
+</div>
 
