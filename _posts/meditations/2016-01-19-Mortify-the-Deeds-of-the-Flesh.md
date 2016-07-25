@@ -164,7 +164,7 @@ One deed of the flesh that the Colossians must put to death is their reliance on
 <p class="blockquote"><sup>20</sup>If you have died with Christ to the elemental spirits of the world, why do you submit to them as though you lived in the world?  <sup>21</sup>"Do not handle! Do not taste! Do not touch!"  <sup>22</sup>These are all destined to perish with use, founded as they are on human commands and teachings.  <sup>23</sup>Even though they have the appearance of wisdom with their self-imposed worship and false humility achieved by an <u>unsparing treatment</u> of the body - a wisdom with no true value - they in reality result in <u>fleshly indulgence</u>. <cite>(Colossians 2:20-23)</cite>
 </p>
 
-The elemental spirits of the world has a lot to do with encouraging the deeds of the flesh as pseudo-spiritualism; looks and sounds so noble, embraced by all the venerable commentators I listed above, and major denominations with their well learned leaders of advanced theological degrees. How can these great men commit such egregious error in Bible interpretation? It is not about using the flesh for sinning, it's about using the flesh for supposedly noble spiritual purpose.
+The elemental spirits of the world has a lot to do with encouraging the deeds of the flesh as pseudo-spiritualism; looks and sounds so noble, embraced by all the venerable commentators I listed above, and by major denominations with their well learned leaders of advanced theological degrees. How can these great men commit such egregious error in Bible interpretation? It is not about using the flesh for sinning, it's about using the flesh for supposedly noble spiritual purpose.
 
 Note also that the Cambridge commentary quoted above expressed the virtue of "intense resistence and self denial" which in reality produced "fleshly indulgence" as we read in Colossians 2:23. These are deeds of the flesh cloaked in noble sounding pious platitude.
 
@@ -192,7 +192,7 @@ The old and inferior covenant was based entirely on the deeds, or works, of the 
 
 ### Nicodemus and the deeds of the flesh
 
-When Jesus declared this truth to Nicodemus: "*You must be born again (John 3:1-21)*," he could not help but thinking in flesh terms: should I be born again by going back into my mother's womb? Of course, this thought came only as a response to Jesus' puzzling statement, but Nicodemus was more familiar with other deeds of the flesh not dissimilar to those of the Colossians or the Galatians, or any Hebrews who were steeped in the Old Covenant.
+When Jesus declared this truth to Nicodemus: "*You must be born again (John 3:1-21)*," he, Nicodemus, could not help but thinking in flesh terms: should I be born again by going back into my mother's womb? Of course, this thought came only as a response to Jesus' puzzling statement, because Nicodemus was more familiar with other deeds of the flesh similar to those of the Colossians or the Galatians, or any Hebrews who were steeped in the Old Covenant.
 
 ### The vain glory of the lawkeepers
 
