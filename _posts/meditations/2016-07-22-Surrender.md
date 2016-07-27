@@ -2,13 +2,13 @@
 layout: page-fullwidth
 subheadline: "Surrender"
 title: "The Art of Surrender"
-meta_description: "The Art of Surrender. Galatians says that the flesh desires what is contrary to the Spirit, then how can you surrender to God?"
+meta_description: "The Art of Surrender. Letting go. But if the Bible says that the flesh desires what is contrary to the Spirit, then how can you surrender to God?"
 teaser: "How can you surrender to God if according to Galatians<font style=\"color: rgba(0,0,0,0);\">-</font>5:17 <em>\"The flesh desires what is contrary to the Spirit?\"</em> Even the apostle Paul cried out: <em>\"For I don&#146t understand what I am doing. For I do not do what I want--instead, I do what I hate (Romans 7:15).\"</em>"
-permalink: /bible-topics/meditations/template/
+permalink: /bible-topics/meditations/surrender/
 breadcrumbs: true
 header: no
 image:
-    thumb: "/thumbs/placeholder.jpg"
+    thumb: "/thumbs/surrender.jpg"
 categories:
     - bible-study
 ---
@@ -25,7 +25,7 @@ categories:
 
 <div>
 <p>
-<img alt src="{{ site.baseurl }}/images/placeholder.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/surrender.jpg" style="border: 1px solid #666666; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 A quick survey on the Internet with a search engine query: "The Art of Surrender" reveals an overwhelming amount of material on the subject from mostly non-Christian sources. This article uses the same search term in its meta description to see how well it will do in terms of search engine ranking. Which ones among myriad sources might provide the seekers with something that works? I was one such seeker as early as the teen years when adulthood was fast approaching with pensive thoughts of what the future might hold. For a while during this time that I tried yoga with the hope of finding some rest to my soul, the rest that required a degree of surrender.
 </p>
 </div>
