@@ -112,6 +112,12 @@ From the mouth of God, sin is unbelief in Jesus, therefore eternal life conseque
 
 That is the law of the Spirit of life. The law that is repeated ad nauseam in the New Testament. Which law you choose to live by determines your walk, whether by the flesh, or by the Spirit.
 
+## Learn from the "foolish" Galatians
+
+> <sup>1</sup>You foolish Galatians! Who has bewitched you? Before your very eyes Jesus Christ was clearly portrayed as crucified. <sup>2</sup>I would like to learn just one thing from you: Did you receive the Spirit by the works of the law, or by believing what you heard? <sup>3</sup>Are you so foolish? <u>After beginning by means of the Spirit, are you now trying to finish by means of the flesh</u>? <sup>4</sup>Have you experiencedb so much in vain—if it really was in vain? <sup>5</sup>So again I ask, does God give you his Spirit and work miracles among you by the works of the law, or by your believing what you heard? <sup>6</sup>So also Abraham “believed God, and it was credited to him as righteousness.” (Galatians 3:1-6)
+
+The Galatians, just the same as many of us Christians today, started their walk with God by means of the Spirit, which means they relied on nothing except believing in the Savior, now they tried to walk the rest of the way according to the flesh. Isn't it obvious here they were not using their flesh for sinful indulgences but for seemingly noble spiritual purposes? The walk according to the flesh is exactly the same thing as reliance on the works of the law, because the law ministers to nothing other than the flesh.
+
 ## The ultimate surrender
 
 The true surrender comes as a product of something infinitely more important which precedes it: it is the choosing to walk by the Spirit, by the law of the Spirit of life, and by accepting the liberation from the law of sin and death through Christ Jesus our Lord. The unhealthy focus on surrender creates a vicious cycle that turns the believers' minds and hearts toward self with disastrous consequences. Jesus wants us to fix our eyes on Him like the Hebrews must fix their eyes on the bronze snake in the desert (John 3:14). You can no more put Jesus in control than the one who walks by the flesh can serve the law of God. Choose instead to walk by the Spirit and you will know Jesus' promised rest which includes the elusive ability to surrender, or to put Jesus in control of your life. It will be added unto you without trying.
