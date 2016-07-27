@@ -124,6 +124,8 @@ The true surrender comes as a product of something infinitely more important whi
 
 > So I say, walk by the Spirit, and you will not gratify the desires of the flesh (Galatians 5:16)
 
+Paul didn't say: Be vigilant and resist all temptations and you will not gratify the desires of the flesh. He askes us to walk by the Spirit. When the Hebrews got bitten by snakes in the desert, Moses didn't provide training on how to prevent snake bites, but instead he hung a bronze snake by God's instruction so that those who look upon it would be saved. So it is with the art of surrender, with trying to put Jesus in control, with myriad things pertaining to godliness, walk by the Spirit by simply fixing your eyes on Jesus. All it takes is faith as little as a mustard seed.
+
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
 <div class="bible-index medium-4 columns">
