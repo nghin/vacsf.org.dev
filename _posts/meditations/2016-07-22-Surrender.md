@@ -80,7 +80,7 @@ Thou hast my ransom paid;<br />
 I yield to Thee.
 </p>
 
-The hymn's author claims that he can do what the apostle Paul said was impossible, because according to Paul the only part that can surrender is the spirit which already serves and obeys the law of God, but any attempt to tame the flesh which is a slave to sin would lead to frustration and ultimately a doubt of one's own salvation. Isn't this why so many in churches cannot give a positive answer to the question of the assurance of their salvation, and demonstrate a walk with God that is less than victorious?
+The hymn's author claims that he can do what the apostle Paul said was impossible. According to Paul the only part that can surrender is the spirit which already serves and obeys the law of God, therefore any attempt to tame the flesh which is a slave to sin would lead to frustration and ultimately a doubt of one's own salvation. Isn't this why so many in churches cannot give a positive answer to the question of the assurance of their salvation, and demonstrate a walk with God that is less than victorious?
 
 Of course we know the reason why. The noble call to surrender to God, to put Jesus in control of one's life, is pervasive in Christian liturature and communications to the point it takes precedence over the truth set forth in Romans 7:25 which virtually represents the entire book of Romans and all of Paul's epistles. This sets them up for constant failure because it is clear from verse 25 that *"So then, ... with my flesh I serve the law of sin."* Do you see the dilemma the Christian is in?
 
