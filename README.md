@@ -35,3 +35,7 @@ Required for jekyll 3.0
 sudo gem install jekyll-paginate
 gem install jekyll-gist
 gem install jekyll-seo-tag
+
+PubStorm:
+pubstorm projects (do this in PubStorm directory)
+pubstorm publish (do this in project directory, ie. vacsf.org)
