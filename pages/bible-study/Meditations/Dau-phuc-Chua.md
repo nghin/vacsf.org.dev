@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-subheadline: "Surrender"
-title: "The Art of Surrender"
+subheadline: "Xác thịt và Thánh Linh"
+title: "Đầu Phục Chúa"
 meta_description: "Surrender. Rest. Peace. Letting go. But if the Bible says that the flesh desires what is contrary to the Spirit, then how can you surrender to God?"
-teaser: "How can you surrender to God if according to Galatians<font style=\"color: rgba(0,0,0,0);\">-</font>5:17 <em>\"The flesh desires what is contrary to the Spirit?\"</em> Even the apostle Paul cried out: <em>\"For I don&#146t understand what I am doing. For I do not do what I want--instead, I do what I hate (Romans 7:15).\"</em>"
-permalink: /bible-topics/meditations/surrender/
+teaser: "Làm sao chúng ta có thể đầu phục Chúa nếu Galatians<font style=\"color: rgba(0,0,0,0);\">-</font>5:17 viết như sau: <em>\"Xác thịt ưa muốn những điều trái với Thánh Linh?\"</em> Và chính sứ đồ Phao-lô cũng thốt lên rằng: <em>\"Vì tôi không hiểu điều mình làm: tôi chẳng làm điều mình muốn, nhưng làm điều mình ghét (Romans 7:15).\"</em>"
+permalink: /hoc-kinh-thanh/suy-gam/dau-phuc-Chua/
 breadcrumbs: true
 header: no
 image:
@@ -18,8 +18,6 @@ categories:
 <div class="medium-8 columns" markdown="1">
 
 <!-- ##################### PLACEHOLDER ################### -->
-
-<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/dau-phuc-Chua/">(Bấm vào đây để đọc tiếng Việt&mdash;bài đang được chuyển dịch qua Việt ngữ ...)</a></em>
 
 ## The dilemma
 
@@ -57,7 +55,7 @@ While our flesh, our sinful nature, is a slave to the law of sin. Notice the use
 
 Paul reiterates the inability of the flesh to submit to God later in Romans 8 as follows:
 
->  <sup>5</sup>For those who live according to the flesh have their outlook shaped by the things of the flesh, but those who live according to the Spirit have their outlook shaped by the things of the Spirit.  <sup>6</sup>For the outlook of the flesh is death, but the outlook of the Spirit is life and peace,  <sup>7</sup>because the outlook of the flesh is hostile to God, for it <u>does not submit to the law of God, nor is it able to do so</u> (Romans 8:5-7&mdash;NET).
+>  <sup>5</sup>For those who live according to the flesh have their outlook shaped by*n<sup>5</sup>the things of the flesh, but those who live according to the Spirit have their outlook shaped by the things of the Spirit.  <sup>6</sup>For the outlook*n<sup>6</sup>of the flesh is death, but the outlook of the Spirit is life and peace,  <sup>7</sup>because the outlook of the flesh is hostile to God, for it <u>does not submit to the law of God, nor is it able to do so</u> (Romans 8:5-7&mdash;NET).
 
 Here we read that besides the fact that the flesh does not submit to the law of God, it's unable to do so even if it does desire it. There is a very thorough discussion of the "outlook of the flesh" in the article <a href="{{ site.url }}/bible-topics/meditations/put-to-death-the-deeds-of-the-body/"><em>"Mortify the Deeds of the Flesh"</em></a> which helps us see a more harmful aspect of the flesh not as instrument for sins, but as instrument for righteouness.
 
