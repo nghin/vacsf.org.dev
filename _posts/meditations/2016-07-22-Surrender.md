@@ -3,7 +3,7 @@ layout: page-fullwidth
 subheadline: "Surrender"
 title: "The Art of Surrender"
 meta_description: "Surrender. Rest. Peace. Letting go. But if the Bible says that the flesh desires what is contrary to the Spirit, then how can you surrender to God?"
-teaser: "How can you surrender to God if according to Galatians<font style=\"color: rgba(0,0,0,0);\">-</font>5:17 <em>\"The flesh desires what is contrary to the Spirit?\"</em> Even the apostle Paul cried out: <em>\"For I don&#146t understand what I am doing. For I do not do what I want--instead, I do what I hate (Romans 7:15).\"</em>"
+teaser: "How can you surrender to God if <em>\"The flesh desires what is contrary to the Spirit?\"</em> (Galatians 5:17) and: <em>\"...I don&#146t understand what I am doing. For I do not do what I want&mdash;instead, I do what I hate (Romans 7:15).\"</em>"
 permalink: /bible-topics/meditations/surrender/
 breadcrumbs: true
 header: no
@@ -31,7 +31,7 @@ All Christians experience to a varying degree great conflicts between their desi
 </div>
 <!-- ##################### PLACEHOLDER ###################-->
 
-Paul not only described these struggles in the two letters he wrote to the Galatians and the Romans, but he also prescribed us how we may find a solution. The goal of this article is to show that though it is indeed a very desirable and profitable thing to surrender to God, it is never intended to be a goal to be achieved, but instead it is realized by the believers as a byproduct, a fruit, of a much more important thing, a change in mindset, or outlook, in how we walk with God.
+Paul not only described these struggles in the two letters he wrote to the Galatians and the Romans, but he also prescribed us how we may find a solution. The goal of this article is to show that though it is indeed a very desirable and profitable thing to surrender to God, it is never intended to be a goal to be achieved, but instead it is realized by the believers as a byproduct, a fruit, of a much more important thing, a change in mindset, or outlook, in how we walk with God, from law-based obedience to grace-based empowerment.
 
 ## Paul to the Galatians
 
@@ -49,7 +49,7 @@ Paul wrote this as a statement of fact, without exception, which will be further
 
 Paul again describes the same thing he does in Galatians, but here he calls it a law, and a law is just what it is, it cannot fail, like the law of gravity, or other law that describes the universe. But here Paul goes further to explain why this is the case. The reason being we are made up of two parts: 1) the inner being, the spirit, or the mind, and 2) the flesh, and they are in constant struggle.
 
-Verse 25 appears to show us a resolution to the conflict, with presumably the flesh to be on the losing side when it wrote: *"Thanks be to God, who delivers me through Jesus Christ our Lord!"* But is this really the case? No, this is not the case at all, because if we continue to read the second part we'd find the opposite is true, that Paul confirmed the reality of the existence of our two parts side by side: the flesh and the spirit.
+Verse 25 appears to show us a resolution to the conflict, with presumably the flesh to be on the losing side when it wrote: *"Thanks be to God, who delivers me through Jesus Christ our Lord!"* But is this really the case? No, this is not the case at all, because if we continue to read the second part we'd find the opposite is true, that Paul confirmed the reality of the existence of our two parts side by side: the flesh and the spirit, when he wrote: *"So then, I myself in my mind am a slave to God’s law, but in my sinful nature a slave to the law of sin."*
 
 Our mind, or our spirit, the part that comes alive when we received Christ and the Holy Spirit as a seal of our redemption, loves and obey the law of God. This part does not have any trouble in such a way that it needs to surrender.
 
@@ -78,7 +78,7 @@ The hymn's author claims that he can do what the apostle Paul said was impossibl
 
 Isn't this the reason why so many in churches cannot give a positive answer to the question of the assurance of their salvation, resulting in a walk with God that is less than victorious?
 
-Of course we know the reason why. The noble call to surrender to God, to put Jesus in control of one's life, is pervasive in Christian liturature and communications to the point it takes precedence over the truth set forth in Romans 7:25 which is representative of virtually the entire book of Romans and all of Paul's epistles. This sets them up for constant failure because it is clear from verse 25 that *"So then, ... with my flesh I serve the law of sin."* There in lies the dilemma.
+Of course we know the reason why. The noble call to surrender to God, to put Jesus in control of one's life, is pervasive in Christian literature and communications to the point it takes precedence over the truth set forth in Romans 7:25 which is representative of virtually the entire book of Romans and all of Paul's epistles. This sets them up for constant failure because it is clear from verse 25 that *"So then, ... with my flesh I serve the law of sin."* There in lies the dilemma.
 
 ## Walk in the Spirit
 
