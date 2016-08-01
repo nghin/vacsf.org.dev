@@ -35,7 +35,7 @@ Paul not only described these struggles in the two letters he wrote to the Galat
 
 ## Paul to the Galatians
 
-Paul declared a statement of fact concerning the reality of the flesh in our lives:
+Paul declared a statement of the fact concerning the reality of the flesh in our lives:
 
 > For the flesh lusteth against the Spirit, and the Spirit against the flesh: and these are contrary the one to the other: so that <u>ye cannot do the things that ye would</u> (Galatians 5:17).
 
@@ -45,9 +45,9 @@ Paul wrote this as a statement of fact, without exception, which will be further
 
 ## Paul to the Romans
 
-> <sup>15</sup>I do not understand what I do. For what I want to do I do not do, but what I hate I do ... <sup>21</sup>So I find this law at work: Although I want to do good, evil is right there with me. <sup>22</sup>For in my inner being I delight in God’s law; <sup>23</sup>but I see another law at work in me, waging war against the law of my mind and making me a prisoner of the law of sin at work within me. <sup>24</sup>What a wretched man I am! Who will rescue me from this body that is subject to death? <sup>25</sup><u>Thanks be to God, who delivers me through Jesus Christ our Lord!</u> <br /><u>So then, I myself in my mind am a slave to God’s law, but in my sinful nature a slave to the law of sin</u> (Romans 7:15,21-25).
+> <sup>15</sup>I do not understand what I do. For what I want to do I do not do, but what I hate I do ... <sup>21</sup><u>So I find this law at work</u>: Although I want to do good, evil is right there with me. <sup>22</sup>For in my inner being I delight in God’s law; <sup>23</sup>but I see another law at work in me, waging war against the law of my mind and making me a prisoner of the law of sin at work within me. <sup>24</sup>What a wretched man I am! Who will rescue me from this body that is subject to death? <sup>25</sup><u>Thanks be to God, who delivers me through Jesus Christ our Lord!</u> <br /><u>So then, I myself in my mind am a slave to God’s law, but in my sinful nature a slave to the law of sin</u> (Romans 7:15,21-25).
 
-Paul again describes the same thing he does in Galatians, but here he calls it a law, and a law is just what it is, it cannot fail, like the law of gravity, or other law that describes the universe. But here Paul goes further to explain why this is the case. The reason being we are made up of two parts: 1) the inner being, or the spirit, or the mind, and 2) the flesh, and they are in constant struggle.
+Paul again describes the same thing he does in Galatians, but here he calls it a law, and a law is just what it is, it cannot fail, like the law of gravity, or other law that describes the universe. But here Paul goes further to explain why this is the case. The reason being we are made up of two parts: 1) the inner being, the spirit, or the mind, and 2) the flesh, and they are in constant struggle.
 
 Verse 25 appears to show us a resolution to the conflict, with presumably the flesh to be on the losing side when it wrote: *"Thanks be to God, who delivers me through Jesus Christ our Lord!"* But is this really the case? No, this is not the case at all, because if we continue to read the second part we'd find the opposite is true, that Paul confirmed the reality of the existence of our two parts side by side: the flesh and the spirit.
 
@@ -59,7 +59,7 @@ Paul reiterates the inability of the flesh to submit to God later in Romans 8 as
 
 >  <sup>5</sup>For those who live according to the flesh have their outlook shaped by the things of the flesh, but those who live according to the Spirit have their outlook shaped by the things of the Spirit.  <sup>6</sup>For the outlook of the flesh is death, but the outlook of the Spirit is life and peace,  <sup>7</sup>because the outlook of the flesh is hostile to God, for it <u>does not submit to the law of God, nor is it able to do so</u> (Romans 8:5-7&mdash;NET).
 
-Here we read that besides the fact that the flesh does not submit to the law of God, it's unable to do so even if it does desire it. There is a very thorough discussion of the "outlook of the flesh" in the article <a href="{{ site.url }}/bible-topics/meditations/put-to-death-the-deeds-of-the-body/"><em>"Mortify the Deeds of the Flesh"</em></a> which helps us see a more harmful aspect of the flesh not as instrument for sins, but as instrument for righteouness.
+Here we read that besides the fact that the flesh does not submit to the law of God, it's unable to do so even if it does desire it. There is a very thorough discussion of the "outlook of the flesh" in the article <a href="{{ site.url }}/bible-topics/meditations/put-to-death-the-deeds-of-the-body/"><em>"<u>Mortify the Deeds of the Flesh</u>"</em></a> which helps us see a more harmful aspect of the flesh not as instrument for sins, but as instrument for righteouness.
 
 ## To put Jesus in control?
 
@@ -74,9 +74,11 @@ Thou hast my ransom paid;<br />
 I yield to Thee.
 </p>
 
-The hymn's author claims that he can do what the apostle Paul said was impossible. According to Paul the only part that can surrender is the spirit which already serves and obeys the law of God, therefore any attempt to tame the flesh which is a slave to sin would lead to frustration and ultimately a doubt of one's own salvation. Isn't this why so many in churches cannot give a positive answer to the question of the assurance of their salvation, and demonstrate a walk with God that is less than victorious?
+The hymn's author claims that he can do what the apostle Paul said was impossible. According to Paul, there's no need for the spirit, which already serves and obeys the law of God, to surrender, therefore all calls to surrender, or to put Jesus in control, must involve the flesh. However we learned from the Galatians and Romans passages that the flesh will not, and cannot, submit to the law of God, therefore any attempt to tame the flesh which is a slave to sin would lead to frustration and ultimately a doubt of one's own salvation.
 
-Of course we know the reason why. The noble call to surrender to God, to put Jesus in control of one's life, is pervasive in Christian liturature and communications to the point it takes precedence over the truth set forth in Romans 7:25 which is representative of virtually the entire book of Romans and all of Paul's epistles. This sets them up for constant failure because it is clear from verse 25 that *"So then, ... with my flesh I serve the law of sin."* Do you see the dilemma the Christian is in?
+Isn't this the reason why so many in churches cannot give a positive answer to the question of the assurance of their salvation, resulting in a walk with God that is less than victorious?
+
+Of course we know the reason why. The noble call to surrender to God, to put Jesus in control of one's life, is pervasive in Christian liturature and communications to the point it takes precedence over the truth set forth in Romans 7:25 which is representative of virtually the entire book of Romans and all of Paul's epistles. This sets them up for constant failure because it is clear from verse 25 that *"So then, ... with my flesh I serve the law of sin."* There in lies the dilemma.
 
 ## Walk in the Spirit
 
@@ -92,9 +94,9 @@ Here we must ask ourselves what is the role of the Holy Spirit in our relationsh
 
 <p class="blockquote"><sup>8</sup>And when he comes, he will prove the world wrong concerning sin and righteousness and judgment – <sup>9</sup><u>concerning sin, because they do not believe in me</u>; (John 16:8-9)</p>
 
-Jesus made it simple for us to understand the true meaning of sin, of what separates us from God. So in explaining the role of the Holy Spirit, Jesus shows us that sin is the act of not believing in Him, because if someone believes in Him, it is as if he had no sin.
+Jesus made it simple for us to understand the true meaning of sin, of what separates us from God. So in explaining the role of the Holy Spirit, Jesus shows us that sin is the act of not believing in Him; when someone places their trust in Christ, sin is no longer an issue.
 
-Therefore to surrender, or to better say it as to find peace with God, is to walk according to God's new law: the law of the spirit of life, which says he who believes on the Son will have eternal life (John 3:36). That is how we walk by the spirit. That is how we surrender; not by struggling against flesh and blood (Ephesians 6:12), but by faith, by trusting in Christ's finished work on the cross.
+When one walks according to God's new law: the law of the spirit of life, which says he who believes on the Son will have eternal life (John 3:36), one experiences a rest from the never ending treadmill of performance where a sense of surrender comes without effort, like a child resting in its mother's arms. That is how we walk by the spirit. That is how we surrender; not by struggling against flesh and blood (Ephesians 6:12), but by faith, by trusting in Christ's finished work on the cross.
 
 To surrender from a flesh-based perspective is a never-ending process which will not get one to the place of true yielding to God, but to walk by the Spirit is a once for all act of placing our trust in Christ: It's Finished!
 
