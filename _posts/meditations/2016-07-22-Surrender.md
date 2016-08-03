@@ -26,12 +26,13 @@ categories:
 <div>
 <p>
 <img alt src="{{ site.baseurl }}/images/surrender.jpg" style="border: 1px solid #666666; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
-All Christians experience to a varying degree great conflicts between their desire to do the will of God and their inability to do so. The theme Surrender is well visited by various authors through the ages from both Christian and secular sources. To the Christians the ability to surrender means many things; from being able to say no to temptations, to being obedient to what one might deem as the will of God to their lives, to being able to overcome many character flaws that have plagued them since the time their need for a deliverance pushed them to place their faith in God.
+All Christians experience to a varying degree great conflicts between their desire to do the will of God and their inability to do so. The theme Surrender is well visited by various authors through the ages from both Christian and secular sources. To the Christians the ability to surrender means many things; from being able to say no to temptations, to being obedient to what one might deem as the will of God in their lives, to being able to overcome many character flaws that had plagued them since the time their need for a deliverance nudged them toward the place of trust in God.
+
 </p>
 </div>
 <!-- ##################### PLACEHOLDER ###################-->
 
-Paul not only described these struggles in the two letters he wrote to the Galatians and the Romans, but he also prescribed us how we may find a solution. The goal of this article is to show that though it is indeed a very desirable and profitable thing to surrender to God, it is never intended to be a goal to be achieved, but instead it is realized by the believers as a byproduct, a fruit, of a much more important thing, a change in mindset, or outlook, in how we walk with God, from law-based obedience to grace-based empowerment.
+Paul not only described these struggles in the two letters he wrote to the Galatians and the Romans, he also showed us how we may find a solution. The goal of this article is to show that though it is indeed a very desirable and profitable thing to surrender to God, it is never intended to be a goal to be achieved, but instead it is realized by the believers as a byproduct, a fruit, of a much more important thing, a change in mindset, or outlook, in how we walk with God, from law-based obedience to grace-based empowerment.
 
 ## Paul to the Galatians
 
@@ -47,9 +48,9 @@ Paul wrote this as a statement of fact, without exception, which will be further
 
 > <sup>15</sup>I do not understand what I do. For what I want to do I do not do, but what I hate I do ... <sup>21</sup><u>So I find this law at work</u>: Although I want to do good, evil is right there with me. <sup>22</sup>For in my inner being I delight in God’s law; <sup>23</sup>but I see another law at work in me, waging war against the law of my mind and making me a prisoner of the law of sin at work within me. <sup>24</sup>What a wretched man I am! Who will rescue me from this body that is subject to death? <sup>25</sup><u>Thanks be to God, who delivers me through Jesus Christ our Lord!</u> <br /><u>So then, I myself in my mind am a slave to God’s law, but in my sinful nature a slave to the law of sin</u> (Romans 7:15,21-25).
 
-Paul again describes the same thing he does in Galatians, but here he calls it a law, and a law is just what it is, it cannot fail, like the law of gravity, or other law that describes the universe. But here Paul goes further to explain why this is the case. The reason being we are made up of two parts: 1) the inner being, the spirit, or the mind, and 2) the flesh, and they are in constant struggle.
+Paul again describes the same thing he does in Galatians, but here he calls it a law, and a law is just what it is, it cannot fail, like the law of gravity, or other laws that describes the universe. But here Paul goes further to explain why this is the case. The reason being we are made up of two parts: 1) the inner being, the spirit, or the mind, and 2) the flesh, and they are in constant struggle.
 
-Verse 25 appears to show us a resolution to the conflict, with presumably the flesh to be on the losing side when it wrote: *"Thanks be to God, who delivers me through Jesus Christ our Lord!"* But is this really the case? No, this is not the case at all, because if we continue to read the second part we'd find the opposite is true, that Paul confirmed the reality of the existence of our two parts side by side: the flesh and the spirit, when he wrote: *"So then, I myself in my mind am a slave to God’s law, but in my sinful nature a slave to the law of sin."*
+Verse 25 appears to show us a resolution to the conflict, with presumably the flesh to be on the losing side when it wrote: *"Thanks be to God, who delivers me through Jesus Christ our Lord!"* But is this really the case? No, this is not the case at all, because if we continue to read to the second part we'd find the opposite to be true, where Paul confirmed the reality of the existence of our two parts side by side: the flesh and the spirit, when he wrote: *"So then, I myself in my mind am a slave to God’s law, but in my sinful nature a slave to the law of sin."*
 
 Our mind, or our spirit, the part that comes alive when we received Christ and the Holy Spirit as a seal of our redemption, loves and obey the law of God. This part does not have any trouble in such a way that it needs to surrender.
 
@@ -74,11 +75,9 @@ Thou hast my ransom paid;<br />
 I yield to Thee.
 </p>
 
-The hymn's author claims that he can do what the apostle Paul said was impossible. According to Paul, there's no need for the spirit, which already serves and obeys the law of God, to surrender, therefore all calls to surrender, or to put Jesus in control, must involve the flesh. However we learned from the Galatians and Romans passages that the flesh will not, and cannot, submit to the law of God, therefore any attempt to tame the flesh which is a slave to sin would lead to frustration and ultimately a doubt of one's own salvation.
+The hymn suggests a willingness, and a decision is made, by the surrendering person to submit to God. But what did Paul write about the flesh? We learned from the Galatians and Romans passages that the flesh will not, and cannot, submit to the law of God. So if we apply Paul's reasoning to the hymn, though its author may want to surrender to God, his or her flesh *"does not submit to the law of God, nor is it able to do so."* This hymn reflects the sentiment of the majority of Christians who are tired of the constant struggles and simply want to lay down and rest.
 
-Isn't this the reason why so many in churches cannot give a positive answer to the question of the assurance of their salvation, resulting in a walk with God that is less than victorious?
-
-Of course we know the reason why. The noble call to surrender to God, to put Jesus in control of one's life, is pervasive in Christian literature and communications to the point it takes precedence over the truth set forth in Romans 7:25 which is representative of virtually the entire book of Romans and all of Paul's epistles. This sets them up for constant failure because it is clear from verse 25 that *"So then, ... with my flesh I serve the law of sin."* There in lies the dilemma.
+The apostle Paul suggests we do not try to control the flesh, but to walk in the Spirit. We overcome the flesh by not doing battle with it, by not focusing on putting it under submission, but to walk in the Spirit. It will become clearer as we enter the next section.
 
 ## Walk in the Spirit
 
@@ -90,6 +89,8 @@ Here Paul shows us how to NOT gratify the desires of the flesh, or in other word
 
 But what does it mean to walk by the spirit? To pray all the time? To consciously put oneself in God's presence? Read more Bible? Practicing God's Presence?
 
+What motivates someone to wish for a state of surrender? Isn't it because of the constant struggle against what that they hate but end up doing anyway because the spirit is willing but the flesh is weak?
+
 Here we must ask ourselves what is the role of the Holy Spirit in our relationship with God? Jesus describes the role of the Holy Spirit as follows:
 
 <p class="blockquote"><sup>8</sup>And when he comes, he will prove the world wrong concerning sin and righteousness and judgment – <sup>9</sup><u>concerning sin, because they do not believe in me</u>; (John 16:8-9)</p>
@@ -98,7 +99,7 @@ Jesus made it simple for us to understand the true meaning of sin, of what separ
 
 When one walks according to God's new law: the law of the spirit of life, which says he who believes on the Son will have eternal life (John 3:36), one experiences a rest from the never ending treadmill of performance where a sense of surrender comes without effort, like a child resting in its mother's arms. That is how we walk by the spirit. That is how we surrender; not by struggling against flesh and blood (Ephesians 6:12), but by faith, by trusting in Christ's finished work on the cross.
 
-To surrender from a flesh-based perspective is a never-ending process which will not get one to the place of true yielding to God, but to walk by the Spirit is a once for all act of placing our trust in Christ: It's Finished!
+To surrender from a flesh-based perspective is a never-ending process which will not get one to the place of true yielding to God, but to walk by the Spirit is a once for all act of placing our trust in Christ: It's Finished! If the world has been wrong concerning sin, it has also been wrong concerning their trying to surrender. Because sin is not about transgressions, but about unbelief in Christ, so it is with surrender, it is not about trying to overcome the flesh, but it's about resting in the finished work of Christ. One is a never ending treadmill of repeated sacrifices, the other is a once-for-all act by the One who comes from God.
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->
