@@ -91,6 +91,8 @@ But what does it mean to walk by the spirit? To pray all the time? To consciousl
 
 What motivates someone to wish for a state of surrender? Isn't it because of the constant struggle against what that they hate but end up doing anyway because the spirit is willing but the flesh is weak?
 
+There is still one more important point that we can easily miss in verse 18: *"But if you are led by the Spirit, you are not under the law."* It is the law that amplifies the struggle with the flesh, just like it is written in 1 Corinthians 15:56 which says *"the power of sin is the law."* When someone lives under the law, there is a need to control the flesh, to put it into submission, to make it do the impossible: to submit to the law of God. Verse 18 shows us that it's the law that puts one in this constant struggle, but you can be set free from the law by walking in the Spirit.
+
 Here we must ask ourselves what is the role of the Holy Spirit in our relationship with God? Jesus describes the role of the Holy Spirit as follows:
 
 <p class="blockquote"><sup>8</sup>And when he comes, he will prove the world wrong concerning sin and righteousness and judgment – <sup>9</sup><u>concerning sin, because they do not believe in me</u>; (John 16:8-9)</p>
