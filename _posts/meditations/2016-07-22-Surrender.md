@@ -19,7 +19,7 @@ categories:
 
 <!-- ##################### PLACEHOLDER ################### -->
 
-<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/dau-phuc-Chua/">(Bấm vào đây để đọc tiếng Việt&mdash;bài đang được chuyển dịch qua Việt ngữ ...)</a></em>
+<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/dau-phuc-Chua/">(Bấm vào đây để đọc tiếng Việt)</a></em>
 
 ## The dilemma
 
