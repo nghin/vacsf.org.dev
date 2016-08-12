@@ -2,7 +2,7 @@
 layout: page-fullwidth
 subheadline: "Sin no more?"
 title: "Resist Unto Blood"
-meta_description: "Hebrews 12:4. What is the meaning of \"You have not yet resisted unto blook, striving against sin\"? Is the goal of Christians to avoid sinning at all cost?"
+meta_description: "Hebrews 12:4. What is the meaning of \"You have not yet resisted unto blood, striving against sin\"? Is the goal of Christians to avoid sinning at all cost?"
 teaser: "Hebrews<span style=\"color: rgba(0,0,0,0);\">_</span>12:4 writes: \"You have not yet resisted unto blood, striving against sin,\" and across the globe, the common message from pulpits everywhere is resist sin at all cost even to the point you have to shed blood, even if it kills you. This article will prove otherwise, that the common interpretation is faulty at best, and causes enormous pain and confusion to those who seek to lead a life worthy of their salvation."
 permalink: /bible-topics/meditations/resist-unto-blood/
 breadcrumbs: true
@@ -66,7 +66,9 @@ The sins in the context of these verses that Christ had to endure are not his ow
 
 Under the Old Covenant, the animals shed blood as a remedy for sins, but only for a limited time and then must be repeated again. They didn't shed blood for their own sins, or for characters to be built into them, but they did as a foreshadow of the final shedding of blood of the Lamb of God. Christ shed blood to end all other shedding of blood.
 
-What are you supposed to be shedding blood for? No, it would have served no purpose except your own; not dissimilar to offering strange fire (Leviticus 10:1) or self-appointed priesthood (Numbers 16).
+What are you supposed to be shedding your blood for? Nothing. It would have served no purpose except your own; not dissimilar to offering strange fire (Leviticus 10:1) or self-appointed priesthood (Numbers 16).
+
+In our house, when our kids are picky about the food we feed them, we like to tell them about kids in some other places of the world who'd love to have what they're taking for granted; you guys haven't had to work a day of your lives, you haven't had to go to sleep worrying about whether you would have food tomorrow. Perhaps it's here Paul should write: *"I'm speaking in human terms because of the weakness of your flesh (Romans 6:19)."* 
 
 ## The real weight and sin
 
@@ -82,11 +84,13 @@ It stands to reason then that the only way to get rid of every weight and the si
 
 ## Fix your eyes on Christ
 
-Nothing can help us get rid of all the weight and the sin that easily entangles, not even somehow someone possesses the ability to withstand all temptations, nothing except one: Christ's substitutionary death on the cross and our faith in such sacrifice.
+Nothing can help us get rid of all the weight and the sin that easily entangles, not even when somehow someone possesses the ability to withstand all temptations, nothing except one: Christ's substitutionary death on the cross and our faith in such sacrifice.
 
 This is exactly what the apostle wrote in verse 2: *"keeping our eyes fixed on Jesus."* That is the only way that works, the only way that can get rid of all the weight and the sin that easily entangles.
 
 And the part about Christ's resisting unto blood, it is clear from the context of the passage that what Christ had to endure was his journey to the cross to save mankind which includes the shedding of his precious blood. He shed blood so we didn't have to. The battle against sin had been won by Christ, ours is simply to keep our eyes on Him, and walk the remainder of our days by faith.
+
+Christianity is not like the rest of the religions of the world who like to play the game of Whac-A-Mole. At least it's not supposed to be. But in reality this game is widely played within the Christian faith, and they're doing the exact opposite of what Paul tells them to do.
 
 {% include bible-study/bible-study-footer %}
 </div><!-- /.medium-8.columns -->

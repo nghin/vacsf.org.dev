@@ -12,6 +12,7 @@ header: no
 <div class="small-12 columns" style="padding: 0px; border-bottom: none;">
 
 <ul class="side-nav">
+      <li><a href="{{ site.baseurl }}/bible-topics/meditations/resist-unto-blood/">Resist Unto Blood</a><p style="font-weight: normal;"><em>"Therefore, ... we must get rid of every weight and the sin that easily entangles ... You have not yet resisted to the point of bloodshed in your struggle against sin (Hebrews<font style="color: rgba(0,0,0,0);">_</font>12:1-4)."</em> How have you really understood these verses all these years?</p></li>
       <li><a href="{{ site.baseurl }}/bible-topics/meditations/surrender/">The Art of Surrender</a><p style="font-weight: normal;">It's really not about surrendering. It's a by-product, a fruit, of a shifting of foundation in how one walks with God. It has more to do with understanding than with sheer effort.</p></li>
       <li><a href="{{ site.baseurl }}/bible-topics/meditations/remain-in-sin/">Remaining In Sin</a><p style="font-weight: normal;">How to fulfill Paul's exhortation to escape sin</p></li>
       <li><a href="{{ site.baseurl }}/bible-topics/meditations/loving-god/">Loving God</a><p style="font-weight: normal;">What do people really mean when they say they love God?</p></li>
