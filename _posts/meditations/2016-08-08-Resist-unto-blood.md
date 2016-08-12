@@ -3,7 +3,7 @@ layout: page-fullwidth
 subheadline: "Sin no more?"
 title: "Resist Unto Blood"
 meta_description: "Hebrews 12:4. What is the meaning of \"You have not yet resisted unto blood, striving against sin\"? Is the goal of Christians to avoid sinning at all cost?"
-teaser: "Hebrews<span style=\"color: rgba(0,0,0,0);\">_</span>12:4 writes: \"You have not yet resisted unto blood, striving against sin,\" and across the globe, the common message from pulpits everywhere is resist sin at all cost even to the point you have to shed blood, even if it kills you. This article will prove otherwise, that the common interpretation is faulty at best, and causes enormous pain and confusion to those who seek to lead a life worthy of their salvation."
+teaser: "Hebrews<span style=\"color: rgba(0,0,0,0);\">_</span>12:4 writes: <em>\"You have not yet resisted unto blood, striving against sin,\"</em> and across the globe, the common message from pulpits everywhere is resist sin at all cost even to the point you have to shed blood, even if it kills you. This article will prove otherwise, that the common interpretation is faulty at best, and causes enormous pain and confusion to those who seek to lead a life worthy of their salvation."
 permalink: /bible-topics/meditations/resist-unto-blood/
 breadcrumbs: true
 header: no
