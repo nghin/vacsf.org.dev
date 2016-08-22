@@ -69,7 +69,7 @@ What was the role of blood in this context be it of animals or of the Son of God
 
 Therefore *"You have not yet resisted to the point of bloodshed in your struggle against sin"* is not about struggling against sinful temptation, but about how you can pay for the sins that you have and will have committed. All men sin, the problem is how they can pay for them. In the Old Covenant, it was the bulls and goats that paid for them ceremonially, while in the New Covenant Christ paid for them now and forevermore. That is how He resists sin. Don't you see Christ cannot be tempted because not only does He not have a sin nature, He is Almighty God. His purpose in shedding His own blood is entirely different from what contemporary pulpits try to apply to the controlling of the flesh. Additionally, we should have learned this already from the reason why the animals had to shed their blood: not for fighting against sinful temptations, but for the forgiveness of men's sins.
 
-I think from this point on we can eliminate the shedding of blood from the equation. But the article cannot end here though its's title is "Resist Unto Blood." The application that is similarly derived from the concepts of "drifting away" and "the sin that easily entangles" still needs further treatment because their implication is profound.
+I think from this point on we can eliminate the shedding of blood from the equation. But the article cannot end here though its title is "Resist Unto Blood." The application that is similarly derived from the concepts of "drifting away" and "the sin that easily entangles" still needs further treatment because their implication is profound.
 
 ## Back to "The Sin"
 
