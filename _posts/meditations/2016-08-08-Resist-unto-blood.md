@@ -91,7 +91,7 @@ Then years after Jesus had gone back to heaven leaving in man's hand the ministr
 
 God's rest is the place where sins are forgiven, where man with unveiled faces can be in God's presense without shame, where man can relate to God as Abba, Father. The Hebrews writer reminded his audience of the time when God's people arrived at the Jordan river, all they needed to do were to obey God's command to cross the Jordan to enter the promised land. Instead of believing God's promise to bring them to the promised land, instead of listening to Joshua and Caleb, they chose to listen to the ten other spies who reported giants in the land. This was their disobedience, this was their unbelief that prompted God's anger when He swore that *"they would never enter His rest."*
 
-Again here the Hebrews writer reaffirm what Jesus said concerning sin: UNBELIEF.
+Again here the Hebrews writer reaffirmed what Jesus said concerning sin: UNBELIEF.
 
 That is the sin that easily entangles. That is the sin that causes so many folks to not believing in Jesus' promise of salvation to those who believe in Him. This is the sin that crops up from ministries that are supposed to reconcile men to God but instead caused them to further drift from God, when they proved themselves wrong concerning sin by focusing all their energy in fighting a wrong battle, when they focus on the sins (plural) instead of helping folks to firmly believe in the one that God had sent (John 6:29).
 
