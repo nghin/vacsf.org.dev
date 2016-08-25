@@ -19,8 +19,8 @@ categories:
 
 <!-- ##################### PLACEHOLDER ################### -->
 
-<!-- <em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/chong-tra-toi-loi/">(Bấm vào đây để đọc tiếng Việt&mdash;bài đang được chuyển dịch qua Việt ngữ ...)</a></em> -->
-<em><a href="{{ site.baseurl }}/bible-topics/meditations/resist-unto-blood/">(Bấm vào đây để đọc tiếng Việt&mdash;bài đang được chuyển dịch qua Việt ngữ ...)</a></em>
+<!-- <em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/chong-tra-toi-loi/">(Bấm vào đây để đọc tiếng Việt)</a></em> -->
+<em><a href="{{ site.baseurl }}/hoc-kinh-thanh/suy-gam/chong-tra-toi-loi/">(Bấm vào đây để đọc tiếng Việt)</a></em>
 
 ## Introduction
 
@@ -97,7 +97,7 @@ That is the sin that easily entangles. That is the sin that causes so many folks
 
 ## The drift away ...
 
-Let us revisit Hebrews 2:1 which says: *"Therefore we must pay closer attention to what we have heard, so that we do not drift away."* What had we heard? What but the simple truth that the ultimate sin is the sin of unbelief? Didn't they hear that those who have the Son have eternal life (1 John 5:2)? Didn't we remember what happened to those who didn't cross the Jordan to enter the promise land because of their unbelief? Didn't they remember what Jesus said when He still walked among them saying the real sin is the sin of not believing in Him (John 16:8)?
+Let us revisit Hebrews 2:1 which says: *"Therefore we must pay closer attention to what we have heard, so that we do not drift away."* What had they heard? What but the simple truth that the ultimate sin is the sin of unbelief? Didn't they hear that those who have the Son have eternal life (1 John 5:2)? Didn't they remember what happened to those who didn't cross the Jordan to enter the promise land because of their unbelief? Didn't they remember what Jesus said when He still walked among them saying the real sin is the sin of not believing in Him (John 16:8)?
 
 Don't drift away from that simple but everlasting truth: Jesus is the Way, the Truth, and the Life. Don't add anything to it, and don't take anything away from it.
 
