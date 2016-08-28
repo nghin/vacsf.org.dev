@@ -8,7 +8,7 @@ permalink: /hoc-kinh-thanh/suy-gam/chong-tra-toi-loi/
 breadcrumbs: true
 header: no
 image:
-    thumb: "/thumbs/placeholder.jpg"
+    thumb: "/thumbs/resist-unto-blood.jpg"
 categories:
     - bible-study
 ---
@@ -23,7 +23,7 @@ categories:
 
 <div>
 <p>
-<img alt src="{{ site.baseurl }}/images/placeholder.jpg" style="border: 0px none; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
+<img alt src="{{ site.baseurl }}/images/resist-unto-blood.jpg" style="border: 1px solid #cccccc; margin: 7px 15px 0px 0px; max-width: 100%; height: 136px; padding: 0px; float: left;">
 Phúc Âm nghe rất hấp dẫn nhất là đối với những kẻ đã từng lao lực trên con đường tôn giáo mà chẳng có hy vọng gì về sự cứu rỗi. Họ nghe nói về lời hứa của Chúa Giê-su về nước hằng sống, về sự an nghỉ cho người mệt mỏi vì gánh nặng, về sự bình an vượt ngoài sự hiểu biết, và về sự Chúa đã chịu chết để cất đi gánh nặng tội lỗi của cả nhân loai, và họ đặt niềm hy vọng vào tôn giáo tuyệt vời đó. Nhưng một khi họ vào trong niềm tin, sau một giai đoạn trăng mật với niềm vui khó tả, chợt họ thấy mình lại quay về trên con đường cũ. Họ bối rối nhưng không biết rõ điều gì thực sự đã xảy ra. Những sự giảng dạy họ nghe từ các tòa giảng những thập niên qua nghe dường như khác với điều họ đã nghe khi còn bước đi trong tăm tối. Họ đã thường được nghe về sự tha thứ tội lỗi, bây giờ họ chỉ nghe về những cảnh cáo về tội lỗi mà họ phải "chống trả dù có phải đổ máu." Đối với họ, những người tín hữu Cơ-đốc vẫn chưa giải quyết được vấn đề tội lỗi.
 </p>
 
